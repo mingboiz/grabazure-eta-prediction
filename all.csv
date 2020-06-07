@@ -1,4 +1,4 @@
-trj_id,avg_speed,osname,hour,day,day of apr,is_Weekday,time_group,origin_lat,origin_lng,dest_lat,dest_lng,duration,euclid_dist,avg_bearing
+trj_id,avg_speed,osname,hour,day of week,day,is_Weekday,time_group,origin_lat,origin_lng,dest_lat,dest_lng,duration,euclid_dist,avg_bearing
 10,9.21161887,android,11,1,9,1,day,1.3017751,103.7992566,1.3580012,103.8451597,1149,8070.127411,9.747857011
 100,16.39867129,ios,2,1,16,1,late night,1.345079397,103.9384739,1.335206507,103.8422074,993,10757.58162,248.5401712
 1000,16.51063375,ios,0,3,11,1,late night,1.435317453,103.7886447,1.368858232,103.861007,856,10923.16358,167.5883732

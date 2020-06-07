@@ -76,8 +76,8 @@ df.sort_values('pingtimestamp', axis=0, inplace=True, kind='mergesort')
 # Creating new columns
 df['avg_speed'] = df.speed
 df['hour'] = df.pingtimestamp
+df['day of week'] = df.pingtimestamp
 df['day'] = df.pingtimestamp
-df['day of apr'] = df.pingtimestamp
 df['is_Weekday'] = df.pingtimestamp
 df['time_group'] = df.pingtimestamp
 df['origin_lat'] = df.rawlat
@@ -91,8 +91,8 @@ print('Aggregating the columns now')
 df = df.groupby('trj_id', as_index=False).agg({'avg_speed': 'mean',
                                                'osname': 'first',
                                                'hour': lambda x: pd.to_datetime(min(x), unit='s').hour,
-                                               'day': lambda x: pd.to_datetime(min(x), unit='s').dayofweek,
-                                               'day of apr': lambda x: pd.to_datetime(min(x), unit='s').day,
+                                               'day of week': lambda x: pd.to_datetime(min(x), unit='s').dayofweek,
+                                               'day': lambda x: pd.to_datetime(min(x), unit='s').day,
                                                'is_Weekday': lambda x: 1 if pd.to_datetime(min(x), unit='s').weekday() < 5 else 0,
                                                'time_group': lambda x: TimeGroup(pd.to_datetime(min(x), unit='s').hour),
                                                'origin_lat': 'first',
