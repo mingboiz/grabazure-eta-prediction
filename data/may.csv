@@ -1,0 +1,1524 @@
+,date,day,hour,days_of_week,text
+0,2019-05-31 16:13:16,31,16,Friday,Accident on AYE (towards MCE) after Jurong Town Hall Exit
+1,2019-05-31 16:07:54,31,16,Friday,Accident on AYE (towards Tuas) before Jurong Town Hall Exit
+2,2019-05-31 15:58:47,31,15,Friday,Accident in CTE Tunnel (towards SLE) after Merchant Rd Exit. Avoid lane 1
+3,2019-05-31 14:53:08,31,14,Friday,Accident on TPE (towards PIE) after Pasir Ris Dr 8 Exit. Avoid lane 4
+4,2019-05-31 14:06:35,31,14,Friday,Accident on PIE (towards Changi Airport) after Jalan Eunos with congestion till Kallang. Avoid lane 1
+5,2019-05-31 14:04:20,31,14,Friday,Heavy Traffic in CTE Tunnel (towards SLE) before Cairnhill Circle Entrance
+6,2019-05-31 14:02:46,31,14,Friday,Accident on PIE (towards Changi Airport) after Jalan Eunos. Avoid lane 1
+7,2019-05-31 13:59:30,31,13,Friday,Accident in CTE Tunnel (towards SLE) before Cairnhill Circle Entrance with congestion till Merchant Rd Exit. Avoid lane 1
+8,2019-05-31 13:52:03,31,13,Friday,Accident in CTE Tunnel (towards SLE) before Cairnhill Circle Entrance. Avoid lane 1
+9,2019-05-31 13:26:56,31,13,Friday,Accident on PIE (towards Changi Airport) after Thomson Rd with congestion till Toa Payoh Lor 1. Avoid lane 1
+10,2019-05-31 13:24:44,31,13,Friday,Accident on PIE (towards Changi Airport) after Thomson Rd. Avoid lane 1
+11,2019-05-31 12:14:09,31,12,Friday,Accident on TPE (towards SLE) at KPE(ECP) Exit
+12,2019-05-31 11:52:44,31,11,Friday,Accident on PIE (towards Tuas) after Bedok North Rd
+13,2019-05-31 11:51:42,31,11,Friday,Accident on PIE (towards Tuas) before Paya Lebar Rd. Avoid lane 4
+14,2019-05-31 11:26:02,31,11,Friday,Accident on PIE (towards Tuas) after Bedok North Rd. Avoid lane 1
+15,2019-05-31 11:13:06,31,11,Friday,Accident on TPE (towards PIE) after Punggol Rd Exit with congestion till Sengkang Exit. Avoid lane 1
+16,2019-05-31 11:07:41,31,11,Friday,Accident on KPE (towards ECP) at Airport Road Entrance
+17,2019-05-31 11:06:05,31,11,Friday,Accident on TPE (towards PIE) after Punggol Rd Exit with congestion till Punggol Rd Exit. Avoid lane 1
+18,2019-05-31 11:03:53,31,11,Friday,Accident on TPE (towards PIE) after Punggol Rd Exit. Avoid lane 1
+19,2019-05-31 09:59:30,31,9,Friday,Accident on KPE (towards TPE) at PIE Exit
+20,2019-05-31 09:44:54,31,9,Friday,Heavy Traffic on ECP (towards Changi Airport) after Still Rd Sth Exit
+21,2019-05-31 09:37:55,31,9,Friday,Accident on AYE (towards Tuas) after Buona Vista exit. Avoid lane 1
+22,2019-05-31 09:22:19,31,9,Friday,Accident on ECP (towards Changi Airport) after Still Rd Sth Exit with congestion till Fort Rd Exit
+23,2019-05-31 08:59:42,31,8,Friday,Accident on PIE (towards Changi Airport) at Lornie Highway Entrance
+24,2019-05-31 08:44:32,31,8,Friday,Accident on ECP (towards Changi Airport) after Still Rd Sth Exit with congestion till Fort Rd Exit. Avoid lane 1
+25,2019-05-31 08:32:40,31,8,Friday,Accident on ECP (towards Changi Airport) after Still Rd Sth Exit. Avoid lane 1
+26,2019-05-31 08:29:55,31,8,Friday,Accident on BKE (towards Woodlands) before Woodlands Rd Exit. Avoid lanes 3 and 4
+27,2019-05-31 08:14:13,31,8,Friday,Accident on BKE (towards Woodlands) before Woodlands Rd Exit. Avoid lane 4
+28,2019-05-31 07:52:39,31,7,Friday,Accident on BKE (towards Woodlands) before Woodlands Rd Exit. Avoid lane 2
+29,2019-05-31 06:51:23,31,6,Friday,Accident on AYE (towards Tuas) after Lower Delta Rd Exit. Avoid lane 1
+30,2019-05-31 06:35:49,31,6,Friday,Accident on Clementi Road (towards Ulu Pandan Road) after Clementi Avenue 2
+31,2019-05-31 06:13:49,31,6,Friday,Accident on CTE (towards AYE) after Moulmein Rd Exit. Avoid lane 5
+32,2019-05-31 06:12:14,31,6,Friday,Accident on CTE (towards AYE) after Moulmein Rd Exit. Avoid lane 1
+33,2019-05-31 06:10:02,31,6,Friday,Heavy Traffic on AYE (towards MCE) at Alexandra Rd Exit
+34,2019-05-31 06:02:03,31,6,Friday,Accident on Jurong Port Road (towards Jalan Terusan) after Jalan Buroh
+35,2019-05-31 05:50:49,31,5,Friday,Accident on Jurong Port Road (towards Jalan Terusan) after Jalan Ahmad Ibrahim
+36,2019-05-31 05:40:02,31,5,Friday,Accident on AYE (towards MCE) at Alexandra Rd Exit
+37,2019-05-31 05:01:00,31,5,Friday,Accident on PIE (towards Tuas) after KPE Exit
+38,2019-05-31 04:13:58,31,4,Friday,Accident on KPE (towards ECP) after Tampines Rd Exit
+39,2019-05-31 03:16:14,31,3,Friday,Accident on PIE (towards Changi Airport) before Bedok North Rd with congestion till Paya Lebar Rd. Avoid lane 1
+40,2019-05-31 03:14:03,31,3,Friday,Accident on PIE (towards Changi Airport) before Bedok North Rd with congestion till Paya Lebar Rd. Avoid lanes 1 and 2
+41,2019-05-31 03:01:12,31,3,Friday,Accident on PIE (towards Changi Airport) before Bedok North Rd. Avoid lanes 1 and 2
+42,2019-05-31 03:01:12,31,3,Friday,Accident on KPE (towards ECP) after Tampines Rd Exit. Avoid lane 2
+43,2019-05-31 02:42:25,31,2,Friday,Accident on KPE (towards ECP) after Tampines Rd Exit. Avoid lane 3
+44,2019-05-31 02:36:35,31,2,Friday,Obstacle on PIE (towards Tuas) after Paya Lebar Rd. Avoid lane 1
+45,2019-05-31 02:36:03,31,2,Friday,Obstacle on KPE (towards TPE) at PIE(Tuas) Exit
+46,2019-05-31 01:35:23,31,1,Friday,Obstacle on PIE (towards Tuas) after Paya Lebar Rd. Avoid lane 2
+47,2019-05-31 01:34:52,31,1,Friday,Obstacle on PIE (towards Tuas) after Paya Lebar Rd. Avoid lanes 1 and 2
+48,2019-05-31 00:46:42,31,0,Friday,Accident on CTE (towards SLE) at Jalan Bukit Merah Entrance
+49,2019-05-31 00:31:43,31,0,Friday,Accident on PIE (towards Changi Airport) after Bukit Timah Rd exit. Avoid lane 1
+50,2019-05-31 00:25:53,31,0,Friday,Accident on TPE (towards PIE) after Pasir Ris Dr 8 Exit
+51,2019-05-30 22:51:57,30,22,Thursday,Accident on BKE (towards Woodlands) after PIE Entrance
+52,2019-05-30 22:49:47,30,22,Thursday,Accident on BKE (towards Woodlands) after PIE Entrance. Avoid lane 1
+53,2019-05-30 19:47:19,30,19,Thursday,Accident on CTE (towards SLE) at PIE Exit
+54,2019-05-30 19:32:34,30,19,Thursday,Accident on SLE (towards CTE) before TPE Exit. Avoid lane 3
+55,2019-05-30 17:34:04,30,17,Thursday,Obstacle on SLE (towards BKE) after Lentor Ave Exit. Avoid lanes 3 and 4
+56,2019-05-30 16:10:28,30,16,Thursday,Accident in CTE Tunnel (towards AYE) at Merchant Road Entrance
+57,2019-05-30 15:21:56,30,15,Thursday,Obstacle on MCE (towards AYE) after Maxwell Rd Exit. Avoid lane 4
+58,2019-05-30 14:29:49,30,14,Thursday,Accident on PIE (towards Tuas) after Eng Neo Ave
+59,2019-05-30 14:24:30,30,14,Thursday,Accident on CTE (towards SLE) after PIE(Changi) Exit with congestion till Jalan Bahagia Exit. Avoid lane 1
+60,2019-05-30 14:22:52,30,14,Thursday,Accident on CTE (towards SLE) after PIE(Changi) Exit. Avoid lane 1
+61,2019-05-30 13:32:59,30,13,Thursday,Accident on SLE (towards BKE) before Woodlands Ave 12 Exit. Avoid lane 1
+62,2019-05-30 12:35:51,30,12,Thursday,Accident on CTE (towards SLE) after Moulmein Rd Exit. Avoid lane 4
+63,2019-05-30 12:30:26,30,12,Thursday,Obstacle on PIE (towards Changi Airport) after Kallang Way
+64,2019-05-30 11:36:35,30,11,Thursday,Accident on Victoria Street near Ophir Road/Victoria Street Junction
+65,2019-05-30 11:08:16,30,11,Thursday,Accident on Ophir Road (towards Victoria Street) after Queen Street. Avoid left lane
+66,2019-05-30 11:00:50,30,11,Thursday,Accident on PIE (towards Tuas) after Eng Neo Ave with congestion till Adam Rd Exit. Avoid lane 4
+67,2019-05-30 10:54:23,30,10,Thursday,Accident on PIE (towards Tuas) after Eng Neo Ave. Avoid lane 4
+68,2019-05-30 10:28:20,30,10,Thursday,Accident on Bukit Panjang Road near Bangkit Road/Bukit Panjang Road Junction
+69,2019-05-30 10:24:05,30,10,Thursday,Heavy Traffic on PIE (towards Tuas) after Toh Guan Rd Exit
+70,2019-05-30 10:00:40,30,10,Thursday,Accident on PIE (towards Tuas) after Toh Guan Rd Exit with congestion till Clementi Ave 6 Exit. Avoid lane 4
+71,2019-05-30 09:59:31,30,9,Thursday,Accident on TPE (towards PIE) after Pasir Ris Dr 8 Exit. Avoid lane 4
+72,2019-05-30 09:58:26,30,9,Thursday,Accident on PIE (towards Tuas) after Toh Guan Rd Exit. Avoid lane 4
+73,2019-05-30 09:37:45,30,9,Thursday,Heavy Traffic on PIE (towards Tuas) after BKE
+74,2019-05-30 09:28:39,30,9,Thursday,Heavy Traffic on AYE (towards Tuas) after Lower Delta Rd Exit
+75,2019-05-30 09:13:09,30,9,Thursday,Accident on AYE (towards Tuas) after Lower Delta Rd Exit with congestion till Lower Delta Rd Exit. Avoid lane 1
+76,2019-05-30 09:11:35,30,9,Thursday,Accident on PIE (towards Tuas) after BKE with congestion till Eng Neo Ave. Avoid lane 2
+77,2019-05-30 09:09:52,30,9,Thursday,Accident on AYE (towards Tuas) after Lower Delta Rd Exit. Avoid lane 1
+78,2019-05-30 09:04:00,30,9,Thursday,Accident on PIE (towards Tuas) after BKE with congestion till BKE. Avoid lane 2
+79,2019-05-30 08:53:18,30,8,Thursday,Accident on PIE (towards Tuas) after BKE with congestion till BKE. Avoid lanes 2 and 3
+80,2019-05-30 08:50:41,30,8,Thursday,Accident on PIE (towards Tuas) after BKE. Avoid lanes 2 and 3
+81,2019-05-30 07:58:15,30,7,Thursday,Obstacle on TPE (towards PIE) after Pasir Ris Dr 12 Exit. Avoid lane 3
+82,2019-05-30 07:47:34,30,7,Thursday,Accident on CTE (towards SLE) after AMK Ave 1 Exit with congestion till Braddell Rd Exit
+83,2019-05-30 07:43:17,30,7,Thursday,Accident on CTE (towards SLE) after AMK Ave 1 Exit
+84,2019-05-30 07:13:25,30,7,Thursday,Accident on ECP (towards Changi Airport) before Tg Katong Rd Exit
+85,2019-05-30 06:49:31,30,6,Thursday,Accident on MCE (towards ECP) at ECP (Changi) Exit
+86,2019-05-30 06:42:06,30,6,Thursday,Obstacle on CTE (towards SLE) after AMK Ave 3 Exit. Avoid lane 3
+87,2019-05-30 04:01:14,30,4,Thursday,Accident on PIE (towards Tuas) after CTE(SLE) Exit
+88,2019-05-30 03:43:16,30,3,Thursday,Accident on PIE (towards Tuas) after CTE(SLE) Exit. Avoid lane 1
+89,2019-05-30 02:53:19,30,2,Thursday,Heavy Traffic on CTE (towards AYE) before PIE(Changi) Exit
+90,2019-05-30 02:19:37,30,2,Thursday,Temporary Closure of Slip Roads at CTE Tunnel starting 4 Jun from midnight to 5.00 a.m daily. More details: http://bit.ly/2I8O76X #sgtraffic
+91,2019-05-30 02:18:54,30,2,Thursday,Temporary Closure of Slip Roads at KPE Tunnel starting on 1 Jun (Sat) from midnight to 5.00 a.m. More details: http://bit.ly/2Mrpwj0 #sgtraffic
+92,2019-05-30 02:17:17,30,2,Thursday,"Temporary Road Closure along Serangoon Road on Thursday, 6 June 2019 and Friday, 7 June 2019 from 1.30 a.m to 5.00 a.m daily. #sgtraffic http://bit.ly/2Wv42G4"
+93,2019-05-30 02:16:53,30,2,Thursday,"Temporary Closure of Slip Roads at MCE Tunnel on 1 Jun (Sat), 13 Jun (Thu) and 19 Jun (Wed) from midnight to 5.00 a.m. #sgtraffic http://bit.ly/2QubxHC"
+94,2019-05-30 02:15:45,30,2,Thursday,"Commissioning of New Signalised Pedestrian Crossings at Yishun Avenue 1 on Monday, 3 June 2019 at 9.30 a.m. #sgtraffic http://bit.ly/2VZOoxQ"
+95,2019-05-30 02:07:48,30,2,Thursday,Accident on CTE (towards AYE) before PIE(Changi) Exit with congestion till AMK Ave 5 Exit. Avoid lanes 1 and 2
+96,2019-05-30 02:07:17,30,2,Thursday,Accident on KPE (towards ECP) after Tampines Rd Exit. Avoid lane 2
+97,2019-05-30 02:05:07,30,2,Thursday,Accident on CTE (towards AYE) before PIE(Changi) Exit. Avoid lanes 1 and 2
+98,2019-05-30 01:15:07,30,1,Thursday,Accident on SLE (towards CTE) before Mandai Ave Exit
+99,2019-05-30 01:13:01,30,1,Thursday,Accident in CTE Tunnel (towards SLE) after Outram Rd Exit
+100,2019-05-30 01:04:36,30,1,Thursday,Accident on AYE (towards Tuas) before Jurong Town Hall Exit. Avoid lane 3
+101,2019-05-30 00:56:45,30,0,Thursday,Heavy Traffic on BKE (towards PIE) after Dairy Farm Rd Entrance
+102,2019-05-30 00:34:36,30,0,Thursday,Accident on BKE (towards PIE) after Dairy Farm Rd Entrance with congestion till KJE Exit. Avoid lane 1
+103,2019-05-30 00:24:05,30,0,Thursday,Accident on BKE (towards PIE) after Dairy Farm Rd Entrance with congestion till Bukit Panjang Rd Exit. Avoid lane 1
+104,2019-05-30 00:23:02,30,0,Thursday,Obstacle on PIE (towards Tuas) before Toh Guan Rd Exit. Avoid lane 3
+105,2019-05-30 00:22:00,30,0,Thursday,Accident on BKE (towards PIE) after Dairy Farm Rd Entrance. Avoid lane 1
+106,2019-05-30 00:03:03,30,0,Thursday,Accident on South Bridge Road (towards Upper Pickering Street) after North Canal Road. Avoid right lane
+107,2019-05-29 23:57:46,29,23,Wednesday,Accident on PIE (towards Changi Airport) after Eng Neo Ave
+108,2019-05-29 23:52:00,29,23,Wednesday,Accident on PIE (towards Changi Airport) after Eng Neo Ave. Avoid lane 5
+109,2019-05-29 23:15:38,29,23,Wednesday,Accident on SLE (towards CTE) after TPE Exit with congestion till TPE Exit. Avoid lane 2
+110,2019-05-29 23:08:42,29,23,Wednesday,Accident on BKE (towards PIE) before Dairy Farm Rd Exit. Avoid lane 4
+111,2019-05-29 23:01:50,29,23,Wednesday,Accident on SLE (towards CTE) after TPE Exit. Avoid lane 2
+112,2019-05-29 22:19:32,29,22,Wednesday,Accident on AYE (towards Tuas) before Normanton Exit. Avoid lanes 2 and 3
+113,2019-05-29 22:04:59,29,22,Wednesday,Accident on AYE (towards Tuas) before Normanton Exit. Avoid lane 3
+114,2019-05-29 22:01:52,29,22,Wednesday,Accident on AYE (towards Tuas) after Alexandra Rd Entrance. Avoid lane 3
+115,2019-05-29 21:52:02,29,21,Wednesday,Accident on PIE (towards Tuas) at BKE(Woodlands) Exit
+116,2019-05-29 20:16:39,29,20,Wednesday,Accident on CTE (towards SLE) after Moulmein Rd Exit. Avoid lanes 1 and 2
+117,2019-05-29 20:16:39,29,20,Wednesday,"Accident on CTE (towards SLE) after Moulmein Rd Exit. Avoid lanes 1, 2 and 3"
+118,2019-05-29 17:48:15,29,17,Wednesday,Accident in CTE Tunnel (towards AYE) after Bukit Timah Rd Exit. Avoid lane 4
+119,2019-05-29 17:21:37,29,17,Wednesday,Accident on Lornie Highway (towards Queensway) after MacRitchie viaduct. Avoid left lane
+120,2019-05-29 14:46:21,29,14,Wednesday,Accident on SLE (towards BKE) at BKE(PIE) Exit
+121,2019-05-29 13:40:28,29,13,Wednesday,Accident on BKE (towards PIE) at Bukit Panjang Rd Entrance
+122,2019-05-29 11:30:58,29,11,Wednesday,Accident on BKE (towards Woodlands) after Mandai Rd Exit
+123,2019-05-29 11:25:30,29,11,Wednesday,Accident on BKE (towards Woodlands) after Mandai Rd Exit. Avoid lane 2
+124,2019-05-29 08:18:07,29,8,Wednesday,Accident on CTE (towards SLE) at Ang Mo Kio Ave 1 Entrance
+125,2019-05-29 08:09:00,29,8,Wednesday,Accident on Thomson Road (towards Newton) after Balestier Road
+126,2019-05-29 08:05:56,29,8,Wednesday,Heavy Traffic on PIE (towards Changi Airport) before Kallang Way
+127,2019-05-29 08:01:11,29,8,Wednesday,Accident on PIE (towards Changi Airport) before Kallang Way with congestion till Kim Keat Link. Avoid lane 4
+128,2019-05-29 07:53:21,29,7,Wednesday,Accident on PIE (towards Changi Airport) before Kallang Way. Avoid lane 4
+129,2019-05-29 06:44:06,29,6,Wednesday,Accident on Clementi Avenue 6 (towards Clementi Loop) after Clementi Loop
+130,2019-05-29 06:00:00,29,6,Wednesday,Accident on Outram Road (towards Second Hospital Avenue) after Eu Tong Sen Street. Avoid right lane
+131,2019-05-29 05:48:29,29,5,Wednesday,Accident on Clementi Avenue 6 (towards Clementi Loop) after Clementi Loop. Avoid left lane
+132,2019-05-29 04:36:05,29,4,Wednesday,Accident on AYE (towards Tuas) before Buona Vista exit. Avoid lane 1
+133,2019-05-29 03:55:09,29,3,Wednesday,Accident on CTE (towards SLE) at PIE Exit
+134,2019-05-29 03:12:13,29,3,Wednesday,Heavy Traffic on PIE (towards Tuas) after Paya Lebar Rd
+135,2019-05-29 03:07:07,29,3,Wednesday,Accident on TPE (towards SLE) after Punggol Rd Exit. Avoid lane 2
+136,2019-05-29 03:00:14,29,3,Wednesday,Accident on PIE (towards Tuas) after Paya Lebar Rd with congestion till Jalan Eunos. Avoid lane 1
+137,2019-05-29 02:08:15,29,2,Wednesday,Accident on PIE (towards Tuas) after Paya Lebar Rd with congestion till Bedok North Rd. Avoid lane 1
+138,2019-05-29 02:00:34,29,2,Wednesday,Accident on PIE (towards Tuas) after Paya Lebar Rd. Avoid lane 1
+139,2019-05-29 01:30:59,29,1,Wednesday,Accident in CTE Tunnel (towards SLE) at Chin Swee Rd Entrance
+140,2019-05-29 01:17:16,29,1,Wednesday,Accident in CTE Tunnel (towards SLE) before Merchant Rd Exit. Avoid lane 3
+141,2019-05-29 00:56:05,29,0,Wednesday,Accident on MCE (towards AYE) at MCE(AYE) Entrance
+142,2019-05-29 00:47:35,29,0,Wednesday,Heavy Traffic on Upper Bukit Timah Road (towards City) after Old Jurong Road
+143,2019-05-29 00:35:32,29,0,Wednesday,Accident on Upper Bukit Timah Road (towards City) after Old Jurong Road with congestion till Bukit Panjang Road
+144,2019-05-29 00:21:58,29,0,Wednesday,Accident on Upper Bukit Timah Road (towards City) after Old Jurong Road with congestion till Gombak Drive
+145,2019-05-29 00:15:02,29,0,Wednesday,Accident on AYE (towards Tuas) at Clementi Rd Entrance
+146,2019-05-29 00:04:33,29,0,Wednesday,Accident on PIE (towards Tuas) at KPE(ECP) Exit
+147,2019-05-29 00:01:34,29,0,Wednesday,Accident on KPE (towards ECP) after Airport Rd Entrance. Avoid lane 3
+148,2019-05-28 23:58:29,28,23,Tuesday,Accident on PIE (towards Changi Airport) after Jalan Eunos. Avoid lane 2
+149,2019-05-28 23:53:53,28,23,Tuesday,Accident on TPE (towards PIE) after Punggol Rd Exit with congestion till Seletar Link Exit
+150,2019-05-28 23:51:39,28,23,Tuesday,Accident on Upper Bukit Timah Road (towards City) after Old Jurong Road with congestion till Cashew Road
+151,2019-05-28 23:41:44,28,23,Tuesday,Accident on Upper Bukit Timah Road (towards City) after Old Jurong Road
+152,2019-05-28 23:36:40,28,23,Tuesday,Accident on TPE (towards PIE) after Punggol Rd Exit with congestion till Seletar Link Exit. Avoid lane 2
+153,2019-05-28 23:27:35,28,23,Tuesday,Accident on BKE (towards PIE) before Mandai Rd Exit
+154,2019-05-28 23:24:32,28,23,Tuesday,Accident on BKE (towards PIE) before Mandai Rd Exit. Avoid lane 3
+155,2019-05-28 23:07:22,28,23,Tuesday,Accident on TPE (towards PIE) after Punggol Rd Exit with congestion till Punggol Rd Exit. Avoid lane 2
+156,2019-05-28 23:05:52,28,23,Tuesday,Accident on TPE (towards PIE) after Punggol Rd Exit. Avoid lane 2
+157,2019-05-28 12:39:56,28,12,Tuesday,Accident on CTE (towards SLE) after Braddell Rd Exit. Avoid lane 5
+158,2019-05-28 11:37:56,28,11,Tuesday,Accident on CTE (towards SLE) after PIE(Changi) Exit. Avoid lane 1
+159,2019-05-28 11:33:22,28,11,Tuesday,Accident on SLE (towards BKE) after Mandai Rd Exit
+160,2019-05-28 11:05:29,28,11,Tuesday,Accident on PIE (towards Changi Airport) before Kallang Way
+161,2019-05-28 10:40:11,28,10,Tuesday,Accident on SLE (towards BKE) after Mandai Rd Exit with congestion till Upper Thomson Rd Exit
+162,2019-05-28 10:36:00,28,10,Tuesday,Accident on AYE (towards MCE) after Yuan Ching Exit
+163,2019-05-28 10:32:12,28,10,Tuesday,Accident on PIE (towards Changi Airport) before Kallang Way with congestion till Toa Payoh Lor 1
+164,2019-05-28 10:23:01,28,10,Tuesday,Accident on PIE (towards Changi Airport) before Kallang Way with congestion till Toa Payoh Lor 1. Avoid lane 5
+165,2019-05-28 10:20:41,28,10,Tuesday,Accident on PIE (towards Changi Airport) before Kallang Way. Avoid lane 5
+166,2019-05-28 10:16:58,28,10,Tuesday,Accident on AYE (towards MCE) after Yuan Ching Exit with congestion till Yuan Ching Exit
+167,2019-05-28 10:13:09,28,10,Tuesday,Accident on CTE (towards AYE) before Braddell Rd/Lor Chuan Exit
+168,2019-05-28 09:58:59,28,9,Tuesday,Accident on SLE (towards BKE) after Mandai Rd Exit with congestion till Upper Thomson Rd Exit. Avoid lane 3
+169,2019-05-28 09:55:56,28,9,Tuesday,Accident on SLE (towards BKE) after Mandai Rd Exit. Avoid lane 3
+170,2019-05-28 09:52:08,28,9,Tuesday,Accident on PIE (towards Tuas) at Whitley Rd Entrance
+171,2019-05-28 09:46:49,28,9,Tuesday,Heavy Traffic on ECP (towards Changi Airport) after Tg Katong Rd Exit
+172,2019-05-28 09:46:05,28,9,Tuesday,Heavy Traffic on PIE (towards Changi Airport) before Toa Payoh Lor 1
+173,2019-05-28 09:43:46,28,9,Tuesday,Accident on AYE (towards MCE) after Yuan Ching Exit with congestion till Yuan Ching Exit. Avoid lane 1
+174,2019-05-28 09:42:17,28,9,Tuesday,Accident on AYE (towards MCE) after Yuan Ching Exit. Avoid lane 1
+175,2019-05-28 09:38:40,28,9,Tuesday,Accident on PIE (towards Changi Airport) before Toa Payoh Lor 1 with congestion till Stevens Rd Exit
+176,2019-05-28 09:28:03,28,9,Tuesday,Accident on PIE (towards Changi Airport) before Toa Payoh Lor 1 with congestion till Stevens Rd Exit. Avoid lane 1
+177,2019-05-28 09:21:55,28,9,Tuesday,Accident on PIE (towards Changi Airport) before Toa Payoh Lor 1. Avoid lane 1
+178,2019-05-28 09:08:51,28,9,Tuesday,Accident on PIE (towards Tuas) after Stevens Rd Exit. Avoid lane 1
+179,2019-05-28 08:45:13,28,8,Tuesday,Accident on ECP (towards Changi Airport) after Tg Katong Rd Exit with congestion till Fort Rd Exit. Avoid lanes 3 and 4
+180,2019-05-28 08:34:00,28,8,Tuesday,Accident on ECP (towards Changi Airport) after Tg Katong Rd Exit with congestion till Tg Katong Rd Exit. Avoid lanes 3 and 4
+181,2019-05-28 08:24:48,28,8,Tuesday,Accident on ECP (towards Changi Airport) after Tg Katong Rd Exit. Avoid lane 3
+182,2019-05-28 08:24:03,28,8,Tuesday,Accident on PIE (towards Tuas) after Toa Payoh Exit
+183,2019-05-28 07:56:05,28,7,Tuesday,Accident on Upper Serangoon Road (towards Sengkang) after Serangoon Central. Avoid left lane
+184,2019-05-28 07:43:02,28,7,Tuesday,Heavy Traffic on PIE (towards Changi Airport) after Thomson Rd
+185,2019-05-28 06:54:28,28,6,Tuesday,Accident on PIE (towards Changi Airport) after Thomson Rd with congestion till Lornie Rd. Avoid lane 1
+186,2019-05-28 06:31:50,28,6,Tuesday,Accident on PIE (towards Changi Airport) after Thomson Rd with congestion till Stevens Rd Exit. Avoid lane 1
+187,2019-05-28 06:11:06,28,6,Tuesday,Accident on PIE (towards Changi Airport) after Thomson Rd. Avoid lane 1
+188,2019-05-28 06:08:14,28,6,Tuesday,Accident on PIE (towards Changi Airport) after Thomson Rd. Avoid lane 2
+189,2019-05-28 03:36:21,28,3,Tuesday,Accident on ECP (towards City) at Tanah Merah Coast Rd Entrance
+190,2019-05-28 03:28:37,28,3,Tuesday,Obstacle on ECP (towards City) at PIE Exit
+191,2019-05-28 03:25:30,28,3,Tuesday,Obstacle on PIE (towards Tuas) after Toh Guan Rd Exit. Avoid lane 1
+192,2019-05-28 03:03:40,28,3,Tuesday,Accident on TPE (towards PIE) at Loyang Ave Entrance
+193,2019-05-28 02:26:31,28,2,Tuesday,Accident on PIE (towards Tuas) before KPE Exit. Avoid lane 1
+194,2019-05-28 02:07:44,28,2,Tuesday,Accident on PIE (towards Changi Airport) after Onraet Rd
+195,2019-05-28 01:57:51,28,1,Tuesday,Accident on PIE (towards Changi Airport) after Onraet Rd. Avoid lane 1
+196,2019-05-28 01:36:48,28,1,Tuesday,Accident on BKE (towards Woodlands) after SLE Exit
+197,2019-05-28 01:29:44,28,1,Tuesday,Accident on BKE (towards PIE) after Mandai Rd Exit
+198,2019-05-28 01:19:04,28,1,Tuesday,Accident on BKE (towards PIE) after Mandai Rd Exit. Avoid lane 2
+199,2019-05-28 01:16:50,28,1,Tuesday,Accident on BKE (towards PIE) after Mandai Rd Exit. Avoid lanes 1 and 2
+200,2019-05-28 01:01:52,28,1,Tuesday,Accident on AYE (towards MCE) after Portsdown Ave Exit with congestion till Clementi Rd Exit
+201,2019-05-28 00:51:13,28,0,Tuesday,Accident on AYE (towards Tuas ) at West Coast Way Entrance
+202,2019-05-28 00:37:37,28,0,Tuesday,Accident on ECP (towards Changi Airport) at Tanjong Katong Exit
+203,2019-05-28 00:30:37,28,0,Tuesday,Accident on PIE (towards Changi Airport) before Simei Ave. Avoid lane 3
+204,2019-05-28 00:26:53,28,0,Tuesday,Accident on AYE (towards MCE) after Portsdown Ave Exit with congestion till Clementi Rd Exit. Avoid lane 4
+205,2019-05-28 00:21:32,28,0,Tuesday,Accident on AYE (towards MCE) after Portsdown Ave Exit. Avoid lane 4
+206,2019-05-28 00:20:40,28,0,Tuesday,Accident on PIE (towards Changi Airport) after Jalan Anak Bukit. Avoid lane 1
+207,2019-05-28 00:13:06,28,0,Tuesday,Accident on TPE (towards PIE) before KPE Exit. Avoid lane 4
+208,2019-05-27 23:53:29,27,23,Monday,Accident on PIE (towards Tuas) after Stevens Rd Exit
+209,2019-05-27 23:02:56,27,23,Monday,Accident on Braddell Road (towards Lornie) after Bishan Flyover. Avoid left lane
+210,2019-05-27 15:44:44,27,15,Monday,Obstacle on SLE (towards CTE) before TPE Exit. Avoid lanes 1 and 2
+211,2019-05-27 15:44:00,27,15,Monday,Obstacle on SLE (towards CTE) before TPE Exit. Avoid lane 2
+212,2019-05-27 14:36:57,27,14,Monday,Accident on Choa Chu Kang Avenue 4 towards Choa Chu Kang Way. Avoid left lane
+213,2019-05-27 14:36:21,27,14,Monday,Accident on Choa Chu Kang Avenue 4 near Choa Chu Kang Avenue 4/Choa Chu Kang Way Junction
+214,2019-05-27 14:31:41,27,14,Monday,Accident on Choa Chu Kang Avenue 4 towards Choa Chu Kang Way. Choa Chu Kang Avenue 4 closed after Choa Chu Kang Way
+215,2019-05-27 14:27:52,27,14,Monday,Accident on Choa Chu Kang Avenue 4 towards Choa Chu Kang Way
+216,2019-05-27 14:25:30,27,14,Monday,Accident on Choa Chu Kang Avenue 4 (towards Choa Chu Kang Way) after Choa Chu Kang Walk
+217,2019-05-27 12:09:50,27,12,Monday,Accident on AYE (towards Tuas) after Keppel Rd exit. Avoid lanes 1 and 2
+218,2019-05-27 08:57:04,27,8,Monday,Accident on AYE (towards Tuas) before Jurong Town Hall Exit
+219,2019-05-27 08:09:55,27,8,Monday,Accident on CTE (towards SLE) at PIE Exit
+220,2019-05-27 07:36:22,27,7,Monday,Accident on KJE (towards BKE) after PIE Entrance. Avoid lane 1
+221,2019-05-27 07:27:51,27,7,Monday,Obstacle on KJE (towards BKE) after Woodlands Rd Exit. Avoid lane 1
+222,2019-05-27 07:26:20,27,7,Monday,Obstacle on KJE (towards BKE) after Choa Chu Kang Way Exit. Avoid lane 3
+223,2019-05-27 07:08:40,27,7,Monday,Accident on SLE (towards BKE) after Woodlands Ave 2 Exit. Avoid lane 1
+224,2019-05-27 06:04:13,27,6,Monday,Obstacle on PIE (towards Tuas) before Clementi Ave 6 Exit. Avoid lane 4
+225,2019-05-27 05:48:09,27,5,Monday,Obstacle on PIE (towards Tuas) after Upper Jurong Rd. Avoid lane 2
+226,2019-05-27 05:45:04,27,5,Monday,Accident on AYE (towards Tuas) after Jurong Port Rd Exit. Avoid lanes 2 and 3
+227,2019-05-27 05:38:59,27,5,Monday,Accident on AYE (towards Tuas) after Jurong Port Rd Exit. Avoid lane 3
+228,2019-05-27 05:20:16,27,5,Monday,Obstacle on AYE (towards Tuas) after Jurong Port Rd Exit. Avoid lanes 2 and 3
+229,2019-05-27 04:31:35,27,4,Monday,Accident on Penjuru Road (towards West Coast Road) after Teban Gardens Crescent. Penjuru Road closed after Teban Gardens Crescent
+230,2019-05-27 04:23:57,27,4,Monday,Accident on Penjuru Road (towards Teban Gardens Crescent) after West Coast Road. Penjuru Road closed after West Coast Road
+231,2019-05-27 04:19:22,27,4,Monday,Accident on Woodlands Road (towards City) after Sungei Kadut Ave with congestion till Mandai Road
+232,2019-05-27 04:16:23,27,4,Monday,Accident on PIE (towards Changi Airport) at KPE(ECP) Exit
+233,2019-05-27 04:11:05,27,4,Monday,Accident on Woodlands Road (towards City) after Sungei Kadut Ave with congestion till Mandai Road. Woodlands Road clo... http://sg.sg/1Motor
+234,2019-05-27 04:07:59,27,4,Monday,Accident in CTE Tunnel (towards AYE) after Outram Rd Exit
+235,2019-05-27 03:57:28,27,3,Monday,Accident on Woodlands Road (towards City) after Sungei Kadut Ave. Woodlands Road closed after Sungei Kadut Ave
+236,2019-05-27 03:54:23,27,3,Monday,Accident on Woodlands Road (towards City) after Sungei Kadut Ave
+237,2019-05-27 03:50:31,27,3,Monday,Accident on Tampines Avenue 10 (towards Tampines Link) after Tampines Industrial Avenue 5
+238,2019-05-27 03:24:32,27,3,Monday,Obstacle on PIE (towards Tuas) before Eng Neo Ave. Avoid lane 2
+239,2019-05-27 02:28:34,27,2,Monday,Heavy Traffic on AYE (towards MCE) before Clementi Ave 2 Exit
+240,2019-05-27 02:01:50,27,2,Monday,Accident on AYE (towards MCE) before Clementi Ave 2 Exit with congestion till Jurong Town Hall Entrance. Avoid lane 1
+241,2019-05-27 01:58:36,27,1,Monday,Accident on AYE (towards MCE) before Clementi Ave 2 Exit. Avoid lane 1
+242,2019-05-27 01:32:39,27,1,Monday,Heavy Traffic on ECP (towards Changi Airport) after Still Rd Sth Exit
+243,2019-05-27 01:32:39,27,1,Monday,Accident on SLE (towards CTE) after Mandai Ave Exit
+244,2019-05-27 00:59:10,27,0,Monday,Accident on ECP (towards Changi Airport) after Still Rd Sth Exit with congestion till Tg Katong Rd Exit. Avoid lane 1
+245,2019-05-27 00:44:07,27,0,Monday,Accident on AYE (towards Tuas) at Jurong Pier Rd Exit with congestion till Penjuru Rd Exit
+246,2019-05-27 00:41:18,27,0,Monday,Accident on Serangoon Road (towards Sengkang) after Whampoa South. Avoid right lane
+247,2019-05-27 00:37:40,27,0,Monday,Accident on ECP (towards Changi Airport) after Still Rd Sth Exit with congestion till Still Rd Sth Exit. Avoid lane 1
+248,2019-05-27 00:36:14,27,0,Monday,Accident on ECP (towards Changi Airport) after Still Rd Sth Exit. Avoid lane 1
+249,2019-05-27 00:24:06,27,0,Monday,Accident on AYE (towards Tuas) at Jurong Pier Rd Exit
+250,2019-05-27 00:19:30,27,0,Monday,Accident on KPE (towards ECP) before Tampines Rd Exit with congestion till Tampines Rd Exit. Avoid lane 1
+251,2019-05-27 00:19:30,27,0,Monday,Accident on TPE (towards PIE) after KPE Exit
+252,2019-05-27 00:13:23,27,0,Monday,Heavy Traffic on TPE (towards PIE) before Loyang Ave Exit
+253,2019-05-27 00:10:17,27,0,Monday,Accident on KPE (towards ECP) before Tampines Rd Exit. Avoid lane 1
+254,2019-05-27 00:08:47,27,0,Monday,Heavy Traffic on PIE (towards Tuas) before Upper Jurong Rd
+255,2019-05-27 00:06:31,27,0,Monday,Accident on PIE (towards Tuas) before Upper Jurong Rd with congestion till Pioneer Rd North
+256,2019-05-26 23:58:59,26,23,Sunday,Accident on PIE (towards Tuas) before Upper Jurong Rd with congestion till Pioneer Rd North. Avoid lane 4
+257,2019-05-26 23:57:24,26,23,Sunday,Accident on PIE (towards Tuas) before Upper Jurong Rd. Avoid lane 4
+258,2019-05-26 23:52:46,26,23,Sunday,Accident on PIE (towards Tuas) after Thomson Rd Exit with congestion till Toa Payoh Exit. Avoid lane 2
+259,2019-05-26 23:41:11,26,23,Sunday,Accident on TPE (towards PIE) before Loyang Ave Exit with congestion till Pasir Ris Dr 8 Exit. Avoid lane 1
+260,2019-05-26 23:36:32,26,23,Sunday,Accident on TPE (towards PIE) before Loyang Ave Exit. Avoid lane 1
+261,2019-05-26 23:34:25,26,23,Sunday,Accident on PIE (towards Tuas) after Thomson Rd Exit. Avoid lanes 1 and 2
+262,2019-05-26 23:00:18,26,23,Sunday,Accident on Macpherson Road (towards Jalan Muhibbah) after Aljunied Road
+263,2019-05-26 21:04:47,26,21,Sunday,Accident on AYE (towards MCE) after Yuan Ching
+264,2019-05-26 20:00:06,26,20,Sunday,Accident on KJE (towards PIE) after Woodlands Rd Exit
+265,2019-05-26 19:09:19,26,19,Sunday,Accident on ECP (towards Changi Airport) at PIE(Jurong) Exit
+266,2019-05-26 16:27:38,26,16,Sunday,Accident on Clementi Road near Clementi Road/Commonwealth Avenue West Junction
+267,2019-05-26 15:11:51,26,15,Sunday,Accident on SLE (towards CTE) after Woodlands Ave 2 Exit. Avoid lanes 1 and 2
+268,2019-05-26 15:09:31,26,15,Sunday,Accident on SLE (towards CTE) after Woodlands Ave 2 Exit. Avoid lane 1
+269,2019-05-26 13:59:13,26,13,Sunday,Accident on PIE (towards Tuas) after CTE(SLE) Exit. Avoid lane 1
+270,2019-05-26 13:57:42,26,13,Sunday,Heavy Traffic on PIE (towards Tuas) after Thomson Rd Exit
+271,2019-05-26 13:54:37,26,13,Sunday,Accident on PIE (towards Tuas) after Thomson Rd Exit with congestion till CTE(City) Exit. Avoid lane 1
+272,2019-05-26 13:48:37,26,13,Sunday,Accident on PIE (towards Tuas) after Thomson Rd Exit with congestion till Toa Payoh Exit. Avoid lanes 1 and 2
+273,2019-05-26 13:28:34,26,13,Sunday,Accident on PIE (towards Tuas) after Thomson Rd Exit with congestion till Toa Payoh Exit. Avoid lane 1
+274,2019-05-26 13:19:33,26,13,Sunday,Accident on PIE (towards Tuas) after Thomson Rd Exit. Avoid lane 1
+275,2019-05-26 13:09:05,26,13,Sunday,Accident on PIE (towards Changi Airport) at Toa Payoh 17D Exit
+276,2019-05-26 13:08:20,26,13,Sunday,Accident on PIE (towards Changi Airport) at Toa Payoh Entrance
+277,2019-05-26 13:06:08,26,13,Sunday,Accident on PIE (towards Changi Airport) after Thomson Rd
+278,2019-05-26 10:02:32,26,10,Sunday,Accident on Bukit Timah Road (towards Woodlands) after Selegie Road
+279,2019-05-26 08:50:40,26,8,Sunday,Obstacle on SLE (towards CTE) before TPE Exit. Avoid lane 3
+280,2019-05-26 07:47:24,26,7,Sunday,Accident on KJE (towards BKE) after PIE Entrance
+281,2019-05-26 06:22:14,26,6,Sunday,Heavy Traffic on CTE (towards AYE) after Moulmein Rd Exit
+282,2019-05-26 05:47:19,26,5,Sunday,Accident on CTE (towards AYE) after Moulmein Rd Exit with congestion till PIE(Changi) Exit. Avoid lane 1
+283,2019-05-26 05:25:53,26,5,Sunday,Accident on CTE (towards AYE) before PIE(Changi) Exit with congestion till AMK Ave 1 Exit. Avoid lane 4
+284,2019-05-26 05:25:53,26,5,Sunday,Accident on CTE (towards AYE) after Moulmein Rd Exit with congestion till PIE(Jurong) Exit. Avoid lane 1
+285,2019-05-26 05:24:19,26,5,Sunday,Accident on CTE (towards AYE) before PIE(Changi) Exit. Avoid lane 4
+286,2019-05-26 05:20:30,26,5,Sunday,Accident on CTE (towards AYE) after Moulmein Rd Exit. Avoid lane 1
+287,2019-05-26 05:16:43,26,5,Sunday,Heavy Traffic on PIE (towards Tuas) after Jalan Eunos
+288,2019-05-26 05:15:59,26,5,Sunday,Obstacle on ECP (towards Changi Airport) after Still Rd Sth Exit. Avoid lane 1
+289,2019-05-26 05:14:25,26,5,Sunday,Accident on PIE (towards Tuas) after Jalan Eunos with congestion till Bedok North Avenue 3 exit. Avoid lane 1
+290,2019-05-26 05:09:55,26,5,Sunday,Accident on PIE (towards Tuas) after Jalan Eunos with congestion till Bedok North Rd. Avoid lane 1
+291,2019-05-26 05:06:11,26,5,Sunday,Accident on CTE (towards AYE) after PIE(Changi) Exit
+292,2019-05-26 05:02:37,26,5,Sunday,Accident on CTE (towards AYE) after PIE(Changi) Exit. Avoid lane 4
+293,2019-05-26 04:58:07,26,4,Sunday,Accident on AYE (towards MCE) at Keppel Rd Entrance
+294,2019-05-26 04:45:18,26,4,Sunday,Accident on PIE (towards Tuas) after Jalan Eunos with congestion till Bedok North Rd. Avoid lanes 1 and 2
+295,2019-05-26 04:42:22,26,4,Sunday,Accident on PIE (towards Tuas) after Jalan Eunos. Avoid lanes 1 and 2
+296,2019-05-26 03:10:56,26,3,Sunday,Accident on Ang Mo Kio Avenue 5 (towards Ang Mo Kio Avenue 8) after Ang Mo Kio Avenue 6. Avoid left lane
+297,2019-05-26 02:19:46,26,2,Sunday,Accident on PIE (towards Changi Airport) after Kim Keat Link with congestion till Thomson Rd
+298,2019-05-26 02:19:02,26,2,Sunday,Heavy Traffic on PIE (towards Changi Airport) after Kim Keat Link
+299,2019-05-26 01:52:23,26,1,Sunday,Accident on PIE (towards Changi Airport) after Kim Keat Link with congestion till Thomson Rd. Avoid lanes 3 and 4
+300,2019-05-26 01:42:42,26,1,Sunday,Accident on PIE (towards Changi Airport) after Kim Keat Link. Avoid lanes 3 and 4
+301,2019-05-26 01:41:14,26,1,Sunday,Accident on PIE (towards Changi Airport) after Kim Keat Link. Avoid lane 1
+302,2019-05-25 20:48:05,25,20,Saturday,Accident on SLE (towards CTE) at Mandai Ave Exit
+303,2019-05-25 17:05:38,25,17,Saturday,"Accident on TPE (towards PIE) after Punggol Rd Exit. Avoid lanes 1, 2 and 3"
+304,2019-05-25 16:52:33,25,16,Saturday,Accident on TPE (towards SLE) before Punggol Rd Exit. Avoid lanes 1 and 2
+305,2019-05-25 16:50:18,25,16,Saturday,Accident on TPE (towards PIE) after Punggol Rd Exit. Avoid lanes 1 and 2
+306,2019-05-25 16:34:47,25,16,Saturday,Accident on Upper Serangoon Road (towards City) after Bartley Rd. Avoid right lane
+307,2019-05-25 15:42:52,25,15,Saturday,Accident on PIE (towards Tuas) at Paya Lebar Rd Entrance
+308,2019-05-25 14:35:14,25,14,Saturday,Accident on Punggol Way near Punggol Central/Punggol Way Junction
+309,2019-05-25 13:21:08,25,13,Saturday,Accident on AYE (towards MCE) after Tuas West Rd Entrance. Avoid lane 4
+310,2019-05-25 13:20:18,25,13,Saturday,Accident on AYE (towards MCE) after Tuas West Rd Entrance
+311,2019-05-25 13:12:03,25,13,Saturday,"Accident on AYE (towards MCE) after Tuas West Rd Entrance. Avoid lanes 2, 3 and 4"
+312,2019-05-25 11:57:19,25,11,Saturday,Heavy Traffic on PIE (towards Tuas) before KPE Exit
+313,2019-05-25 11:41:14,25,11,Saturday,Accident on PIE (towards Tuas) before KPE Exit with congestion till Paya Lebar Rd. Avoid lane 1
+314,2019-05-25 11:29:54,25,11,Saturday,Accident on PIE (towards Tuas) before KPE Exit with congestion till Paya Lebar Rd. Avoid lanes 1 and 2
+315,2019-05-25 11:25:18,25,11,Saturday,Accident on PIE (towards Tuas) before KPE Exit. Avoid lanes 1 and 2
+316,2019-05-25 11:09:14,25,11,Saturday,Accident on AYE (towards Tuas) at Tuas West Rd Entrance
+317,2019-05-25 10:51:38,25,10,Saturday,Accident on Lentor Avenue (towards SLE) after Yishun Avenue 1
+318,2019-05-25 10:28:35,25,10,Saturday,Accident on Serangoon Road (towards Sengkang) after Rochor Canal Road
+319,2019-05-25 09:52:44,25,9,Saturday,Accident on Sheares Avenue (towards Marina Boulevard) after Sheares Link
+320,2019-05-25 09:33:08,25,9,Saturday,Accident on PIE (towards Changi Airport) after Kim Keat Link
+321,2019-05-25 09:16:28,25,9,Saturday,Obstacle on Lorong 23 Geylang (towards Geylang Road) after Sims Avenue. Avoid right lane
+322,2019-05-25 09:04:16,25,9,Saturday,Accident on AYE (towards MCE) before Alexandra Rd Exit. Avoid lane 1
+323,2019-05-25 08:34:18,25,8,Saturday,Accident on BKE (towards Woodlands) after Dairy Farm Rd Exit with congestion till Dairy Farm Rd Exit. Avoid lanes 1 and 2
+324,2019-05-25 08:25:28,25,8,Saturday,Accident on BKE (towards Woodlands) before Bukit Panjang Rd Exit
+325,2019-05-25 08:20:57,25,8,Saturday,Accident on BKE (towards Woodlands) after Dairy Farm Rd Exit with congestion till Dairy Farm Rd Exit. Avoid lane 2
+326,2019-05-25 08:18:36,25,8,Saturday,Accident on BKE (towards Woodlands) after Dairy Farm Rd Exit. Avoid lane 2
+327,2019-05-25 08:16:22,25,8,Saturday,Accident on PIE (towards Changi Airport) at Jalan Eunos Exit
+328,2019-05-25 08:13:18,25,8,Saturday,Accident on CTE (towards AYE) at PIE(Changi) Exit
+329,2019-05-25 08:04:13,25,8,Saturday,Accident on PIE (towards Changi Airport) before Jalan Eunos. Avoid lane 1
+330,2019-05-25 07:24:31,25,7,Saturday,Heavy Traffic on AYE (towards MCE) after Clementi Ave 2 Exit
+331,2019-05-25 07:21:34,25,7,Saturday,Heavy Traffic on PIE (towards Changi Airport) after Thomson Rd
+332,2019-05-25 07:17:02,25,7,Saturday,Accident on PIE (towards Changi Airport) after Thomson Rd with congestion till Stevens Rd Exit. Avoid lane 1
+333,2019-05-25 07:10:59,25,7,Saturday,Accident on AYE (towards MCE) after Clementi Ave 2 Exit with congestion till Jurong Town Hall Exit. Avoid lane 1
+334,2019-05-25 07:08:39,25,7,Saturday,Accident on PIE (towards Changi Airport) after Thomson Rd with congestion till Thomson Rd. Avoid lane 1
+335,2019-05-25 07:02:08,25,7,Saturday,Accident on PIE (towards Changi Airport) after Thomson Rd. Avoid lane 1
+336,2019-05-25 06:58:23,25,6,Saturday,Accident on AYE (towards MCE) after Alexandra
+337,2019-05-25 06:47:50,25,6,Saturday,Accident on AYE (towards MCE) after Alexandra. Avoid lane 3
+338,2019-05-25 06:31:33,25,6,Saturday,Accident on AYE (towards MCE) after Clementi Ave 2 Exit with congestion till Jurong Town Hall Exit. Avoid lanes 1 and 2
+339,2019-05-25 06:11:17,25,6,Saturday,Accident on AYE (towards MCE) after Clementi Ave 2 Exit with congestion till Jurong Town Hall Entrance. Avoid lanes 1 and 2
+340,2019-05-25 06:08:15,25,6,Saturday,Accident on AYE (towards MCE) after Clementi Ave 2 Exit. Avoid lanes 1 and 2
+341,2019-05-25 05:18:27,25,5,Saturday,Accident on BKE (towards Woodlands) before Woodlands Rd Exit. Avoid lane 4
+342,2019-05-25 05:05:28,25,5,Saturday,Accident on KJE (towards PIE) at Woodlands Rd Exit
+343,2019-05-25 05:03:13,25,5,Saturday,Accident on KJE (towards BKE) at Woodlands Rd Exit
+344,2019-05-25 04:53:33,25,4,Saturday,Accident on BKE (towards Woodlands) before Woodlands Checkpoint. Avoid lanes 1 and 2
+345,2019-05-25 04:43:34,25,4,Saturday,Accident on PIE (towards Changi Airport) at Jurong Town Hall Exit
+346,2019-05-25 04:42:50,25,4,Saturday,Accident on PIE (towards Tuas) at Jurong Town Hall Rd Exit
+347,2019-05-25 04:21:51,25,4,Saturday,Accident on BKE (towards Woodlands) before Woodlands Checkpoint. Avoid lane 2
+348,2019-05-25 03:31:43,25,3,Saturday,Accident on KPE (towards ECP) after Tampines Rd Exit. Avoid lane 1
+349,2019-05-25 02:36:36,25,2,Saturday,Accident on PIE (towards Tuas) before KPE Exit. Avoid lane 1
+350,2019-05-24 23:57:47,24,23,Friday,Accident on BKE (towards Woodlands) at Woodlands Rd Exit. Woodlands Rd Exit closed
+351,2019-05-24 23:40:51,24,23,Friday,Accident on BKE (towards Woodlands) at Woodlands Rd Exit
+352,2019-05-24 22:30:27,24,22,Friday,Accident on BKE (towards Woodlands) before Woodlands Checkpoint
+353,2019-05-24 15:31:31,24,15,Friday,Accident on PIE (towards Tuas) after Eng Neo Ave with congestion till Eng Neo Ave. Avoid lane 5
+354,2019-05-24 15:27:14,24,15,Friday,Accident on Airport Boulevard (towards South Perimeter Road) after T3 Departure Drive
+355,2019-05-24 15:16:02,24,15,Friday,Accident on ECP (towards City) at Changi Airport Exit
+356,2019-05-24 15:01:43,24,15,Friday,Accident on PIE (towards Tuas) after Eng Neo Ave with congestion till Eng Neo Ave. Avoid lanes 4 and 5
+357,2019-05-24 14:52:13,24,14,Friday,Accident on PIE (towards Tuas) after Eng Neo Ave. Avoid lanes 4 and 5
+358,2019-05-24 13:10:18,24,13,Friday,Accident on SLE (towards CTE) at Woodlands Ave 12 Entrance
+359,2019-05-24 13:10:18,24,13,Friday,Accident on ECP (towards City) before PIE(Tuas) Exit. Avoid lane 3
+360,2019-05-24 13:05:42,24,13,Friday,Heavy Traffic on SLE (towards BKE) before Mandai Rd Exit
+361,2019-05-24 12:58:20,24,12,Friday,Accident on Bukit Timah Road (towards Woodlands) after Holland Link. Avoid right lane
+362,2019-05-24 12:39:07,24,12,Friday,Accident on TPE (towards SLE) at Tampines Ave 12 Entrance
+363,2019-05-24 12:30:07,24,12,Friday,Accident on SLE (towards BKE) after TPE Entrance. Avoid lane 1
+364,2019-05-24 12:11:26,24,12,Friday,Accident on Dunearn Road (towards City) after Swiss Club Road
+365,2019-05-24 12:11:26,24,12,Friday,Accident on SLE (towards BKE) before Mandai Rd Exit with congestion till Upper Thomson Rd Exit. Avoid lane 2
+366,2019-05-24 12:10:34,24,12,Friday,Accident on SLE (towards BKE) before Mandai Rd Exit. Avoid lane 2
+367,2019-05-24 11:22:05,24,11,Friday,Heavy Traffic on BKE (towards Woodlands) after PIE Entrance
+368,2019-05-24 10:33:18,24,10,Friday,Accident on TPE (towards PIE) at Seletar West Link Entrance. Seletar West Link Entrance closed
+369,2019-05-24 10:29:44,24,10,Friday,Accident on TPE (towards PIE) at Seletar West Link Entrance
+370,2019-05-24 10:02:58,24,10,Friday,Heavy Traffic on TPE (towards SLE) before Tampines Ave 10 Exit
+371,2019-05-24 10:00:41,24,10,Friday,Accident on BKE (towards Woodlands) after PIE Entrance with congestion till PIE Entrance
+372,2019-05-24 09:53:15,24,9,Friday,Accident on TPE (towards SLE) before Tampines Ave 10 Exit with congestion till Tampines Ave 12 Exit
+373,2019-05-24 09:38:02,24,9,Friday,Accident on BKE (towards Woodlands) after PIE Entrance with congestion till PIE Entrance. Avoid lane 2
+374,2019-05-24 09:37:17,24,9,Friday,Accident on TPE (towards SLE) before Tampines Ave 10 Exit with congestion till Tampines Ave 12 Exit. Avoid lane 1
+375,2019-05-24 09:37:17,24,9,Friday,Accident on BKE (towards Woodlands) after PIE Entrance. Avoid lane 2
+376,2019-05-24 09:34:57,24,9,Friday,Accident on TPE (towards SLE) before Tampines Ave 10 Exit. Avoid lane 1
+377,2019-05-24 08:42:51,24,8,Friday,Obstacle on AYE (towards Tuas) before Tuas Rd Exit. Avoid lane 3
+378,2019-05-24 07:57:10,24,7,Friday,Heavy Traffic on PIE (towards Tuas) after Stevens Rd Exit
+379,2019-05-24 07:54:44,24,7,Friday,Accident on PIE (towards Tuas) after Stevens Rd Exit. Avoid lane 4
+380,2019-05-24 07:52:25,24,7,Friday,Accident on PIE (towards Tuas) after Stevens Rd Exit with congestion till Thomson Rd Exit. Avoid lane 2
+381,2019-05-24 07:50:02,24,7,Friday,Heavy Traffic on CTE (towards AYE) before AMK Ave 1 Exit
+382,2019-05-24 07:50:02,24,7,Friday,Accident on PIE (towards Tuas) after Stevens Rd Exit. Avoid lane 1
+383,2019-05-24 07:46:12,24,7,Friday,Accident on PIE (towards Tuas) after Stevens Rd Exit. Avoid lane 2
+384,2019-05-24 07:09:08,24,7,Friday,Accident on CTE (towards AYE) after AMK Ave 5 Exit. Avoid lane 2
+385,2019-05-24 06:43:00,24,6,Friday,Accident on CTE (towards AYE) before AMK Ave 1 Exit with congestion till AMK Ave 5 Exit. Avoid lane 1
+386,2019-05-24 06:40:39,24,6,Friday,Accident on PIE (towards Changi Airport) after Bedok North Ave 3 with congestion till Bedok North Rd. Avoid lane 1
+387,2019-05-24 06:39:53,24,6,Friday,Accident on CTE (towards AYE) before AMK Ave 1 Exit. Avoid lane 1
+388,2019-05-24 06:38:22,24,6,Friday,Obstacle on KJE (towards BKE) at BKE(Woodlands) Exit
+389,2019-05-24 06:34:28,24,6,Friday,Accident on PIE (towards Changi Airport) after Bedok North Ave 3. Avoid lane 1
+390,2019-05-24 06:16:41,24,6,Friday,Accident on SLE (towards CTE) before Woodlands Ave 12 Exit. Avoid lane 4
+391,2019-05-24 06:06:17,24,6,Friday,Accident on CTE (towards AYE) after PIE(Jurong) Exit. Avoid lane 1
+392,2019-05-24 05:36:33,24,5,Friday,Obstacle on KJE (towards PIE) after Woodlands Rd Exit. Avoid lane 2
+393,2019-05-24 05:32:48,24,5,Friday,Obstacle on PIE (towards Tuas) after Clementi Rd Exit. Avoid lanes 1 and 2
+394,2019-05-24 05:28:29,24,5,Friday,Obstacle on PIE (towards Tuas) after Clementi Rd Exit. Avoid lane 2
+395,2019-05-24 05:22:28,24,5,Friday,Accident on BKE (towards Woodlands) after PIE Entrance
+396,2019-05-24 05:06:45,24,5,Friday,Accident on TPE (towards SLE) before PIE Entrance. Avoid lane 2
+397,2019-05-24 03:41:48,24,3,Friday,Accident on Havelock Road near Eu Tong Sen Street/Havelock Road Junction
+398,2019-05-24 02:55:13,24,2,Friday,Accident on Robinson Road (towards Boon Tat Street) after Mccallum Street
+399,2019-05-24 02:37:31,24,2,Friday,Accident on CTE (towards SLE) at Seletar West Link Exit
+400,2019-05-24 02:28:53,24,2,Friday,Accident on ECP (towards City) after Fort Rd Exit
+401,2019-05-24 02:19:00,24,2,Friday,Accident on KJE (towards PIE) before Woodlands Rd Exit. Avoid lanes 4 and 5
+402,2019-05-24 02:16:41,24,2,Friday,Accident on KPE (towards ECP) after Tampines Rd Exit. Avoid lanes 1 and 2
+403,2019-05-24 02:10:29,24,2,Friday,Accident on KJE (towards PIE) before Woodlands Rd Exit. Avoid lane 4
+404,2019-05-24 01:47:54,24,1,Friday,Accident on Upper Changi Road East (toward City) after Xilin Avenue
+405,2019-05-24 01:40:15,24,1,Friday,Accident on PIE (towards Tuas) after Bedok North Rd. Avoid lane 1
+406,2019-05-24 01:19:06,24,1,Friday,Accident on KPE (towards ECP) after Tampines Rd Exit. Avoid lane 1
+407,2019-05-24 01:06:06,24,1,Friday,Accident on TPE (towards SLE) after Tampines Rd Exit with congestion till Tampines Rd Exit. Avoid lane 3
+408,2019-05-24 01:05:16,24,1,Friday,Obstacle on PIE (towards Tuas) before Jalan Bahar. Avoid lane 4
+409,2019-05-24 01:03:46,24,1,Friday,Accident on TPE (towards SLE) after Tampines Rd Exit. Avoid lane 3
+410,2019-05-24 00:54:00,24,0,Friday,Accident on CTE (towards AYE) before PIE(Changi) Exit with congestion till AMK Ave 5 Exit
+411,2019-05-24 00:43:15,24,0,Friday,Accident on CTE (towards AYE) before PIE(Changi) Exit with congestion till AMK Ave 5 Exit. Avoid lane 4
+412,2019-05-24 00:41:00,24,0,Friday,Heavy Traffic on BKE (towards PIE) before PIE Exit
+413,2019-05-24 00:41:00,24,0,Friday,Obstacle on MCE (towards ECP) at Central Boulevard Exit
+414,2019-05-24 00:39:23,24,0,Friday,Accident on CTE (towards AYE) before PIE(Changi) Exit. Avoid lane 4
+415,2019-05-24 00:36:22,24,0,Friday,Accident on BKE (towards PIE) before PIE Exit with congestion till Bukit Panjang Rd Exit
+416,2019-05-24 00:34:47,24,0,Friday,Accident on BKE (towards PIE) before PIE Exit with congestion till Bukit Panjang Rd Exit. Avoid lane 2
+417,2019-05-24 00:32:30,24,0,Friday,Accident on BKE (towards PIE) before PIE Exit. Avoid lane 2
+418,2019-05-24 00:22:49,24,0,Friday,Accident on PIE (towards Tuas) before Pioneer Rd North with congestion till Jalan Bahar. Avoid lane 4
+419,2019-05-24 00:19:44,24,0,Friday,Accident on PIE (towards Tuas) before Pioneer Rd North with congestion till Jalan Bahar. Avoid lanes 2 and 4
+420,2019-05-24 00:19:00,24,0,Friday,Accident on PIE (towards Tuas) before Pioneer Rd North with congestion till Jalan Bahar. Avoid lanes 1 and 2
+421,2019-05-24 00:15:09,24,0,Friday,Obstacle on MCE (towards AYE) before Maxwell Rd Exit. Avoid lane 6
+422,2019-05-24 00:13:37,24,0,Friday,Accident on PIE (towards Tuas) before Pioneer Rd North. Avoid lanes 1 and 2
+423,2019-05-24 00:09:03,24,0,Friday,Obstacle on MCE (towards AYE) before Maxwell Rd Exit. Avoid lanes 4 and 5
+424,2019-05-23 23:44:15,23,23,Thursday,Heavy Traffic on TPE (towards PIE) after Punggol Rd Exit
+425,2019-05-23 23:36:00,23,23,Thursday,Accident on TPE (towards PIE) after Punggol Rd Exit with congestion till Sengkang Exit. Avoid lane 1
+426,2019-05-23 23:11:22,23,23,Thursday,Accident on TPE (towards PIE) after Punggol Rd Exit with congestion till Punggol Rd Exit. Avoid lanes 1 and 2
+427,2019-05-23 23:05:16,23,23,Thursday,Accident on TPE (towards PIE) after Punggol Rd Exit with congestion till Punggol Rd Exit. Avoid lane 1
+428,2019-05-23 23:03:02,23,23,Thursday,Accident on TPE (towards PIE) after Punggol Rd Exit. Avoid lane 1
+429,2019-05-23 19:44:06,23,19,Thursday,Accident on PIE (towards Changi Airport) before Paya Lebar Rd. Avoid lanes 1 and 2
+430,2019-05-23 19:40:21,23,19,Thursday,Accident on PIE (towards Changi Airport) before Paya Lebar Rd. Avoid lane 1
+431,2019-05-23 19:30:42,23,19,Thursday,Obstacle on TPE (towards PIE) after Pasir Ris Dr 8 Exit. Avoid lanes 1 and 2
+432,2019-05-23 18:43:59,23,18,Thursday,Accident on PIE (towards Tuas) after KJE. Avoid lane 1
+433,2019-05-23 11:20:26,23,11,Thursday,Accident on TPE (towards SLE) after Tampines Flyover. Avoid lane 4
+434,2019-05-23 11:19:00,23,11,Thursday,Accident on TPE (towards SLE) after Tampines Flyover
+435,2019-05-23 10:56:24,23,10,Thursday,Accident on TPE (towards SLE) after Tampines Flyover. Avoid lane 1
+436,2019-05-23 10:51:05,23,10,Thursday,Accident on KPE (towards TPE) before TPE(SLE) Exit. Avoid lane 2
+437,2019-05-23 10:36:37,23,10,Thursday,Accident on Toh Tuck Avenue (towards Bukit Batok East Avenue 3) after PIE
+438,2019-05-23 10:30:28,23,10,Thursday,Obstacle on PIE (towards Tuas) after Clementi Rd Exit
+439,2019-05-23 09:26:08,23,9,Thursday,Obstacle on PIE (towards Changi Airport) at Toa Payoh 17D Exit
+440,2019-05-23 04:12:29,23,4,Thursday,Obstacle on PIE (towards Changi Airport) at Lornie Highway Entrance
+441,2019-05-23 04:08:03,23,4,Thursday,Obstacle on PIE (towards Changi Airport) at Lornie Highway Entrance. Lornie Highway Entrance closed
+442,2019-05-23 04:02:52,23,4,Thursday,Accident on PIE (towards Tuas) before Jalan Bahar. Avoid lanes 3 and 4
+443,2019-05-23 03:44:17,23,3,Thursday,Accident on ECP (towards City) before Still Rd Sth Exit with congestion till East Coast Park Carpark F3 Exit. Avoid lane 1
+444,2019-05-23 03:32:16,23,3,Thursday,Accident on CTE (towards SLE) before PIE(Changi) Exit
+445,2019-05-23 03:02:17,23,3,Thursday,Accident on ECP (towards City) before Still Rd Sth Exit with congestion till East Coast Park Carpark F3 Exit. Avoid lanes 1 and 2
+446,2019-05-23 03:00:41,23,3,Thursday,Accident on CTE (towards AYE) before PIE(Changi) Exit with congestion till AMK Ave 1 Exit. Avoid lane 4
+447,2019-05-23 02:55:41,23,2,Thursday,Accident on ECP (towards City) before Still Rd Sth Exit. Avoid lanes 1 and 2
+448,2019-05-23 02:54:57,23,2,Thursday,Heavy Traffic on TPE (towards PIE) before KPE Exit
+449,2019-05-23 02:50:27,23,2,Thursday,Accident on ECP (towards City) before Still Rd Sth Exit. Avoid lane 2
+450,2019-05-23 02:14:44,23,2,Thursday,Obstacle on SLE (towards BKE) at Yishun(Lentor Ave) Exit
+451,2019-05-23 02:12:31,23,2,Thursday,Accident on CTE (towards AYE) before PIE(Changi) Exit with congestion till AMK Ave 5 Exit. Avoid lane 4
+452,2019-05-23 02:05:00,23,2,Thursday,"Temporary Road Closure along Oxley Road on Tuesday, 28 May 2019 from midnight to 5.00 a.m. #sgtraffic http://bit.ly/2Wm1qdo"
+453,2019-05-23 02:04:30,23,2,Thursday,"Temporary Road Closure at KPE Tunnel on Sunday, 26 May 2019 from midnight to 9.00 a.m. #sgtraffic http://bit.ly/2Es7Lty"
+454,2019-05-23 02:04:05,23,2,Thursday,"Temporary Road Closure along Orchard Turn on Wednesday, 29 May 2019 from midnight to 5.00 a.m. #sgtraffic http://bit.ly/30GoGlw"
+455,2019-05-23 02:03:35,23,2,Thursday,"Temporary Closure of Slip Road to CTE (City) from Balestier Road on Thursday, 30 May 2019 from midnight to 5.00 a.m. #sgtraffic http://bit.ly/2JZfDXk"
+456,2019-05-23 02:03:05,23,2,Thursday,Temporary Closure of Slip Roads at KPE Tunnel on 24 & 25 May 2019 from midnight to 5.00 a.m. #sgtraffic http://bit.ly/30CElCC
+457,2019-05-23 01:53:54,23,1,Thursday,Accident on CTE (towards AYE) before PIE(Changi) Exit. Avoid lane 4
+458,2019-05-23 01:53:09,23,1,Thursday,Accident on TPE (towards PIE) before KPE Exit with congestion till Punggol Rd Exit. Avoid lane 4
+459,2019-05-23 01:48:39,23,1,Thursday,Accident on TPE (towards PIE) before KPE Exit. Avoid lane 4
+460,2019-05-23 01:46:26,23,1,Thursday,Accident on BKE (towards PIE) after Bukit Panjang Rd Exit with congestion till KJE Exit
+461,2019-05-23 01:09:35,23,1,Thursday,Accident on PIE (towards Tuas) after BKE with congestion till Eng Neo Ave. Avoid lane 2
+462,2019-05-23 01:00:28,23,1,Thursday,Heavy Traffic on CTE (towards AYE) after PIE(Jurong) Exit
+463,2019-05-23 00:59:00,23,0,Thursday,Accident on BKE (towards PIE) after Bukit Panjang Rd Exit with congestion till KJE Exit. Avoid lane 3
+464,2019-05-23 00:54:44,23,0,Thursday,Accident on BKE (towards PIE) after Bukit Panjang Rd Exit. Avoid lane 3
+465,2019-05-23 00:52:30,23,0,Thursday,Accident on AYE (towards Tuas) at PIE Exit
+466,2019-05-23 00:48:46,23,0,Thursday,Accident on PIE (towards Tuas) after BKE. Avoid lane 2
+467,2019-05-23 00:35:17,23,0,Thursday,Accident on CTE (towards AYE) after PIE(Jurong) Exit with congestion till Yio Chu Kang Rd Exit. Avoid lane 1
+468,2019-05-23 00:34:33,23,0,Thursday,Accident on AYE (towards Tuas) before Telok Blangah Rd Exit with congestion till Keppel Rd exit. Avoid lane 3
+469,2019-05-23 00:27:07,23,0,Thursday,Accident on AYE (towards Tuas) before Telok Blangah Rd Exit. Avoid lane 3
+470,2019-05-23 00:22:43,23,0,Thursday,Accident on PIE (towards Changi Airport) after Bukit Batok Rd
+471,2019-05-23 00:20:21,23,0,Thursday,Accident on BKE (towards PIE) after Dairy Farm Rd Exit
+472,2019-05-23 00:18:08,23,0,Thursday,Accident on CTE (towards AYE) after PIE(Jurong) Exit with congestion till AMK Ave 1 Exit. Avoid lane 1
+473,2019-05-23 00:12:04,23,0,Thursday,Heavy Traffic on ECP (towards City) before Still Rd Sth Exit
+474,2019-05-23 00:11:19,23,0,Thursday,Accident on CTE (towards AYE) after PIE(Jurong) Exit. Avoid lane 1
+475,2019-05-23 00:08:15,23,0,Thursday,Accident on ECP (towards City) before Still Rd Sth Exit with congestion till Still Rd Sth Exit. Avoid lane 3
+476,2019-05-23 00:03:40,23,0,Thursday,Accident on SLE (towards CTE) before Woodlands Ave 12 Exit
+477,2019-05-22 23:39:00,22,23,Wednesday,Accident on ECP (towards City) before Still Rd Sth Exit with congestion till East Coast Park Carpark F3 Exit. Avoid lane 3
+478,2019-05-22 23:36:02,22,23,Wednesday,Accident on ECP (towards City) before Still Rd Sth Exit. Avoid lane 3
+479,2019-05-22 18:56:49,22,18,Wednesday,Accident on Eu Tong Sen Street near Eu Tong Sen Street/Merchant Road Junction
+480,2019-05-22 16:59:03,22,16,Wednesday,Accident on PIE (towards Changi Airport) at Clementi Ave 6 Exit
+481,2019-05-22 12:53:06,22,12,Wednesday,Accident on CTE (towards SLE) after Braddell Rd Exit. Avoid lane 1
+482,2019-05-22 11:40:17,22,11,Wednesday,Accident on PIE (towards Changi Airport) before Jalan Eunos
+483,2019-05-22 11:08:51,22,11,Wednesday,Accident on Adam Road (towards Braddell) after Bt Timah Road with congestion till Empress Road. Avoid left lane
+484,2019-05-22 11:06:37,22,11,Wednesday,Accident on Adam Road (towards Braddell) after Bt Timah Road. Avoid left lane
+485,2019-05-22 11:06:37,22,11,Wednesday,Accident on Nicoll Highway (towards Guillemard) after Java Road. Avoid left lane
+486,2019-05-22 10:52:24,22,10,Wednesday,Accident on Nicoll Highway (towards Guillemard) after Java Road. Avoid right lane
+487,2019-05-22 10:48:35,22,10,Wednesday,Heavy Traffic on PIE (towards Changi Airport) after Thomson Rd
+488,2019-05-22 10:45:28,22,10,Wednesday,Accident on PIE (towards Changi Airport) after Thomson Rd with congestion till Toa Payoh Lor 1
+489,2019-05-22 10:41:41,22,10,Wednesday,Heavy Traffic in CTE Tunnel (towards SLE) after Outram Rd Exit
+490,2019-05-22 10:38:34,22,10,Wednesday,Accident on PIE (towards Changi Airport) after Thomson Rd with congestion till Toa Payoh Lor 1. Avoid lane 1
+491,2019-05-22 10:34:44,22,10,Wednesday,Accident on PIE (towards Changi Airport) after Thomson Rd. Avoid lane 1
+492,2019-05-22 10:29:22,22,10,Wednesday,Accident in CTE Tunnel (towards SLE) after Outram Rd Exit with congestion till AYE Entrance. Avoid lane 2
+493,2019-05-22 10:26:24,22,10,Wednesday,Accident in CTE Tunnel (towards SLE) after Outram Rd Exit. Avoid lane 2
+494,2019-05-22 10:13:36,22,10,Wednesday,Accident on KJE (towards BKE) after Woodlands Rd Exit
+495,2019-05-22 09:59:56,22,9,Wednesday,Obstacle on AYE (towards Tuas) after Lower Delta Rd Exit. Avoid lane 1
+496,2019-05-22 09:21:45,22,9,Wednesday,Accident on PIE (towards Tuas) before KPE Exit
+497,2019-05-22 09:03:31,22,9,Wednesday,Accident on BKE (towards Woodlands) after KJE Exit
+498,2019-05-22 08:58:14,22,8,Wednesday,Accident on BKE (towards Woodlands) after KJE Exit. Avoid lane 3
+499,2019-05-22 07:44:11,22,7,Wednesday,Accident on BKE (towards PIE) at Dairy Farm Rd Entrance
+500,2019-05-22 06:21:21,22,6,Wednesday,Accident on AYE (towards MCE) before Clementi Ave 6 Exit with congestion till Jurong Town Hall Exit. Avoid lane 1
+501,2019-05-22 06:19:46,22,6,Wednesday,Accident on AYE (towards MCE) before Clementi Ave 6 Exit. Avoid lane 1
+502,2019-05-22 05:43:02,22,5,Wednesday,Heavy Traffic on PIE (towards Tuas) after CTE(SLE) Exit
+503,2019-05-22 05:33:03,22,5,Wednesday,Heavy Traffic on PIE (towards Changi Airport) before Kallang Way
+504,2019-05-22 05:30:41,22,5,Wednesday,Accident on PIE (towards Changi Airport) before Kallang Way with congestion till Toa Payoh Lor 1. Avoid lane 3
+505,2019-05-22 05:28:25,22,5,Wednesday,Accident on PIE (towards Changi Airport) before Kallang Way. Avoid lane 3
+506,2019-05-22 05:12:47,22,5,Wednesday,Accident on PIE (towards Tuas) after CTE(SLE) Exit with congestion till KPE Exit. Avoid lane 1
+507,2019-05-22 05:10:28,22,5,Wednesday,Accident on PIE (towards Tuas) after CTE(SLE) Exit. Avoid lane 1
+508,2019-05-22 04:36:33,22,4,Wednesday,Accident on BKE (towards PIE) at Bukit Panjang Rd Entrance
+509,2019-05-22 03:36:38,22,3,Wednesday,Obstacle on KJE (towards BKE) after Sungei Tengah Exit. Avoid lanes 3 and 4
+510,2019-05-22 03:19:46,22,3,Wednesday,Heavy Traffic on AYE (towards MCE) before Clementi Ave 6 Exit
+511,2019-05-22 03:08:21,22,3,Wednesday,Accident on AYE (towards MCE) before Clementi Ave 6 Exit with congestion till Jurong Town Hall Exit
+512,2019-05-22 03:06:51,22,3,Wednesday,Accident on AYE (towards MCE) before Clementi Ave 6 Exit with congestion till Jurong Town Hall Exit. Avoid lanes 2 and 3
+513,2019-05-22 03:05:15,22,3,Wednesday,Accident on AYE (towards MCE) before Clementi Ave 6 Exit. Avoid lanes 2 and 3
+514,2019-05-22 01:06:00,22,1,Wednesday,Accident on TPE (towards PIE) after Pasir Ris Dr 8 Exit with congestion till KPE Exit. Avoid lanes 1 and 2
+515,2019-05-22 00:54:09,22,0,Wednesday,Accident on Hougang Avenue 7 near Hougang Avenue 7/Hougang Avenue 8 Junction
+516,2019-05-22 00:51:56,22,0,Wednesday,Accident on Upper Serangoon Road (towards City) after Buangkok East Drive. Avoid left lane
+517,2019-05-22 00:48:08,22,0,Wednesday,Accident on TPE (towards PIE) after Pasir Ris Dr 8 Exit with congestion till Pasir Ris Dr 12 Exit. Avoid lanes 1 and 2
+518,2019-05-22 00:45:06,22,0,Wednesday,Heavy Traffic on SLE (towards CTE) after Woodlands Ave 12 Exit
+519,2019-05-22 00:44:21,22,0,Wednesday,Accident on TPE (towards PIE) after Pasir Ris Dr 8 Exit with congestion till Pasir Ris Dr 12 Exit. Avoid lane 1
+520,2019-05-22 00:40:33,22,0,Wednesday,Accident on TPE (towards PIE) after Pasir Ris Dr 8 Exit. Avoid lane 1
+521,2019-05-22 00:36:05,22,0,Wednesday,Accident on TPE (towards PIE) after Punggol Rd Exit with congestion till Punggol Rd Exit. Avoid lane 1
+522,2019-05-22 00:33:46,22,0,Wednesday,Accident on TPE (towards PIE) after Punggol Rd Exit. Avoid lane 1
+523,2019-05-22 00:26:15,22,0,Wednesday,Accident on SLE (towards CTE) after Woodlands Ave 12 Exit with congestion till Woodlands Ave 2 Exit. Avoid lane 3
+524,2019-05-22 00:19:35,22,0,Wednesday,Accident on SLE (towards CTE) after Woodlands Ave 12 Exit. Avoid lane 3
+525,2019-05-22 00:04:31,22,0,Wednesday,Accident on PIE (towards Changi Airport) at Jurong Rd Exit
+526,2019-05-21 21:16:00,21,21,Tuesday,Accident on TPE (towards PIE) after Pasir Ris Dr 12 Exit. Avoid lane 1
+527,2019-05-21 21:01:41,21,21,Tuesday,Accident on TPE (towards PIE) before Elias Rd Exit. Avoid lane 1
+528,2019-05-21 17:15:51,21,17,Tuesday,Accident on Bukit Timah Road (towards Woodlands) after Balmoral Road
+529,2019-05-21 14:18:25,21,14,Tuesday,Accident on PIE (towards Changi Airport) at Jalan Bahar Entrance
+530,2019-05-21 14:17:37,21,14,Tuesday,Accident on PIE (towards Tuas) at Jalan Bahar Exit
+531,2019-05-21 13:24:33,21,13,Tuesday,Accident on PIE (towards Changi Airport) before Pioneer Rd Nth. Avoid lane 4
+532,2019-05-21 11:31:01,21,11,Tuesday,Accident on KPE (towards TPE) before Tampines Rd Exit. Avoid lane 2
+533,2019-05-21 11:20:30,21,11,Tuesday,Accident on KPE (towards TPE) after Tampines Rd Exit. Avoid lane 3
+534,2019-05-21 10:06:40,21,10,Tuesday,Accident on TPE (towards SLE) before Tampines Ave 12 Exit
+535,2019-05-21 09:41:55,21,9,Tuesday,Obstacle on AYE (towards Tuas) after Lower Delta Rd Exit. Avoid lane 1
+536,2019-05-21 06:02:47,21,6,Tuesday,Accident at Orchard Road/Paterson Road Junction
+537,2019-05-21 05:37:52,21,5,Tuesday,Accident on CTE (towards AYE) before PIE(Changi) Exit with congestion till AMK Ave 1 Exit. Avoid lane 4
+538,2019-05-21 05:14:03,21,5,Tuesday,Accident on CTE (towards AYE) before PIE(Changi) Exit. Avoid lane 4
+539,2019-05-21 05:11:53,21,5,Tuesday,Accident on Jurong Island Highway (towards Merlimau Road) after Jurong Pier Way
+540,2019-05-21 04:42:25,21,4,Tuesday,Obstacle in CTE Tunnel (towards SLE) after Merchant Rd Exit. Avoid lane 3
+541,2019-05-21 04:09:04,21,4,Tuesday,Heavy Traffic on CTE (towards AYE) before PIE(Changi) Exit
+542,2019-05-21 03:54:07,21,3,Tuesday,Accident on PIE (towards Changi Airport) after TPE. Avoid lane 1
+543,2019-05-21 03:46:06,21,3,Tuesday,Accident on CTE (towards AYE) before PIE(Changi) Exit with congestion till AMK Ave 1 Exit. Avoid lanes 5 and 6
+544,2019-05-21 03:31:19,21,3,Tuesday,Accident on CTE (towards AYE) before PIE(Changi) Exit. Avoid lanes 5 and 6
+545,2019-05-21 01:51:56,21,1,Tuesday,Heavy Traffic on AYE (towards Tuas) before Normanton Exit
+546,2019-05-21 00:54:22,21,0,Tuesday,Accident on AYE (towards Tuas) before Normanton Exit with congestion till Telok Blangah Rd Exit
+547,2019-05-21 00:41:35,21,0,Tuesday,Accident on AYE (towards Tuas) before Normanton Exit with congestion till Telok Blangah Rd Exit. Avoid lane 4
+548,2019-05-21 00:32:21,21,0,Tuesday,Accident on AYE (towards Tuas) before Normanton Exit with congestion till Lower Delta Rd Exit. Avoid lane 4
+549,2019-05-21 00:28:28,21,0,Tuesday,Accident on AYE (towards Tuas) before Normanton Exit with congestion till Lower Delta Rd Exit
+550,2019-05-21 00:26:58,21,0,Tuesday,Accident on AYE (towards Tuas) before Normanton Exit
+551,2019-05-20 23:43:43,20,23,Monday,Obstacle in CTE Tunnel (towards SLE) before Bukit Timah Rd Entrance
+552,2019-05-20 22:43:12,20,22,Monday,Accident on TPE (towards SLE) after Punggol Rd Exit. Avoid lane 4
+553,2019-05-20 22:36:11,20,22,Monday,Accident on TPE (towards SLE) after Punggol Rd Exit
+554,2019-05-20 18:46:24,20,18,Monday,Accident in CTE Tunnel (towards AYE) after Havelock Exit. Avoid lane 2
+555,2019-05-20 14:13:16,20,14,Monday,Obstacle on Hougang Avenue 7 (towards Hougang Street 32) after Tampines Road. Avoid right lane
+556,2019-05-20 14:08:44,20,14,Monday,Accident on Tuas South Avenue 5 near Tuas South Avenue 5/Tuas South Avenue 8 Junction
+557,2019-05-20 13:58:08,20,13,Monday,Accident on ECP (towards Changi Airport) after Still Rd Sth Exit
+558,2019-05-20 13:42:31,20,13,Monday,Accident on PIE (towards Tuas) before Eng Neo Ave
+559,2019-05-20 13:41:47,20,13,Monday,Accident on PIE (towards Tuas) after Adam Rd Exit. Avoid lane 2
+560,2019-05-20 13:37:15,20,13,Monday,Accident on PIE (towards Tuas) before Eng Neo Ave. Avoid lane 1
+561,2019-05-20 13:03:30,20,13,Monday,Accident on Sembawang Road (towards Yishun Avenue 3) after Jalan Lengkok Sembawang. Avoid left lane
+562,2019-05-20 13:02:46,20,13,Monday,Accident on ECP (towards Changi Airport) after Still Rd Sth Exit. Avoid lane 1
+563,2019-05-20 12:45:28,20,12,Monday,Accident on Sembawang Road (towards Yishun Avenue 3) after Jalan Lengkok Sembawang. Avoid right lane
+564,2019-05-20 12:38:40,20,12,Monday,Accident on ECP (towards City) before PIE(Tuas) Exit
+565,2019-05-20 12:32:38,20,12,Monday,Accident on ECP (towards City) before PIE(Tuas) Exit. Avoid lane 4
+566,2019-05-20 12:27:20,20,12,Monday,Accident on ECP (towards City) before PIE(Tuas) Exit. Avoid lanes 3 and 4
+567,2019-05-20 12:22:03,20,12,Monday,Accident on KJE (towards BKE) at Choa Chu Kang Rd Entrance
+568,2019-05-20 12:22:03,20,12,Monday,Accident on PIE (towards Changi Airport) at Kallang Way Exit
+569,2019-05-20 11:33:16,20,11,Monday,Accident on CTE (towards AYE) at PIE(Changi) Exit
+570,2019-05-20 11:04:06,20,11,Monday,Accident on PIE (towards Changi Airport) at CTE Entrance
+571,2019-05-20 10:31:16,20,10,Monday,Accident on PIE (towards Changi Airport) at Toa Payoh 17D Exit
+572,2019-05-20 06:07:10,20,6,Monday,Obstacle on BKE (towards PIE) after Mandai Rd Exit. Avoid lane 2
+573,2019-05-20 05:08:05,20,5,Monday,Accident on Dunearn Road (towards City) after Swiss Club Road. Avoid right lane
+574,2019-05-20 04:46:59,20,4,Monday,Accident on PIE (towards Tuas) after Stevens Rd Exit
+575,2019-05-20 04:41:26,20,4,Monday,Accident on PIE (towards Tuas) after Stevens Rd Exit. Avoid lane 1
+576,2019-05-20 01:27:44,20,1,Monday,Obstacle on AYE (towards Tuas) after Benoi Rd Exit. Avoid lane 2
+577,2019-05-20 00:23:16,20,0,Monday,Obstacle on PIE (towards Changi Airport) after Toh Guan Rd Exit. Avoid lane 3
+578,2019-05-19 23:59:48,19,23,Sunday,Obstacle on PIE (towards Tuas) after Thomson Rd Exit. Avoid lane 4
+579,2019-05-19 23:45:09,19,23,Sunday,Accident on TPE (towards PIE) after Punggol Rd Exit. Avoid lane 4
+580,2019-05-19 23:20:37,19,23,Sunday,Accident on PIE (towards Changi Airport) after Kallang
+581,2019-05-19 22:50:27,19,22,Sunday,Accident on PIE (towards Changi Airport) after Kallang. Avoid lanes 4 and 5
+582,2019-05-19 18:49:31,19,18,Sunday,Accident on AYE (towards Tuas) after Jurong Pier Rd Exit. Avoid lane 1
+583,2019-05-19 18:29:37,19,18,Sunday,Accident on KPE (towards TPE) at PIE(Tuas) Exit
+584,2019-05-19 18:17:04,19,18,Sunday,Accident on Bukit Panjang Road (towards Gangsa Road) after Lompang Road
+585,2019-05-19 17:09:45,19,17,Sunday,Accident on KJE (towards BKE) after PIE Entrance. Avoid lane 5
+586,2019-05-19 14:39:50,19,14,Sunday,Accident on North Buona Vista Road near AYER RAJAH AVENUE/Dover Road Junction
+587,2019-05-19 14:08:59,19,14,Sunday,Accident on PIE (towards Changi Airport) at Toa Payoh Entrance
+588,2019-05-19 10:22:06,19,10,Sunday,Obstacle in CTE Tunnel (towards SLE) at Upper Cross Street Entrance
+589,2019-05-19 08:51:39,19,8,Sunday,Accident on PIE (towards Tuas) before Jalan Eunos with congestion till Bedok North Avenue 3 exit. Avoid lane 1
+590,2019-05-19 08:42:49,19,8,Sunday,Accident on PIE (towards Tuas) before Jalan Eunos. Avoid lane 1
+591,2019-05-19 08:07:33,19,8,Sunday,Accident on CTE (towards AYE) before PIE(Changi) Exit with congestion till AMK Ave 5 Exit
+592,2019-05-19 08:02:19,19,8,Sunday,Accident on CTE (towards AYE) before PIE(Changi) Exit with congestion till AMK Ave 5 Exit. Avoid lane 3
+593,2019-05-19 07:55:32,19,7,Sunday,Accident on Orchard Road (towards Bras Basah Rd) after Grange Road. Avoid left lane
+594,2019-05-19 07:51:54,19,7,Sunday,Accident on CTE (towards AYE) before PIE(Changi) Exit. Avoid lane 3
+595,2019-05-19 07:39:21,19,7,Sunday,Accident on CTE (towards AYE) before PIE(Changi) Exit. Avoid lanes 2 and 3
+596,2019-05-19 07:21:24,19,7,Sunday,Accident on Bayshore Road (towards Lucky Heights) after ECP. Avoid left lane
+597,2019-05-19 07:18:22,19,7,Sunday,Accident on PIE (towards Changi Airport) after TPE
+598,2019-05-19 07:05:00,19,7,Sunday,Accident on PIE (towards Changi Airport) after TPE. Avoid lane 4
+599,2019-05-19 05:54:43,19,5,Sunday,Accident on PIE (towards Changi Airport) after Bedok North Rd with congestion till Paya Lebar. Avoid lane 1
+600,2019-05-19 05:49:27,19,5,Sunday,Accident on SLE (towards BKE) after Lentor Ave Exit. Avoid lane 1
+601,2019-05-19 05:46:42,19,5,Sunday,Accident on SLE (towards BKE) after Lentor Ave Exit
+602,2019-05-19 05:45:58,19,5,Sunday,Accident on PIE (towards Changi Airport) after Bedok North Rd. Avoid lane 1
+603,2019-05-19 05:19:05,19,5,Sunday,Accident on ECP (towards City) before Still Rd Sth Exit
+604,2019-05-19 05:18:21,19,5,Sunday,Accident on ECP (towards City) before Still Rd Sth Exit. Avoid lane 2
+605,2019-05-19 04:16:34,19,4,Sunday,Accident on BKE (towards Woodlands) after PIE Entrance
+606,2019-05-19 03:52:28,19,3,Sunday,Accident on KPE (towards TPE) before Bartley Rd East Exit. Avoid lane 1
+607,2019-05-19 03:50:11,19,3,Sunday,Accident on KPE (towards TPE) before Bartley Rd East Exit. Avoid lanes 1 and 3
+608,2019-05-19 03:37:37,19,3,Sunday,Accident on PIE (towards Tuas) after Clementi Rd Exit. Avoid lane 1
+609,2019-05-19 03:27:51,19,3,Sunday,Accident on BKE (towards PIE) at PIE(City) Exit
+610,2019-05-19 03:25:32,19,3,Sunday,Accident on PIE (towards Tuas) after Paya Lebar Rd. Avoid lane 2
+611,2019-05-19 02:46:39,19,2,Sunday,Heavy Traffic on CTE (towards AYE) after PIE(Jurong) Exit
+612,2019-05-19 02:44:21,19,2,Sunday,Obstacle on AYE (towards Tuas) before Buona Vista exit. Avoid lane 1
+613,2019-05-19 02:30:39,19,2,Sunday,Accident on CTE (towards AYE) after PIE(Jurong) Exit with congestion till PIE(Changi) Exit. Avoid lane 1
+614,2019-05-19 02:26:11,19,2,Sunday,Accident on PIE (towards Tuas) after Jalan Eunos. Avoid lane 2
+615,2019-05-19 02:15:42,19,2,Sunday,Accident on CTE (towards AYE) after PIE(Jurong) Exit. Avoid lane 1
+616,2019-05-19 01:52:24,19,1,Sunday,Obstacle on Pasir Panjang Road (towards Science Park Road) after Balmeg Hill
+617,2019-05-19 01:45:02,19,1,Sunday,Obstacle on AYE (towards Tuas) at South Bouna Vista Entrance. South Bouna Vista Entrance closed
+618,2019-05-19 01:42:05,19,1,Sunday,Accident on PIE (towards Changi Airport) after CTE
+619,2019-05-19 01:39:03,19,1,Sunday,Obstacle on TPE (towards PIE) after Punggol Rd Exit. Avoid lane 1
+620,2019-05-19 01:32:20,19,1,Sunday,Accident on PIE (towards Changi Airport) before Kallang Way. Avoid lanes 3 and 4
+621,2019-05-19 01:31:36,19,1,Sunday,Obstacle on AYE (towards Tuas) at South Bouna Vista Entrance
+622,2019-05-19 01:27:51,19,1,Sunday,Accident on CTE (towards AYE) after Moulmein Rd Exit
+623,2019-05-19 01:04:14,19,1,Sunday,Obstacle on Clementi Avenue 2 towards Clementi Avenue 5
+624,2019-05-18 23:13:21,18,23,Saturday,Accident on River Valley Road near Eu Tong Sen Street/Hill Street Junction
+625,2019-05-18 22:35:51,18,22,Saturday,Accident on AYE (towards Tuas ) at Clementi Ave 6 Exit
+626,2019-05-18 21:34:52,18,21,Saturday,Accident on PIE (towards Tuas) after Eng Neo Ave
+627,2019-05-18 21:09:53,18,21,Saturday,Accident on AYE (towards Tuas ) at Clementi Ave 6 Exit. Clementi Ave 6 Exit closed
+628,2019-05-18 20:17:13,18,20,Saturday,Accident on TPE (towards PIE) before Sengkang Exit
+629,2019-05-18 19:22:14,18,19,Saturday,"Accident on TPE (towards PIE) before Sengkang Exit. Avoid lanes 3, 4 and 5"
+630,2019-05-18 19:19:58,18,19,Saturday,Accident on TPE (towards PIE) before Sengkang Exit. Avoid lane 4
+631,2019-05-18 19:06:58,18,19,Saturday,Accident on TPE (towards SLE) at Tampines Ave 7 Entrance
+632,2019-05-18 16:28:29,18,16,Saturday,Accident on TPE (towards SLE) after Punggol Rd Exit. Avoid lane 1
+633,2019-05-18 14:26:59,18,14,Saturday,Accident on CTE (towards AYE) after PIE(Jurong) Exit. Avoid lane 5
+634,2019-05-18 10:59:10,18,10,Saturday,Obstacle on AYE (towards Tuas) after Lower Delta Rd Exit. Avoid lanes 2 and 3
+635,2019-05-18 10:48:02,18,10,Saturday,Obstacle on AYE (towards Tuas) after Lower Delta Rd Exit. Avoid lane 2
+636,2019-05-18 09:25:30,18,9,Saturday,Heavy Traffic on PIE (towards Changi Airport) after Kim Keat Link
+637,2019-05-18 09:13:48,18,9,Saturday,Heavy Traffic on CTE (towards AYE) before PIE(Changi) Exit
+638,2019-05-18 08:59:25,18,8,Saturday,Accident on PIE (towards Changi Airport) after Kim Keat Link with congestion till Onraet Rd. Avoid lane 1
+639,2019-05-18 08:54:51,18,8,Saturday,Accident on PIE (towards Changi Airport) after Kim Keat Link. Avoid lane 1
+640,2019-05-18 08:45:13,18,8,Saturday,Accident on KJE (towards PIE) at Choa Chu Kang Dr Exit
+641,2019-05-18 08:43:45,18,8,Saturday,Accident on CTE (towards AYE) before PIE(Changi) Exit with congestion till AMK Ave 1 Exit. Avoid lane 4
+642,2019-05-18 08:30:59,18,8,Saturday,Accident on CTE (towards AYE) before PIE(Changi) Exit. Avoid lane 4
+643,2019-05-18 08:30:09,18,8,Saturday,Obstacle on KJE (towards BKE) after Sungei Tengah Exit. Avoid lane 3
+644,2019-05-18 08:27:57,18,8,Saturday,Obstacle on Braddell Road (towards Lornie) after Toa Payoh. Avoid right lane
+645,2019-05-18 08:23:26,18,8,Saturday,Obstacle on Braddell Road (towards Lornie) after Toa Payoh. Avoid left lane
+646,2019-05-18 08:14:03,18,8,Saturday,Accident on CTE (towards AYE) at Ang Mo Kio Ave 1 Exit
+647,2019-05-18 07:51:39,18,7,Saturday,Accident on TPE (towards SLE) before Punggol Rd Exit
+648,2019-05-18 07:44:19,18,7,Saturday,Accident on CTE (towards SLE) after Moulmein Rd Exit. Avoid lane 4
+649,2019-05-18 07:42:50,18,7,Saturday,Accident on CTE (towards AYE) before PIE(Changi) Exit
+650,2019-05-18 07:40:32,18,7,Saturday,Accident on KJE (towards PIE) after Choa Chu Kang Dr Exit. Avoid lane 4
+651,2019-05-18 07:36:07,18,7,Saturday,Accident on KJE (towards PIE) after Choa Chu Kang Dr Exit
+652,2019-05-18 04:37:19,18,4,Saturday,Obstacle on ECP (towards City) after KPE Exit. Avoid lane 3
+653,2019-05-18 04:36:35,18,4,Saturday,Obstacle on ECP (towards City) after KPE Exit. Avoid lanes 3 and 4
+654,2019-05-18 03:50:05,18,3,Saturday,Accident on Clementi Road (towards King Albert Park) after Jalan Anak Bukit. Avoid left lane
+655,2019-05-18 02:45:16,18,2,Saturday,Accident on Benoi Road (towards Jalan Ahmad Ibrahim) after International Road. Avoid left lane
+656,2019-05-18 02:42:19,18,2,Saturday,Heavy Traffic on PIE (towards Tuas) before KPE Exit
+657,2019-05-18 02:36:19,18,2,Saturday,Accident on Benoi Road (towards Jalan Ahmad Ibrahim) after International Road
+658,2019-05-18 02:05:57,18,2,Saturday,Accident on CTE (towards AYE) before AMK Ave 5 Exit
+659,2019-05-18 01:59:50,18,1,Saturday,Accident on PIE (towards Tuas) before KPE Exit with congestion till Jalan Eunos. Avoid lane 1
+660,2019-05-18 01:56:07,18,1,Saturday,Accident on CTE (towards AYE) before AMK Ave 5 Exit. Avoid lane 1
+661,2019-05-18 01:36:46,18,1,Saturday,Accident on PIE (towards Tuas) before KPE Exit. Avoid lane 1
+662,2019-05-18 00:38:30,18,0,Saturday,Obstacle on MCE (towards ECP) before Maxwell Rd Entrance. Avoid lanes 1 and 2
+663,2019-05-17 18:51:15,17,18,Friday,Obstacle on PIE (towards Changi Airport) after Bukit Batok East Ave 3. Avoid lane 2
+664,2019-05-17 15:27:01,17,15,Friday,Accident on CTE (towards SLE) before AMK Ave 3 Exit with congestion till Braddell Rd Exit. Avoid lane 4
+665,2019-05-17 15:15:41,17,15,Friday,Accident on CTE (towards SLE) before AMK Ave 3 Exit with congestion till Braddell Rd Exit. Avoid lane 5
+666,2019-05-17 15:11:28,17,15,Friday,Accident on PIE (towards Tuas) after Eng Neo Ave
+667,2019-05-17 15:07:39,17,15,Friday,Accident on CTE (towards SLE) before AMK Ave 3 Exit. Avoid lane 5
+668,2019-05-17 15:03:51,17,15,Friday,Accident on Sims Avenue (toward Changi) after Paya Lebar Road. Avoid left lane
+669,2019-05-17 14:46:34,17,14,Friday,Accident on PIE (towards Changi Airport) after Jalan Eunos with congestion till Kallang Way. Avoid lane 1
+670,2019-05-17 14:41:31,17,14,Friday,Accident on PIE (towards Changi Airport) after Jalan Eunos with congestion till Kallang Way. Avoid lanes 1 and 2
+671,2019-05-17 14:06:33,17,14,Friday,Accident on PIE (towards Changi Airport) after Jalan Eunos with congestion till Kallang. Avoid lanes 1 and 2
+672,2019-05-17 13:58:09,17,13,Friday,Accident on PIE (towards Changi Airport) after Jalan Eunos with congestion till Paya Lebar Rd. Avoid lanes 1 and 2
+673,2019-05-17 13:56:39,17,13,Friday,Accident on PIE (towards Changi Airport) after Jalan Eunos with congestion till Paya Lebar Rd. Avoid lane 1
+674,2019-05-17 13:55:55,17,13,Friday,Accident on PIE (towards Changi Airport) after Jalan Eunos. Avoid lane 1
+675,2019-05-17 13:32:49,17,13,Friday,Accident on BKE (towards Woodlands) after Mandai Rd Entrance
+676,2019-05-17 12:27:20,17,12,Friday,Accident in CTE Tunnel (towards SLE) before Cairnhill Circle Entrance. Avoid lane 1
+677,2019-05-17 11:11:17,17,11,Friday,Accident on KJE (towards PIE) at Choa Chu Kang Dr Exit
+678,2019-05-17 10:41:01,17,10,Friday,Accident on PIE (towards Tuas) after Bedok North Rd. Avoid lane 1
+679,2019-05-17 10:39:21,17,10,Friday,Accident on KPE (towards ECP) after Airport Rd Entrance
+680,2019-05-17 10:36:15,17,10,Friday,Accident in CTE Tunnel (towards SLE) after Bukit Timah Rd Entrance. Avoid lane 3
+681,2019-05-17 10:26:37,17,10,Friday,Heavy Traffic on PIE (towards Changi Airport) after TPE
+682,2019-05-17 10:26:37,17,10,Friday,Accident on SLE (towards CTE) before Woodlands Ave 12 Exit
+683,2019-05-17 10:23:22,17,10,Friday,Accident on AYE (towards MCE) after Alexandra
+684,2019-05-17 10:18:35,17,10,Friday,Accident on MCE (towards ECP) after Marina Blvd Entrance. Avoid lanes 5 and 6
+685,2019-05-17 10:08:05,17,10,Friday,Accident on MCE (towards ECP) after Marina Blvd Entrance. Avoid lane 6
+686,2019-05-17 10:05:08,17,10,Friday,Accident on SLE (towards CTE) before Woodlands Ave 12 Exit with congestion till BKE Entrance
+687,2019-05-17 09:54:49,17,9,Friday,Accident on SLE (towards CTE) before Woodlands Ave 12 Exit with congestion till BKE Entrance. Avoid lane 1
+688,2019-05-17 09:50:24,17,9,Friday,Accident on PIE (towards Changi Airport) after TPE with congestion till TPE. Avoid lane 1
+689,2019-05-17 09:46:06,17,9,Friday,Accident on SLE (towards CTE) before Woodlands Ave 12 Exit with congestion till Woodlands Ave 2 Exit. Avoid lane 1
+690,2019-05-17 09:44:34,17,9,Friday,Accident on SLE (towards CTE) before Woodlands Ave 12 Exit. Avoid lane 1
+691,2019-05-17 09:31:54,17,9,Friday,Accident on PIE (towards Changi Airport) after TPE. Avoid lane 1
+692,2019-05-17 09:28:51,17,9,Friday,Accident on AYE (towards Tuas) before Benoi Rd Exit. Avoid lane 1
+693,2019-05-17 09:22:07,17,9,Friday,Heavy Traffic on CTE (towards SLE) after Jalan Bahagia Exit
+694,2019-05-17 09:22:07,17,9,Friday,Accident on AYE (towards MCE) after Jurong Town Hall Exit with congestion till Yuan Ching Exit. Avoid lane 1
+695,2019-05-17 09:06:32,17,9,Friday,Accident on PIE (towards Changi Airport) before Bedok North Ave 3
+696,2019-05-17 09:06:32,17,9,Friday,Accident on CTE (towards SLE) after Jalan Bahagia Exit with congestion till Cairnhill Circle Entrance. Avoid lane 1
+697,2019-05-17 09:04:13,17,9,Friday,Accident in CTE Tunnel (towards SLE) after Cairnhill Circle Entrance. Avoid lane 4
+698,2019-05-17 09:01:13,17,9,Friday,Accident on AYE (towards MCE) after Jurong Town Hall Exit with congestion till Yuan Ching. Avoid lane 1
+699,2019-05-17 08:53:33,17,8,Friday,Accident on AYE (towards MCE) after Jurong Town Hall Exit. Avoid lane 1
+700,2019-05-17 08:52:48,17,8,Friday,Accident on PIE (towards Changi Airport) before Bedok North Ave 3 with congestion till Bedok North Rd
+701,2019-05-17 08:47:29,17,8,Friday,Accident on CTE (towards SLE) after Jalan Bahagia Exit. Avoid lane 1
+702,2019-05-17 08:31:41,17,8,Friday,Accident on PIE (towards Changi Airport) before Bedok North Ave 3 with congestion till Bedok North Rd. Avoid lanes 2 and 3
+703,2019-05-17 08:30:56,17,8,Friday,Accident on PIE (towards Changi Airport) before Bedok North Ave 3. Avoid lanes 2 and 3
+704,2019-05-17 07:41:02,17,7,Friday,Obstacle on AYE (towards Tuas) after Lower Delta Rd Exit. Avoid lane 1
+705,2019-05-17 05:52:03,17,5,Friday,Heavy Traffic on CTE (towards AYE) after Moulmein Rd Exit
+706,2019-05-17 05:48:17,17,5,Friday,Accident on CTE (towards AYE) after Moulmein Rd Exit with congestion till PIE(Changi) Exit. Avoid lane 1
+707,2019-05-17 05:38:02,17,5,Friday,Accident on CTE (towards AYE) after Moulmein Rd Exit with congestion till PIE(Changi) Exit. Avoid lanes 1 and 2
+708,2019-05-17 05:34:14,17,5,Friday,Accident on CTE (towards AYE) after Moulmein Rd Exit. Avoid lanes 1 and 2
+709,2019-05-17 05:33:30,17,5,Friday,Accident on CTE (towards AYE) after Moulmein Rd Exit. Avoid lane 1
+710,2019-05-17 02:18:05,17,2,Friday,Obstacle on PIE (towards Tuas) after Jalan Eunos. Avoid lane 2
+711,2019-05-17 02:01:52,17,2,Friday,"Temporary Road Closure along PIE (Tuas) between Exit 24 and Exit 26A on Wednesday, 22 May 2019 and Thursday, 23 May 2019 from 12.30 a.m. to 5.00 a.m. #sgtraffic http://bit.ly/2EhBsh4"
+712,2019-05-17 02:01:23,17,2,Friday,"Temporary Closure of Slip Road from CTE (AYE) to Havelock Road Exit on Thursday, 23 May 2019 from midnight to 5.00 a.m. #sgtraffic http://bit.ly/2W3jDwg"
+713,2019-05-17 02:00:58,17,2,Friday,"Temporary Road Closure along TPE (SLE) between Exit 6 and Exit 9 and Slip Road from KPE (TPE) to TPE (SLE) from Saturday, 25 May 2019 to Monday, 27 May 2019 from midnight to 5.00 a.m. #sgtraffic http://bit.ly/2HoMiUl"
+714,2019-05-17 02:00:38,17,2,Friday,"Commissioning of New Signalised Pedestrian Crossing at Woodlands Drive 16 on Friday, 24 May 2019 at 10.30 a.m. #sgtraffic http://bit.ly/2LO2AdO"
+715,2019-05-17 01:17:19,17,1,Friday,Accident on PIE (towards Changi Airport) at Bukit Batok East Ave 3 Exit
+716,2019-05-17 00:10:32,17,0,Friday,Accident on AYE (towards Tuas) before Clementi Ave 2 Exit
+717,2019-05-16 23:39:55,16,23,Thursday,Accident on KJE (towards PIE) after BKE Entrance. Avoid lane 4
+718,2019-05-16 23:37:40,16,23,Thursday,Accident on AYE (towards Tuas) after Jurong Port Rd Exit
+719,2019-05-16 23:12:50,16,23,Thursday,Accident on KJE (towards PIE) after BKE Entrance
+720,2019-05-16 23:09:44,16,23,Thursday,Accident on BKE (towards PIE) at PIE(Tuas) Exit
+721,2019-05-16 22:55:53,16,22,Thursday,Accident on BKE (towards PIE) after Dairy Farm Rd Entrance
+722,2019-05-16 22:52:48,16,22,Thursday,Accident on BKE (towards PIE) after Dairy Farm Rd Entrance. Avoid lane 1
+723,2019-05-16 22:30:20,16,22,Thursday,Accident on Jalan Anak Bukit (towards Clementi Road) after Hindhede Road. Jalan Anak Bukit closed after Hindhede Road
+724,2019-05-16 22:23:38,16,22,Thursday,Accident on CTE (towards SLE) at PIE Exit
+725,2019-05-16 21:19:05,16,21,Thursday,Accident on Jalan Anak Bukit (towards Clementi Road) after Hindhede Road. Avoid right lane
+726,2019-05-16 21:09:06,16,21,Thursday,Obstacle on PIE (towards Tuas) after Bedok North Avenue 3 exit. Avoid lane 1
+727,2019-05-16 14:09:52,16,14,Thursday,Obstacle in CTE Tunnel (towards SLE) at Merchant Road Exit
+728,2019-05-16 12:18:52,16,12,Thursday,Accident on PIE (towards Changi Airport) after Paya Lebar Rd
+729,2019-05-16 12:12:12,16,12,Thursday,Accident on PIE (towards Changi Airport) before Jalan Eunos. Avoid lane 1
+730,2019-05-16 10:56:16,16,10,Thursday,Heavy Traffic on PIE (towards Tuas) after Toh Guan Rd Exit
+731,2019-05-16 10:46:39,16,10,Thursday,Accident on KPE (towards TPE) after PIE Exit. Avoid lane 2
+732,2019-05-16 10:33:29,16,10,Thursday,Accident on BKE (towards Woodlands) after PIE Entrance
+733,2019-05-16 10:19:18,16,10,Thursday,Accident on PIE (towards Tuas) after Toh Guan Rd Exit with congestion till Clementi Ave 6 Exit. Avoid lane 1
+734,2019-05-16 10:17:06,16,10,Thursday,Accident on PIE (towards Tuas) after Toh Guan Rd Exit with congestion till Clementi Ave 6 Exit. Avoid lanes 1 and 2
+735,2019-05-16 10:06:49,16,10,Thursday,Accident on PIE (towards Tuas) after Toh Guan Rd Exit. Avoid lanes 1 and 2
+736,2019-05-16 08:10:28,16,8,Thursday,Accident on PIE (towards Changi Airport) at TPE Exit
+737,2019-05-16 06:34:16,16,6,Thursday,Heavy Traffic on CTE (towards AYE) before PIE(Changi) Exit
+738,2019-05-16 06:17:57,16,6,Thursday,Accident on CTE (towards AYE) before PIE(Changi) Exit with congestion till AMK Ave 5 Exit. Avoid lanes 3 and 4
+739,2019-05-16 06:07:39,16,6,Thursday,Accident on PIE (towards Changi Airport) after Kallang Way
+740,2019-05-16 05:49:30,16,5,Thursday,Accident on CTE (towards AYE) before PIE(Changi) Exit with congestion till AMK Ave 1 Exit. Avoid lanes 3 and 4
+741,2019-05-16 05:47:17,16,5,Thursday,Accident on ECP (towards City) before Still Rd Sth Exit. Avoid lane 3
+742,2019-05-16 05:44:59,16,5,Thursday,Accident on CTE (towards AYE) before PIE(Changi) Exit. Avoid lanes 3 and 4
+743,2019-05-16 05:43:30,16,5,Thursday,Accident on KPE (towards TPE) before Tampines Rd Exit
+744,2019-05-16 05:34:43,16,5,Thursday,Obstacle on PIE (towards Changi Airport) after KJE. Avoid lane 2
+745,2019-05-16 05:31:45,16,5,Thursday,Accident on ECP (towards City) before Still Rd Sth Exit
+746,2019-05-16 02:46:22,16,2,Thursday,Accident on Havelock Road (towards Upper Cross Street) after Saiboo Street
+747,2019-05-16 02:14:20,16,2,Thursday,Heavy Traffic on PIE (towards Tuas) after Eng Neo Ave
+748,2019-05-16 02:00:26,16,2,Thursday,Accident on Havelock Road (towards CTE) after Upper Cross Street
+749,2019-05-16 02:00:26,16,2,Thursday,Accident on PIE (towards Tuas) after Eng Neo Ave with congestion till Adam Rd Exit. Avoid lane 1
+750,2019-05-16 01:59:42,16,1,Thursday,Accident on PIE (towards Tuas) after Eng Neo Ave. Avoid lane 1
+751,2019-05-16 01:05:02,16,1,Thursday,Obstacle on KJE (towards BKE) before BKE Exit. Avoid lane 2
+752,2019-05-16 00:40:54,16,0,Thursday,Accident on PIE (towards Tuas) after Jalan Eunos. Avoid lane 2
+753,2019-05-16 00:36:34,16,0,Thursday,Accident on AYE (towards MCE) at Jalan Boon Lay Exit
+754,2019-05-16 00:10:16,16,0,Thursday,Accident on SLE (towards BKE) at TPE(PIE) Exit
+755,2019-05-15 23:53:49,15,23,Wednesday,Accident on AYE (towards Tuas) after Buona Vista exit. Avoid lane 1
+756,2019-05-15 23:44:04,15,23,Wednesday,Accident on BKE (towards PIE) before KJE Exit
+757,2019-05-15 18:50:28,15,18,Wednesday,Accident on Buangkok Green (towards Hougang Street 51) after Buangkok Drive. Avoid left lane
+758,2019-05-15 17:25:55,15,17,Wednesday,Accident on Pioneer Road (towards Tuas) after Tuas Road
+759,2019-05-15 16:55:42,15,16,Wednesday,Obstacle on BKE (towards PIE) before Woodlands Ave 3 Entrance
+760,2019-05-15 15:52:22,15,15,Wednesday,Accident on BKE (towards Woodlands) at Woodlands Rd Exit
+761,2019-05-15 15:37:50,15,15,Wednesday,Obstacle on TPE (towards SLE) after Punggol Rd Exit. Avoid lanes 1 and 2
+762,2019-05-15 15:35:03,15,15,Wednesday,Accident on BKE (towards Woodlands) before Woodlands Checkpoint. Avoid lane 2
+763,2019-05-15 15:15:08,15,15,Wednesday,Obstacle on TPE (towards SLE) after Punggol Rd Exit. Avoid lane 3
+764,2019-05-15 15:14:27,15,15,Wednesday,Obstacle on TPE (towards PIE) before Punggol Rd Exit. Avoid lane 3
+765,2019-05-15 13:58:45,15,13,Wednesday,Obstacle on AYE (towards MCE) after Clementi Ave 2 Exit. Avoid lanes 2 and 3
+766,2019-05-15 12:50:24,15,12,Wednesday,"Headed towards Lorong Halus or Punggol Central this weekend? Do note that the new slip road from TPE(PIE) Exit 7 will be opened from this Saturday, 18 May 2019, from 5am onwards! Check out this video to help you navigate better "
+767,2019-05-15 11:30:31,15,11,Wednesday,Heavy Traffic on CTE (towards AYE) after PIE(Jurong) Exit
+768,2019-05-15 11:13:19,15,11,Wednesday,Accident on CTE (towards AYE) after PIE(Jurong) Exit with congestion till PIE(Changi) Exit. Avoid lane 1
+769,2019-05-15 11:08:14,15,11,Wednesday,Accident on CTE (towards AYE) after PIE(Jurong) Exit. Avoid lane 1
+770,2019-05-15 11:06:46,15,11,Wednesday,Heavy Traffic on SLE (towards CTE) before Woodlands Ave 12 Exit
+771,2019-05-15 10:40:26,15,10,Wednesday,Accident on TPE (towards SLE) before Tampines Rd Exit
+772,2019-05-15 10:33:09,15,10,Wednesday,Accident on SLE (towards CTE) before Woodlands Ave 12 Exit with congestion till BKE Entrance. Avoid lanes 1 and 2
+773,2019-05-15 10:27:52,15,10,Wednesday,Accident on SLE (towards CTE) before Woodlands Ave 12 Exit with congestion till BKE Entrance. Avoid lane 1
+774,2019-05-15 10:25:32,15,10,Wednesday,Accident on ECP (towards Changi Airport) before Tg Katong Rd Exit. Avoid lane 4
+775,2019-05-15 10:24:03,15,10,Wednesday,Accident on Tuas Road (towards Tuas Viaduct) after Tuas Avenue 3
+776,2019-05-15 10:22:33,15,10,Wednesday,Accident on SLE (towards CTE) before Woodlands Ave 12 Exit. Avoid lane 1
+777,2019-05-15 10:19:29,15,10,Wednesday,Accident on SLE (towards CTE) before Woodlands Ave 12 Exit. Avoid lanes 1 and 2
+778,2019-05-15 10:10:24,15,10,Wednesday,Accident on PIE (towards Tuas) after Eng Neo Ave
+779,2019-05-15 09:16:26,15,9,Wednesday,Accident on AYE (towards Tuas) after Lower Delta Rd Exit with congestion till Lower Delta Rd Exit. Avoid lane 2
+780,2019-05-15 09:13:27,15,9,Wednesday,Obstacle on TPE (towards PIE) before Sengkang Exit. Avoid lane 3
+781,2019-05-15 09:07:46,15,9,Wednesday,Accident on AYE (towards Tuas) after Lower Delta Rd Exit. Avoid lane 2
+782,2019-05-15 09:03:14,15,9,Wednesday,Heavy Traffic on AYE (towards Tuas) after Lower Delta Rd Exit
+783,2019-05-15 08:47:32,15,8,Wednesday,Accident on AYE (towards Tuas) after Lower Delta Rd Exit with congestion till Lower Delta Rd Exit. Avoid lane 1
+784,2019-05-15 08:37:59,15,8,Wednesday,Accident on AYE (towards Tuas) after Lower Delta Rd Exit with congestion till Lower Delta Rd Exit. Avoid lanes 1 and 2
+785,2019-05-15 08:26:46,15,8,Wednesday,Accident on AYE (towards Tuas) after Lower Delta Rd Exit. Avoid lanes 1 and 2
+786,2019-05-15 08:25:13,15,8,Wednesday,Accident on AYE (towards Tuas) after Lower Delta Rd Exit. Avoid lane 1
+787,2019-05-15 08:23:45,15,8,Wednesday,Heavy Traffic on PIE (towards Tuas) after Stevens Rd Exit
+788,2019-05-15 07:54:56,15,7,Wednesday,Accident on PIE (towards Tuas) after Stevens Rd Exit with congestion till Thomson Rd Exit
+789,2019-05-15 07:53:27,15,7,Wednesday,Accident on PIE (towards Tuas) after Stevens Rd Exit with congestion till Thomson Rd Exit. Avoid lane 1
+790,2019-05-15 07:50:27,15,7,Wednesday,Accident on PIE (towards Tuas) after Stevens Rd Exit. Avoid lane 1
+791,2019-05-15 07:15:17,15,7,Wednesday,Accident on BKE (towards Woodlands) after PIE Entrance. Avoid lane 3
+792,2019-05-15 07:14:32,15,7,Wednesday,Accident on PIE (towards Tuas) at BKE(Woodlands) Exit
+793,2019-05-15 03:24:47,15,3,Wednesday,Accident on AYE (towards Tuas) after Buona Vista exit. Avoid lane 2
+794,2019-05-15 02:33:09,15,2,Wednesday,"Temporary Closure of Slip Road from PIE (Tuas) to Bendemeer Road on 22, 23 and 28 May 2019 from 1.00 a.m to 5.00 a.m. #sgtraffic http://bit.ly/30jEAlI"
+795,2019-05-15 02:31:25,15,2,Wednesday,"Temporary Closure of Slip Roads at Sentosa Gateway Tunnel from Wednesday, 22 May 2019 to Friday, 24 May 2019 from midnight to 5.00 a.m daily. #sgtraffic http://bit.ly/30m0ViA"
+796,2019-05-15 02:30:58,15,2,Wednesday,"Temporary Closure of Slip Roads from Tampines Avenue 7 and Loyang Avenue to TPE (Changi) from Tuesday, 21 May 2019 to Saturday, 25 May 2019 from 1.00 a.m to 5.00 a.m daily. #sgtraffic http://bit.ly/2HjELpE"
+797,2019-05-15 02:30:28,15,2,Wednesday,"Temporary Road Closure at KPE Tunnel on Sunday, 19 May 2019 from midnight to 9.00 a.m. #sgtraffic http://bit.ly/2WL1MHA"
+798,2019-05-15 02:30:06,15,2,Wednesday,"Temporary Closure of Slip Road from CTE (SLE) to Merchant Road Exit on Tuesday, 21 May 2019 from midnight to 5.00 a.m. #sgtraffic http://bit.ly/2HvtcuK"
+799,2019-05-15 01:42:37,15,1,Wednesday,Accident on KPE (towards ECP) after Airport Rd Entrance with congestion till Airport Rd Exit. Avoid lane 1
+800,2019-05-15 01:17:21,15,1,Wednesday,Accident on KPE (towards ECP) after Airport Rd Entrance. Avoid lane 1
+801,2019-05-15 01:09:50,15,1,Wednesday,Heavy Traffic on BKE (towards PIE) before Bukit Panjang Rd Exit
+802,2019-05-15 01:05:29,15,1,Wednesday,Accident on PIE (towards Tuas) before Jalan Eunos
+803,2019-05-15 00:55:43,15,0,Wednesday,Accident on TPE (towards SLE) after Punggol Rd Exit. Avoid lane 1
+804,2019-05-15 00:46:42,15,0,Wednesday,Accident on BKE (towards PIE) before Bukit Panjang Rd Exit with congestion till KJE Exit. Avoid lane 1
+805,2019-05-15 00:36:23,15,0,Wednesday,Heavy Traffic on ECP (towards Changi Airport) after Still Rd Sth Exit
+806,2019-05-15 00:34:50,15,0,Wednesday,Accident on BKE (towards PIE) before Bukit Panjang Rd Exit. Avoid lane 1
+807,2019-05-15 00:13:59,15,0,Wednesday,Accident on ECP (towards Changi Airport) after Still Rd Sth Exit with congestion till Tg Katong Rd Exit. Avoid lane 1
+808,2019-05-15 00:07:33,15,0,Wednesday,Accident on ECP (towards Changi Airport) after Still Rd Sth Exit. Avoid lane 1
+809,2019-05-15 00:04:30,15,0,Wednesday,Accident on ECP (towards Changi Airport) after Still Rd Sth Exit. Avoid lane 3
+810,2019-05-14 22:48:45,14,22,Tuesday,Accident on AYE (towards MCE) before Jurong Town Hall Exit. Avoid lane 4
+811,2019-05-14 21:05:21,14,21,Tuesday,Obstacle on PIE (towards Tuas) at TPE(SLE) Exit
+812,2019-05-14 16:28:53,14,16,Tuesday,Accident on SLE (towards CTE) at Yio Chu Kang Rd Exit. Yio Chu Kang Rd Exit closed
+813,2019-05-14 16:11:15,14,16,Tuesday,Accident on SLE (towards CTE) at Yio Chu Kang Rd Exit
+814,2019-05-14 14:18:10,14,14,Tuesday,Accident on PIE (towards Tuas) at Kallang Bahru Exit
+815,2019-05-14 13:55:17,14,13,Tuesday,Accident on TPE (towards PIE) at Pasir Ris Dr 12 Exit
+816,2019-05-14 12:29:26,14,12,Tuesday,Accident on BKE (towards Woodlands) after PIE Entrance
+817,2019-05-14 12:22:13,14,12,Tuesday,Accident on CTE (towards SLE) after Braddell Rd Exit with congestion till Jalan Bahagia Exit. Avoid lane 1
+818,2019-05-14 12:19:15,14,12,Tuesday,Accident on CTE (towards SLE) after Braddell Rd Exit. Avoid lane 1
+819,2019-05-14 11:51:39,14,11,Tuesday,Accident on PIE (towards Tuas) after Thomson Rd Exit
+820,2019-05-14 11:35:32,14,11,Tuesday,Accident on BKE (towards Woodlands) after Dairy Farm Rd Exit. Avoid lane 1
+821,2019-05-14 10:47:38,14,10,Tuesday,Accident on SLE (towards CTE) after Woodlands Ave 12 Exit
+822,2019-05-14 10:43:07,14,10,Tuesday,Obstacle on PIE (towards Tuas) at Bedok North Ave 3 Exit
+823,2019-05-14 10:40:06,14,10,Tuesday,Accident on KPE (towards TPE) at Sims Avenue Entrance
+824,2019-05-14 08:00:11,14,8,Tuesday,Accident on AYE (towards Tuas) before Tuas Rd Exit with congestion till Benoi Rd Exit. Avoid lane 3
+825,2019-05-14 07:41:40,14,7,Tuesday,Obstacle on AYE (towards Tuas ) after Clementi Ave 6 Exit. Avoid lane 3
+826,2019-05-14 07:34:30,14,7,Tuesday,Accident on AYE (towards Tuas) before Tuas Rd Exit with congestion till Benoi Rd Exit. Avoid lanes 2 and 3
+827,2019-05-14 07:24:06,14,7,Tuesday,Accident on AYE (towards Tuas) before Tuas Rd Exit. Avoid lanes 2 and 3
+828,2019-05-14 07:12:55,14,7,Tuesday,Accident on AYE (towards Tuas) before Tuas Rd Exit. Avoid lane 3
+829,2019-05-14 06:50:05,14,6,Tuesday,Accident on Upper Serangoon Road (towards City) after Serangoon Avenue 2
+830,2019-05-14 06:41:16,14,6,Tuesday,Accident on Dunearn Road (towards City) after Wayang Satu Flyover. Avoid right lane
+831,2019-05-14 06:39:00,14,6,Tuesday,Accident on Upper Serangoon Road (towards City) after Serangoon Avenue 2. Avoid right lane
+832,2019-05-14 05:38:14,14,5,Tuesday,Accident on CTE (towards SLE) after Jalan Bahagia Exit. Avoid lane 4
+833,2019-05-14 04:37:34,14,4,Tuesday,Obstacle in CTE Tunnel (towards AYE) before Havelock Exit. Avoid lane 2
+834,2019-05-14 04:26:00,14,4,Tuesday,Accident on PIE (towards Tuas) after BKE
+835,2019-05-14 03:38:03,14,3,Tuesday,Obstacle on PIE (towards Changi Airport) before Kallang Way. Avoid lane 4
+836,2019-05-14 01:43:00,14,1,Tuesday,Accident on KPE (towards ECP) before PIE(Tuas) Exit with congestion till Airport Rd Entrance. Avoid lane 2
+837,2019-05-14 01:39:58,14,1,Tuesday,Accident on KPE (towards ECP) before PIE(Tuas) Exit. Avoid lane 2
+838,2019-05-14 01:15:19,14,1,Tuesday,Accident on AYE (towards Tuas) before Buona Vista exit. Avoid lane 5
+839,2019-05-14 00:05:09,14,0,Tuesday,Accident on TPE (towards PIE) after Pasir Ris Dr 8 Exit
+840,2019-05-14 00:02:13,14,0,Tuesday,Accident on KPE (towards ECP) after Buangkok Dr Exit. Avoid lane 1
+841,2019-05-14 00:01:29,14,0,Tuesday,Accident on KPE (towards ECP) after Buangkok Dr Exit
+842,2019-05-13 23:43:37,13,23,Monday,Heavy Traffic on PIE (towards Changi Airport) at ECP(City) Exit
+843,2019-05-13 23:36:59,13,23,Monday,Accident on PIE (towards Tuas) after KPE Exit
+844,2019-05-13 23:17:15,13,23,Monday,Accident on PIE (towards Changi Airport) at ECP(City) Exit with congestion till TPE
+845,2019-05-13 22:15:57,13,22,Monday,Accident on ECP (towards City) after PIE(Tuas) Exit. Avoid lane 2
+846,2019-05-13 21:54:51,13,21,Monday,Accident on ECP (towards City) after PIE(Tuas) Exit. Avoid lane 3
+847,2019-05-13 21:46:04,13,21,Monday,Accident on PIE (towards Changi Airport) at ECP(City) Exit
+848,2019-05-13 17:32:53,13,17,Monday,Accident on Bukit Panjang Ring Road (towards Bangkit Road) after Bukit Panjang Road. Avoid left lane
+849,2019-05-13 17:30:37,13,17,Monday,Accident on Mount Pleasant Road near Malcolm Road/Mount Pleasant Road Junction
+850,2019-05-13 14:32:11,13,14,Monday,Accident on BKE (towards Woodlands) after Dairy Farm Rd Exit
+851,2019-05-13 14:17:18,13,14,Monday,Accident on BKE (towards Woodlands) after Dairy Farm Rd Exit. Avoid lane 3
+852,2019-05-13 13:05:34,13,13,Monday,Accident on PIE (towards Changi Airport) after Kallang
+853,2019-05-13 12:48:09,13,12,Monday,Accident on PIE (towards Changi Airport) after TPE. Avoid lane 3
+854,2019-05-13 10:35:22,13,10,Monday,Accident on Adam Road (towards Queensway) at Farrer Flyover with congestion till PIE
+855,2019-05-13 10:25:06,13,10,Monday,Accident on East Coast Road (towards Changi) after Joo Chiat Road. Avoid left lane
+856,2019-05-13 10:16:55,13,10,Monday,Accident on Adam Road (towards Queensway) at Farrer Flyover
+857,2019-05-13 10:16:55,13,10,Monday,Accident on KPE (towards TPE) after Airport Rd Entrance
+858,2019-05-13 10:11:40,13,10,Monday,Accident on Adam Road (towards Queensway) at Farrer Flyover. Avoid right lane
+859,2019-05-13 09:33:39,13,9,Monday,Accident on East Coast Road (towards Changi) after Joo Chiat Road
+860,2019-05-13 09:32:13,13,9,Monday,Accident on SLE (towards CTE) before Lentor Ave Exit with congestion till Upper Thomson Rd Exit. Avoid lane 5
+861,2019-05-13 07:32:29,13,7,Monday,Heavy Traffic on PIE (towards Changi Airport) after Jalan Anak Bukit
+862,2019-05-13 07:28:47,13,7,Monday,Heavy Traffic on AYE (towards Tuas) before Clementi Rd Exit
+863,2019-05-13 07:25:53,13,7,Monday,Obstacle on PIE (towards Changi Airport) before KJE. Avoid lane 5
+864,2019-05-13 07:24:20,13,7,Monday,Flash Flood on PIE (towards Changi Airport) before KJE
+865,2019-05-13 07:17:43,13,7,Monday,Accident on PIE (towards Changi Airport) after Jalan Anak Bukit with congestion till Bukit Timah Rd exit
+866,2019-05-13 07:08:03,13,7,Monday,Obstacle on AYE (towards Tuas) before Clementi Rd Exit with congestion till Normanton Exit. Avoid lanes 3 and 4
+867,2019-05-13 06:58:37,13,6,Monday,Obstacle on AYE (towards Tuas) before Clementi Rd Exit with congestion till Buona Vista exit. Avoid lanes 3 and 4
+868,2019-05-13 06:54:13,13,6,Monday,Accident on PIE (towards Changi Airport) after Jalan Anak Bukit with congestion till Bukit Timah Rd exit. Avoid lane 2
+869,2019-05-13 06:53:29,13,6,Monday,Accident on PIE (towards Changi Airport) after Jalan Anak Bukit with congestion till Bukit Timah Rd exit. Avoid lanes 2 and 3
+870,2019-05-13 06:52:47,13,6,Monday,Accident on PIE (towards Changi Airport) after Jalan Anak Bukit. Avoid lanes 2 and 3
+871,2019-05-13 06:46:14,13,6,Monday,Obstacle on AYE (towards Tuas) before Clementi Rd Exit with congestion till Buona Vista exit. Avoid lane 3
+872,2019-05-13 06:31:03,13,6,Monday,Obstacle on AYE (towards Tuas) before Clementi Rd Exit. Avoid lanes 1 and 3
+873,2019-05-13 06:29:30,13,6,Monday,Obstacle on AYE (towards Tuas) before Clementi Rd Exit. Avoid lane 3
+874,2019-05-13 06:27:20,13,6,Monday,Accident on PIE (towards Changi Airport) at Upper Serangoon Rd Exit
+875,2019-05-13 04:43:34,13,4,Monday,Accident on SLE (towards CTE) before Lentor Ave Exit. Avoid lane 5
+876,2019-05-13 04:13:16,13,4,Monday,Accident on CTE (towards SLE) after Jalan Bahagia Exit. Avoid lane 4
+877,2019-05-13 04:11:50,13,4,Monday,Accident on CTE (towards SLE) after Jalan Bahagia Exit. Avoid lane 3
+878,2019-05-13 04:10:18,13,4,Monday,Accident on ECP (towards Changi Airport) before PIE Exit
+879,2019-05-13 04:01:39,13,4,Monday,Obstacle on TPE (towards SLE) before Tampines Ave 7 Exit. Avoid lane 3
+880,2019-05-13 03:41:23,13,3,Monday,Accident on SLE (towards CTE) before Lentor Ave Exit. Avoid lanes 4 and 5
+881,2019-05-13 03:40:33,13,3,Monday,Accident on SLE (towards CTE) before Lentor Ave Exit
+882,2019-05-13 03:32:34,13,3,Monday,Accident on Ang Mo Kio Avenue 5 near Ang Mo Kio Avenue 5/Yio Chu Kang Road Junction
+883,2019-05-13 03:31:07,13,3,Monday,Obstacle on PIE (towards Changi Airport) after BKE. Avoid lane 3
+884,2019-05-13 03:21:29,13,3,Monday,Accident on BKE (towards PIE) at PIE(City) Exit
+885,2019-05-13 02:52:47,13,2,Monday,Accident on AYE (towards Tuas) before Buona Vista exit. Avoid lanes 1 and 2
+886,2019-05-13 02:24:28,13,2,Monday,Accident on Yio Chu Kang Road near Ang Mo Kio Avenue 5/Yio Chu Kang Road Junction
+887,2019-05-13 01:41:24,13,1,Monday,Accident on PIE (towards Changi Airport) before BKE
+888,2019-05-13 01:29:53,13,1,Monday,Accident on PIE (towards Tuas) after BKE with congestion till Eng Neo Ave
+889,2019-05-13 01:29:09,13,1,Monday,Accident on PIE (towards Tuas) after BKE
+890,2019-05-13 01:07:45,13,1,Monday,Accident on PIE (towards Tuas) after BKE with congestion till Eng Neo Ave. Avoid lane 1
+891,2019-05-13 01:04:02,13,1,Monday,Heavy Traffic on SLE (towards BKE) after Woodlands Ave 2 Exit
+892,2019-05-13 00:59:43,13,0,Monday,Accident on PIE (towards Tuas) after BKE. Avoid lane 1
+893,2019-05-13 00:58:12,13,0,Monday,Accident on SLE (towards BKE) after Woodlands Ave 2 Exit with congestion till Woodlands Ave 12 Exit
+894,2019-05-13 00:56:01,13,0,Monday,Accident on PIE (towards Tuas) after Clementi Rd Exit. Avoid lane 1
+895,2019-05-13 00:41:04,13,0,Monday,Accident on SLE (towards BKE) after Woodlands Ave 2 Exit with congestion till Woodlands Ave 12 Exit. Avoid lane 1
+896,2019-05-13 00:39:30,13,0,Monday,Accident on SLE (towards BKE) after Woodlands Ave 2 Exit. Avoid lane 1
+897,2019-05-13 00:34:17,13,0,Monday,Accident on AYE (towards MCE) after Portsdown Rd Exit with congestion till Buona Vista Exit. Avoid lane 4
+898,2019-05-13 00:33:01,13,0,Monday,Accident on AYE (towards MCE) after Portsdown Rd Exit. Avoid lane 4
+899,2019-05-13 00:33:01,13,0,Monday,Accident on Alexandra Road (towards Bukit Merah Lane 1) after Jalan Bukit Merah. Avoid left lane
+900,2019-05-13 00:29:16,13,0,Monday,Heavy Traffic in CTE Tunnel (towards AYE) after Bukit Timah Rd Exit
+901,2019-05-13 00:22:36,13,0,Monday,Accident on Dunearn Road (towards City) after Hillcrest Road. Avoid left lane
+902,2019-05-13 00:19:34,13,0,Monday,Accident in CTE Tunnel (towards AYE) after Bukit Timah Rd Exit with congestion till PIE(Jurong) Exit. Avoid lane 1
+903,2019-05-13 00:15:07,13,0,Monday,Accident on SLE (towards BKE) after Lentor Ave Exit
+904,2019-05-13 00:10:38,13,0,Monday,Accident in CTE Tunnel (towards AYE) after Bukit Timah Rd Exit with congestion till Balestier Rd Exit. Avoid lane 1
+905,2019-05-13 00:07:00,13,0,Monday,Accident on KJE (towards PIE) before PIE(Changi) Exit. Avoid lane 1
+906,2019-05-13 00:02:01,13,0,Monday,Accident in CTE Tunnel (towards AYE) after Bukit Timah Rd Exit. Avoid lane 1
+907,2019-05-12 15:14:07,12,15,Sunday,Accident on KPE (towards TPE) before Halus Link Exit
+908,2019-05-12 13:47:40,12,13,Sunday,Accident on PIE (towards Tuas) at Jalan Bahar Exit
+909,2019-05-12 12:58:41,12,12,Sunday,Accident on Adam Road (towards Queensway) at Farrer Flyover. Avoid left lane
+910,2019-05-12 12:19:11,12,12,Sunday,Obstacle on PIE (towards Changi Airport) before Bedok North Rd
+911,2019-05-12 12:17:01,12,12,Sunday,Obstacle in CTE Tunnel (towards AYE) after Orchard Rd Exit. Avoid lane 3
+912,2019-05-12 12:12:33,12,12,Sunday,Obstacle on PIE (towards Changi Airport) at KPE(ECP) Exit
+913,2019-05-12 10:03:27,12,10,Sunday,Obstacle in CTE Tunnel (towards SLE) after Bukit Timah Rd Entrance. Avoid lane 1
+914,2019-05-12 09:07:45,12,9,Sunday,Accident on Defu Avenue 1 (towards Defu Lane 1) after Defu Lane 10
+915,2019-05-12 08:59:57,12,8,Sunday,Accident on Tampines Road (towards Hougang Avenue 7) after Fish Farm Road 1. Avoid left lane
+916,2019-05-12 08:51:14,12,8,Sunday,Obstacle in CTE Tunnel (towards AYE) before Orchard Rd Exit. Avoid lane 3
+917,2019-05-12 07:47:46,12,7,Sunday,Accident on PIE (towards Tuas) before KPE Exit
+918,2019-05-12 05:42:06,12,5,Sunday,Accident in CTE Tunnel (towards AYE) at Cairnhill Circle Exit
+919,2019-05-12 05:39:50,12,5,Sunday,Accident on PIE (towards Tuas) after Toa Payoh Exit. Avoid lane 4
+920,2019-05-12 05:15:07,12,5,Sunday,Accident on PIE (towards Changi Airport) after Bedok North Ave 3 with congestion till Bedok North Ave 3. Avoid lanes 1 and 2
+921,2019-05-12 05:09:14,12,5,Sunday,Accident on PIE (towards Changi Airport) after Bedok North Ave 3. Avoid lanes 1 and 2
+922,2019-05-12 03:58:49,12,3,Sunday,Obstacle on TPE (towards PIE) after Pasir Ris Dr 8 Exit. Avoid lane 1
+923,2019-05-12 03:46:21,12,3,Sunday,Accident in Sentosa Gateway Tunnel
+924,2019-05-12 03:07:45,12,3,Sunday,Accident in Sentosa Gateway Tunnel. Avoid lane 1
+925,2019-05-12 01:01:00,12,1,Sunday,"A portion of Portsdown Road, near to Ayer Rajah Crescent and Jalan Hang Jebat, is now closed. Motorists are advised to drive carefully and follow the traffic signs to reach their destinations."
+926,2019-05-12 01:00:00,12,1,Sunday,The new flyover at Mediapolis precinct is now open. Motorists travelling from One-North area and Science Park can now use the flyover to AYE heading towards city.
+927,2019-05-11 23:29:27,11,23,Saturday,Accident on BKE (towards PIE) after Mandai Rd Exit
+928,2019-05-11 23:04:15,11,23,Saturday,Accident on BKE (towards PIE) after Mandai Rd Exit. Avoid lane 1
+929,2019-05-11 16:38:35,11,16,Saturday,Accident on PIE (towards Tuas) at Jurong East Ave 1 Exit
+930,2019-05-11 16:02:36,11,16,Saturday,Obstacle on BKE (towards PIE) before SLE Exit. Avoid lane 2
+931,2019-05-11 16:01:16,11,16,Saturday,Obstacle on BKE (towards PIE) before SLE Exit. Avoid lane 1
+932,2019-05-11 15:46:28,11,15,Saturday,Heavy Traffic on PIE (towards Tuas) after Thomson Rd Exit
+933,2019-05-11 15:43:31,11,15,Saturday,Accident on ECP (towards City) before PIE(Tuas) Exit. Avoid lane 3
+934,2019-05-11 14:56:25,11,14,Saturday,Accident on PIE (towards Tuas) after Thomson Rd Exit with congestion till Thomson Rd Exit. Avoid lane 1
+935,2019-05-11 14:46:45,11,14,Saturday,Accident on PIE (towards Tuas) after Thomson Rd Exit. Avoid lane 1
+936,2019-05-11 14:30:26,11,14,Saturday,Accident on PIE (towards Tuas) after Eng Neo Ave. Avoid lane 4
+937,2019-05-11 12:31:46,11,12,Saturday,Obstacle on PIE (towards Changi Airport) at TPE Exit
+938,2019-05-11 12:16:29,11,12,Saturday,Accident on North Bridge Road (towards Middle Road) after Liang Seah Street. Avoid left lane
+939,2019-05-11 12:01:04,11,12,Saturday,Accident on AYE (towards Tuas ) at West Coast Way Entrance
+940,2019-05-11 11:51:41,11,11,Saturday,Accident on Simei Avenue near Simei Avenue/Upper Changi Road East Junction
+941,2019-05-11 11:50:59,11,11,Saturday,Accident on Tampines Avenue 10 near Tampines Avenue 1/Tampines Avenue 10 Junction
+942,2019-05-11 11:03:18,11,11,Saturday,Accident on North Bridge Road (towards Middle Road) after Liang Seah Street
+943,2019-05-11 09:55:10,11,9,Saturday,Heavy Traffic on CTE (towards SLE) after Braddell Rd Exit
+944,2019-05-11 09:54:26,11,9,Saturday,Accident on CTE (towards SLE) after Braddell Rd Exit with congestion till Braddell Rd Exit. Avoid lane 1
+945,2019-05-11 09:51:33,11,9,Saturday,Accident on CTE (towards SLE) after Braddell Rd Exit. Avoid lane 1
+946,2019-05-11 09:01:32,11,9,Saturday,Obstacle on TPE (towards PIE) before Seletar Link Exit. Avoid lane 3
+947,2019-05-11 08:56:33,11,8,Saturday,Accident on PIE (towards Tuas) after KPE Exit
+948,2019-05-11 06:46:40,11,6,Saturday,Accident on PIE (towards Tuas) at Clementi Rd Exit
+949,2019-05-11 06:34:06,11,6,Saturday,Accident on AYE (towards Tuas) at Penjuru Rd Entrance
+950,2019-05-11 05:29:41,11,5,Saturday,Accident on PIE (towards Changi Airport) after Kim Keat Link with congestion till Stevens Rd Exit. Avoid lane 1
+951,2019-05-11 05:22:31,11,5,Saturday,Accident on PIE (towards Changi Airport) after Kim Keat Link. Avoid lane 1
+952,2019-05-11 04:40:41,11,4,Saturday,Accident on ECP (towards City) at Rochor Rd Exit
+953,2019-05-11 04:18:46,11,4,Saturday,Accident on SLE (towards BKE) after TPE Exit
+954,2019-05-11 03:20:59,11,3,Saturday,Accident on AYE (towards Tuas) after Keppel Rd exit
+955,2019-05-11 03:20:09,11,3,Saturday,Obstacle on AYE (towards Tuas) after Penjuru Rd Exit
+956,2019-05-11 03:18:40,11,3,Saturday,Obstacle on AYE (towards Tuas) after Penjuru Rd Exit. Avoid lane 2
+957,2019-05-11 03:06:49,11,3,Saturday,Accident on KPE (towards ECP) after Airport Rd Entrance. Avoid lane 2
+958,2019-05-11 02:57:19,11,2,Saturday,Accident on Stamford Road (towards Fort Canning Link) after Victoria Street
+959,2019-05-11 02:29:21,11,2,Saturday,Heavy Traffic on PIE (towards Changi Airport) before Jalan Eunos
+960,2019-05-11 02:22:58,11,2,Saturday,Accident on PIE (towards Changi Airport) before Jalan Eunos with congestion till Paya Lebar Rd. Avoid lane 1
+961,2019-05-11 02:17:49,11,2,Saturday,Accident on PIE (towards Changi Airport) before Jalan Eunos. Avoid lane 1
+962,2019-05-11 02:03:07,11,2,Saturday,Accident on PIE (towards Changi Airport) after Lornie Rd
+963,2019-05-11 01:52:19,11,1,Saturday,Accident on KPE (towards ECP) after Tampines Rd Exit
+964,2019-05-11 01:01:00,11,1,Saturday,"A portion of Portsdown Road, near to Ayer Rajah Crescent and Jalan Hang Jebat, will be closed upon the opening of the flyover. Motorists are advised to drive carefully and follow the traffic signs to reach their destinations."
+965,2019-05-11 01:00:00,11,1,Saturday,"New flyover at Mediapolis precinct will open on Sunday, 12 May at 12.30am. Motorists travelling from one-north and Science Park will be able to use the flyover to AYE heading towards city."
+966,2019-05-11 00:59:42,11,0,Saturday,Accident on SLE (towards BKE) at TPE(PIE) Exit
+967,2019-05-11 00:54:42,11,0,Saturday,Accident on SLE (towards BKE) after Woodlands Ave 2 Exit. Avoid lane 2
+968,2019-05-10 22:21:13,10,22,Friday,Accident on AYE (towards MCE) after Clementi Ave 6 Exit
+969,2019-05-10 22:16:54,10,22,Friday,Accident on AYE (towards MCE) after Clementi Ave 6 Exit. Avoid lane 2
+970,2019-05-10 22:05:23,10,22,Friday,Accident on PIE (towards Tuas) at BKE(Woodlands) Exit
+971,2019-05-10 18:45:58,10,18,Friday,Accident on Ang Mo Kio Avenue 5 (towards CTE) after Ang Mo Kio Avenue 3. Avoid left lane
+972,2019-05-10 17:08:36,10,17,Friday,Accident on PIE (towards Changi Airport) at Bedok North Ave 3 Entrance
+973,2019-05-10 15:16:21,10,15,Friday,Accident on AYE (towards Tuas) after Normanton Exit. Avoid lane 4
+974,2019-05-10 14:52:53,10,14,Friday,Accident on SLE (towards BKE) at BKE(Woodlands) Exit
+975,2019-05-10 14:52:10,10,14,Friday,Accident on PIE (towards Tuas) after Clementi Ave 6 Exit. Avoid lane 1
+976,2019-05-10 13:45:36,10,13,Friday,Accident on ECP (towards City) before PIE(Tuas) Exit. Avoid lane 3
+977,2019-05-10 12:03:12,10,12,Friday,Accident on PIE (towards Changi Airport) after BKE
+978,2019-05-10 11:26:14,10,11,Friday,Obstacle on KPE (towards TPE) before Airport Rd Entrance. Avoid lane 3
+979,2019-05-10 10:41:59,10,10,Friday,"Temporary Closure of TPE (Changi), TPE (SLE) and Slip Roads to TPE (Changi) and TPE (SLE) on Sunday, 19 May 2019. More details: http://bit.ly/2VPNlEU #sgtraffic"
+980,2019-05-10 10:41:29,10,10,Friday,"Commissioning of New Signalised Pedestrian and Bicycle Crossing at Tampines Avenue 7 on Thursday, 16 May 2019 at 10.30 a.m. #sgtraffic http://bit.ly/2WF8aQI"
+981,2019-05-10 10:41:06,10,10,Friday,"Temporary Closure of Slip Road from Toh Tuck Avenue to PIE (Tuas) from Wednesday, 15 May 2019 to Friday, 17 May 2019 from 1.00 a.m to 5.00 a.m daily. #sgtraffic http://bit.ly/2WANiK2"
+982,2019-05-10 10:40:41,10,10,Friday,"Temporary Closure of Slip Road from Tanah Merah Coast Road to ECP (Changi) on Friday, 17 May 2019 and Saturday, 18 May 2019 from 1.00 a.m to 5.00 a.m daily. #sgtraffic http://bit.ly/2vYLcs5"
+983,2019-05-10 10:19:53,10,10,Friday,Accident on MCE (towards ECP) after Central Blvd Exit. Avoid lane 1
+984,2019-05-10 09:29:04,10,9,Friday,Accident on KPE (towards ECP) before Sims Ave Exit with congestion till PIE(Tuas) Exit. Avoid lane 3
+985,2019-05-10 08:59:19,10,8,Friday,Accident on KPE (towards ECP) before Sims Ave Exit. Avoid lane 3
+986,2019-05-10 08:18:13,10,8,Friday,Accident on Woodlands Avenue 7 near Woodlands Avenue 6/Woodlands Avenue 7 Junction
+987,2019-05-10 07:53:35,10,7,Friday,Accident on PIE (towards Tuas) after Adam Rd Exit
+988,2019-05-10 07:20:11,10,7,Friday,Accident on PIE (towards Tuas) after Adam Rd Exit with congestion till Toa Payoh Exit
+989,2019-05-10 07:12:54,10,7,Friday,Accident on KPE (towards TPE) at PIE(Tuas) Exit
+990,2019-05-10 06:27:33,10,6,Friday,Accident on PIE (towards Tuas) after Adam Rd Exit with congestion till Toa Payoh Exit. Avoid lanes 3 and 4
+991,2019-05-10 06:18:14,10,6,Friday,Accident on PIE (towards Changi Airport) after Paya Lebar. Avoid lane 1
+992,2019-05-10 06:00:34,10,6,Friday,Accident on PIE (towards Tuas) after Adam Rd Exit with congestion till Thomson Rd Exit. Avoid lanes 3 and 4
+993,2019-05-10 05:59:51,10,5,Friday,Accident on PIE (towards Tuas) after Adam Rd Exit. Avoid lanes 3 and 4
+994,2019-05-10 04:36:41,10,4,Friday,Accident on PIE (towards Changi Airport) at Upper Serangoon Rd Exit with congestion till CTE
+995,2019-05-10 04:27:54,10,4,Friday,Accident on PIE (towards Changi Airport) at Upper Serangoon Rd Exit
+996,2019-05-10 04:17:00,10,4,Friday,Accident on PIE (towards Changi Airport) before Jalan Eunos
+997,2019-05-10 04:16:16,10,4,Friday,Obstacle on Bukit Timah Road (towards Woodlands) after Balmoral Road. Avoid left lane
+998,2019-05-10 04:15:27,10,4,Friday,Accident on PIE (towards Changi Airport) before Jalan Eunos. Avoid lane 4
+999,2019-05-10 03:26:08,10,3,Friday,Accident on Bayfront Avenue near Bayfront Avenue/Sheares Link Junction
+1000,2019-05-10 02:54:49,10,2,Friday,Accident on TPE (towards SLE) before Jalan Kayu Exit. Avoid lane 3
+1001,2019-05-10 02:47:27,10,2,Friday,Accident on ECP (towards City) before Still Rd Sth Exit with congestion till East Coast Park Carpark F3 Exit. Avoid lane 1
+1002,2019-05-10 02:41:35,10,2,Friday,Accident on ECP (towards City) before Still Rd Sth Exit. Avoid lane 1
+1003,2019-05-10 02:31:58,10,2,Friday,Accident on ECP (towards City) after Still Rd Sth Exit. Avoid lane 1
+1004,2019-05-10 02:20:18,10,2,Friday,Obstacle on ECP (towards City) at Rochor Rd Exit
+1005,2019-05-10 02:18:10,10,2,Friday,Obstacle on West Coast Highway (towards City) after Buroh Flyover. Avoid right lane
+1006,2019-05-10 02:08:45,10,2,Friday,Obstacle on West Coast Highway (towards City) after Buroh Flyover. West Coast Highway closed after Buroh Flyover
+1007,2019-05-10 01:37:33,10,1,Friday,Accident on Loyang Avenue towards Pasir Ris Drive 3
+1008,2019-05-10 01:24:29,10,1,Friday,Accident on SLE (towards CTE) after TPE Exit. Avoid lane 4
+1009,2019-05-10 01:10:25,10,1,Friday,Accident on BKE (towards PIE) before Bukit Panjang Rd Exit with congestion till SLE Exit
+1010,2019-05-10 01:06:43,10,1,Friday,Accident on SLE (towards BKE) at Turf Club Exit
+1011,2019-05-10 01:05:11,10,1,Friday,Accident on TPE (towards PIE) before Pasir Ris Dr 8 Exit. Avoid lane 1
+1012,2019-05-10 00:55:00,10,0,Friday,Accident on CTE (towards AYE) before PIE(Changi) Exit
+1013,2019-05-10 00:49:45,10,0,Friday,Accident on KJE (towards PIE) before PIE(Changi) Exit
+1014,2019-05-10 00:40:00,10,0,Friday,Accident on KJE (towards PIE) before PIE(Changi) Exit with congestion till Sungei Tengah Exit
+1015,2019-05-10 00:38:32,10,0,Friday,Accident on KJE (towards PIE) before PIE(Changi) Exit with congestion till Sungei Tengah Exit. Avoid lane 3
+1016,2019-05-10 00:37:04,10,0,Friday,Accident on KJE (towards PIE) before PIE(Changi) Exit with congestion till Sungei Tengah Exit. Avoid lanes 2 and 3
+1017,2019-05-10 00:33:14,10,0,Friday,Accident on BKE (towards PIE) before Bukit Panjang Rd Exit with congestion till SLE Exit. Avoid lanes 1 and 2
+1018,2019-05-10 00:29:28,10,0,Friday,Accident on KJE (towards PIE) before PIE(Changi) Exit. Avoid lanes 2 and 3
+1019,2019-05-10 00:27:16,10,0,Friday,Accident on PIE (towards Changi Airport) after Thomson Rd with congestion till Thomson Rd. Avoid lane 1
+1020,2019-05-10 00:20:00,10,0,Friday,Accident on BKE (towards PIE) before Bukit Panjang Rd Exit with congestion till Mandai Rd Exit. Avoid lanes 1 and 2
+1021,2019-05-10 00:15:30,10,0,Friday,Accident on BKE (towards PIE) before Bukit Panjang Rd Exit. Avoid lanes 1 and 2
+1022,2019-05-10 00:11:52,10,0,Friday,Accident on PIE (towards Changi Airport) after Tampines Ave 5
+1023,2019-05-10 00:09:34,10,0,Friday,Accident on PIE (towards Changi Airport) after Thomson Rd. Avoid lane 1
+1024,2019-05-10 00:07:24,10,0,Friday,Accident on West Coast Highway (towards Tuas) after Clementi Road with congestion till Clementi Road. Avoid right lane
+1025,2019-05-10 00:04:23,10,0,Friday,Accident on West Coast Highway (towards Tuas) after Clementi Road. Avoid right lane
+1026,2019-05-10 00:02:56,10,0,Friday,Accident on SLE (towards CTE) after Mandai Ave Exit. Avoid lane 1
+1027,2019-05-10 00:01:29,10,0,Friday,Accident on PIE (towards Changi Airport) at Toa Payoh Entrance
+1028,2019-05-09 23:52:42,9,23,Thursday,Accident on KPE (towards ECP) after Tampines Rd Exit. Avoid lane 1
+1029,2019-05-09 23:51:59,9,23,Thursday,Accident on Queensway (towards AYE) after Holland Road. Avoid right lane
+1030,2019-05-09 23:43:07,9,23,Thursday,Accident on AYE (towards MCE) before Clementi Ave 6 Exit. Avoid lane 1
+1031,2019-05-09 23:31:21,9,23,Thursday,Obstacle on AYE (towards Tuas ) at Clementi Ave 6 Exit
+1032,2019-05-09 22:58:34,9,22,Thursday,Accident on CTE (towards AYE) before AMK Ave 1 Exit. Avoid lane 2
+1033,2019-05-09 22:44:56,9,22,Thursday,Accident on Paterson Road (towards Scotts Road) after Orchard Boulevard
+1034,2019-05-09 22:21:03,9,22,Thursday,Obstacle on TPE (towards SLE) before Punggol Rd Exit. Avoid lane 1
+1035,2019-05-09 22:19:33,9,22,Thursday,Obstacle on TPE (towards SLE) after Punggol Rd Exit. Avoid lane 1
+1036,2019-05-09 21:57:58,9,21,Thursday,Accident on TPE (towards SLE) at Punggol Rd Exit
+1037,2019-05-09 20:54:21,9,20,Thursday,Obstacle in CTE Tunnel (towards SLE) at Upper Cross Street Entrance
+1038,2019-05-09 20:39:15,9,20,Thursday,Accident on PIE (towards Tuas) after Paya Lebar Rd. Avoid lane 3
+1039,2019-05-09 20:15:41,9,20,Thursday,Accident on ECP (towards Changi Airport) after Bayshore Rd Exit. Avoid lanes 2 and 3
+1040,2019-05-09 20:09:12,9,20,Thursday,Accident on ECP (towards Changi Airport) after Bayshore. Avoid lanes 2 and 3
+1041,2019-05-09 20:08:29,9,20,Thursday,Accident on ECP (towards Changi Airport) after Bayshore. Avoid lane 2
+1042,2019-05-09 19:51:41,9,19,Thursday,Accident on ECP (towards Changi Airport) after Fort Rd Exit. Avoid lanes 2 and 3
+1043,2019-05-09 19:45:59,9,19,Thursday,Accident on ECP (towards Changi Airport) after Fort Rd Exit. Avoid lane 4
+1044,2019-05-09 18:06:34,9,18,Thursday,Accident on PIE (towards Tuas) after KJE. Avoid lane 1
+1045,2019-05-09 15:48:47,9,15,Thursday,Accident on PIE (towards Tuas) after Paya Lebar Rd. Avoid lane 2
+1046,2019-05-09 14:35:02,9,14,Thursday,Accident on CTE (towards SLE) after Braddell Rd Exit. Avoid lane 1
+1047,2019-05-09 12:58:59,9,12,Thursday,Accident on KPE (towards TPE) before TPE(SLE) Exit
+1048,2019-05-09 11:31:20,9,11,Thursday,Accident on TPE (towards PIE) at Sengkang Exit
+1049,2019-05-09 10:54:14,9,10,Thursday,Accident on Ang Mo Kio Avenue 6 (towards Ang Mo Kio Avenue 3) after Ang Mo Kio Central 1
+1050,2019-05-09 10:18:53,9,10,Thursday,Accident on Ang Mo Kio Avenue 6 (towards Ang Mo Kio Avenue 3) after Ang Mo Kio Central 1. Avoid right lane
+1051,2019-05-09 10:01:25,9,10,Thursday,Accident on CTE (towards AYE) before Braddell Rd/Lor Chuan Exit
+1052,2019-05-09 09:50:33,9,9,Thursday,Accident on KPE (towards TPE) after ECP Entrance
+1053,2019-05-09 09:49:50,9,9,Thursday,Accident on PIE (towards Tuas) after Stevens Rd Exit with congestion till Thomson Rd Exit. Avoid lane 3
+1054,2019-05-09 09:45:26,9,9,Thursday,Accident on PIE (towards Tuas) after Stevens Rd Exit. Avoid lane 3
+1055,2019-05-09 09:41:08,9,9,Thursday,Accident on East Coast Road (towards City) after Joo Chiat Road. Avoid left lane
+1056,2019-05-09 09:04:10,9,9,Thursday,Accident on CTE (towards AYE) after PIE(Changi) Exit
+1057,2019-05-09 08:43:25,9,8,Thursday,"For motorists travelling along TPE(PIE) towards KPE(ECP), the current Exit 7 will be renamed as Exit 7A from 18 May. http://bit.ly/2H73dcG"
+1058,2019-05-09 08:42:59,9,8,Thursday,"We are opening a new slip road from #TPE(PIE) Exit 7 to Halus Link towards Lorong Halus and Punggol Central from 18 May (Saturday), 5am! Motorists will have an additional route to Lorong Halus and Punggol Central. http://bit.ly/2H73dcG"
+1059,2019-05-09 07:35:35,9,7,Thursday,Obstacle on AYE (towards Tuas) after Buona Vista exit with congestion till Lower Delta Rd Exit. Avoid lane 3
+1060,2019-05-09 07:30:26,9,7,Thursday,Obstacle on KJE (towards BKE) after Woodlands Rd Exit
+1061,2019-05-09 07:26:05,9,7,Thursday,Obstacle on KJE (towards BKE) after Woodlands Rd Exit. Avoid lane 3
+1062,2019-05-09 07:21:52,9,7,Thursday,Obstacle on AYE (towards Tuas) after Buona Vista exit with congestion till Alexandra Rd Entrance. Avoid lanes 3 and 4
+1063,2019-05-09 07:14:26,9,7,Thursday,Obstacle on AYE (towards Tuas) after Buona Vista exit with congestion till Normanton Exit. Avoid lanes 3 and 4
+1064,2019-05-09 07:13:42,9,7,Thursday,Obstacle on AYE (towards Tuas) after Buona Vista exit. Avoid lanes 3 and 4
+1065,2019-05-09 06:40:28,9,6,Thursday,Accident on SLE (towards CTE) at Lentor Ave Entrance
+1066,2019-05-09 05:57:42,9,5,Thursday,Accident on PIE (towards Tuas) at Jurong Town Hall Rd Entrance
+1067,2019-05-09 02:42:05,9,2,Thursday,Accident on PIE (towards Changi Airport) after Thomson Rd. Avoid lane 4
+1068,2019-05-09 02:33:59,9,2,Thursday,Accident on KPE (towards ECP) before Airport Rd Entrance with congestion till Airport Rd Exit. Avoid lane 2
+1069,2019-05-09 02:30:14,9,2,Thursday,Accident on PIE (towards Changi Airport) after Thomson Rd
+1070,2019-05-09 02:12:11,9,2,Thursday,Accident on KPE (towards ECP) before Airport Rd Entrance. Avoid lane 2
+1071,2019-05-09 01:58:15,9,1,Thursday,Obstacle on CTE (towards SLE) after AMK Ave 3 Exit. Avoid lanes 2 and 3
+1072,2019-05-09 01:49:41,9,1,Thursday,Accident on BKE (towards PIE) before PIE Exit
+1073,2019-05-09 01:33:04,9,1,Thursday,Accident on KPE (towards ECP) after Tampines Rd Exit. Avoid lane 1
+1074,2019-05-09 01:20:07,9,1,Thursday,Obstacle on SLE (towards CTE) after Lentor Ave Exit. Avoid lane 3
+1075,2019-05-09 01:18:40,9,1,Thursday,Accident on Braddell Road (towards Tampines) after Braddell U/P with congestion till Toa Payoh. Avoid left lane
+1076,2019-05-09 01:17:57,9,1,Thursday,Accident on Braddell Road (towards Tampines) after Braddell U/P. Avoid left lane
+1077,2019-05-09 01:15:41,9,1,Thursday,Accident on CTE (towards AYE) after PIE(Changi) Exit. Avoid lane 5
+1078,2019-05-09 01:12:06,9,1,Thursday,Heavy Traffic on PIE (towards Tuas) before Clementi Ave 6 Exit
+1079,2019-05-09 01:05:27,9,1,Thursday,Accident on PIE (towards Tuas) before Clementi Ave 6 Exit with congestion till BKE
+1080,2019-05-09 00:56:41,9,0,Thursday,Accident on PIE (towards Tuas) before Clementi Ave 6 Exit with congestion till BKE. Avoid lanes 3 and 4
+1081,2019-05-09 00:54:26,9,0,Thursday,Accident on PIE (towards Tuas) before Clementi Ave 6 Exit. Avoid lanes 3 and 4
+1082,2019-05-09 00:53:09,9,0,Thursday,Accident on PIE (towards Tuas) before Clementi Ave 6 Exit. Avoid lanes 4 and 5
+1083,2019-05-09 00:39:14,9,0,Thursday,Accident in CTE Tunnel (towards AYE) after Bukit Timah Rd Exit with congestion till Moulmein Rd Exit. Avoid lane 4
+1084,2019-05-09 00:36:23,9,0,Thursday,Accident on BKE (towards PIE) before Dairy Farm Rd Exit
+1085,2019-05-09 00:21:16,9,0,Thursday,Heavy Traffic on ECP (towards Changi Airport) after Still Rd Sth Exit
+1086,2019-05-09 00:20:25,9,0,Thursday,Accident in CTE Tunnel (towards AYE) after Bukit Timah Rd Exit. Avoid lane 4
+1087,2019-05-09 00:11:46,9,0,Thursday,Accident on ECP (towards Changi Airport) after Still Rd Sth Exit with congestion till Still Rd Sth Exit. Avoid lane 1
+1088,2019-05-09 00:11:03,9,0,Thursday,Accident on ECP (towards Changi Airport) after Still Rd Sth Exit. Avoid lane 1
+1089,2019-05-09 00:08:07,9,0,Thursday,Accident on ECP (towards City) after Still Rd Sth Exit. Avoid lane 1
+1090,2019-05-09 00:07:24,9,0,Thursday,Accident on SLE (towards BKE) before BKE Exit
+1091,2019-05-08 23:19:42,8,23,Wednesday,Accident on PIE (towards Changi Airport) after Bedok North Ave 3
+1092,2019-05-08 22:16:12,8,22,Wednesday,Obstacle on ECP (towards Changi Airport) before Tg Katong Rd Exit. Avoid lanes 3 and 4
+1093,2019-05-08 19:44:07,8,19,Wednesday,Accident on PIE (towards Changi Airport) before Kallang Way. Avoid lane 1
+1094,2019-05-08 11:48:49,8,11,Wednesday,Accident on Braddell Road (towards Lornie) after Bishan Flyover
+1095,2019-05-08 10:24:49,8,10,Wednesday,Obstacle on ECP (towards City) after East Coast Park Carpark H Exit. Avoid lane 1
+1096,2019-05-08 10:17:48,8,10,Wednesday,Heavy Traffic on PIE (towards Changi Airport) after Jurong Town Hall Rd
+1097,2019-05-08 10:15:34,8,10,Wednesday,Accident on SLE (towards BKE) after Upper Thomson Rd Exit. Avoid lane 1
+1098,2019-05-08 09:56:47,8,9,Wednesday,Accident on PIE (towards Changi Airport) after Jurong Town Hall Rd with congestion till KJE. Avoid lanes 1 and 2
+1099,2019-05-08 09:40:12,8,9,Wednesday,Accident on PIE (towards Changi Airport) after Jurong Town Hall Rd with congestion till Jurong West Ave 2. Avoid lanes 1 and 2
+1100,2019-05-08 09:40:12,8,9,Wednesday,Obstacle on KJE (towards PIE) after Choa Chu Kang Dr Exit. Avoid lanes 2 and 3
+1101,2019-05-08 09:32:57,8,9,Wednesday,Accident on PIE (towards Changi Airport) after Jurong Town Hall Rd. Avoid lanes 1 and 2
+1102,2019-05-08 09:31:30,8,9,Wednesday,Accident on PIE (towards Changi Airport) after Jurong Town Hall Rd. Avoid lane 1
+1103,2019-05-08 08:31:28,8,8,Wednesday,Accident on PIE (towards Tuas) after Stevens Rd Exit with congestion till Thomson Rd Exit. Avoid lane 2
+1104,2019-05-08 08:27:06,8,8,Wednesday,Accident on PIE (towards Tuas) after Stevens Rd Exit. Avoid lane 2
+1105,2019-05-08 08:25:35,8,8,Wednesday,Heavy Traffic on PIE (towards Tuas) after Toh Guan Rd Exit
+1106,2019-05-08 08:19:14,8,8,Wednesday,Obstacle on PIE (towards Tuas) after Clementi Rd Exit. Avoid lane 3
+1107,2019-05-08 07:58:41,8,7,Wednesday,Accident on PIE (towards Tuas) after Toh Guan Rd Exit with congestion till Clementi Ave 6 Exit. Avoid lanes 1 and 2
+1108,2019-05-08 07:53:32,8,7,Wednesday,Accident on PIE (towards Changi Airport) after Jalan Anak Bukit. Avoid lane 3
+1109,2019-05-08 07:39:13,8,7,Wednesday,Accident on BKE (towards PIE) before PIE Exit. Avoid lane 3
+1110,2019-05-08 07:30:26,8,7,Wednesday,Accident on PIE (towards Tuas) before Eng Neo Ave. Avoid lanes 3 and 4
+1111,2019-05-08 07:29:42,8,7,Wednesday,Accident on PIE (towards Tuas) after Toh Guan Rd Exit with congestion till Clementi Ave 6 Exit. Avoid lane 1
+1112,2019-05-08 07:27:32,8,7,Wednesday,Accident on Jalan Anak Bukit (towards Woodlands) before Jalan Jurong Kechil. Avoid right lane
+1113,2019-05-08 07:26:06,8,7,Wednesday,Accident on PIE (towards Tuas) after Toh Guan Rd Exit with congestion till Toh Guan Rd Exit. Avoid lane 1
+1114,2019-05-08 07:21:50,8,7,Wednesday,Accident on PIE (towards Tuas) after BKE
+1115,2019-05-08 07:16:43,8,7,Wednesday,Accident on BKE (towards PIE) before PIE Exit
+1116,2019-05-08 07:16:43,8,7,Wednesday,Accident on PIE (towards Tuas) after Toh Guan Rd Exit. Avoid lane 1
+1117,2019-05-08 06:12:50,8,6,Wednesday,Obstacle on Braddell Road (towards Lornie) after Bishan Flyover. Avoid left lane
+1118,2019-05-08 06:06:15,8,6,Wednesday,Accident on TPE (towards SLE) after Punggol Rd Exit
+1119,2019-05-08 06:02:30,8,6,Wednesday,Accident on TPE (towards SLE) after Tampines Ave 7 Exit
+1120,2019-05-08 05:55:13,8,5,Wednesday,Accident on CTE (towards SLE) at Seletar West Link Exit
+1121,2019-05-08 05:36:14,8,5,Wednesday,Heavy Traffic on PIE (towards Tuas) before Eng Neo Ave
+1122,2019-05-08 05:24:48,8,5,Wednesday,Obstacle on PIE (towards Tuas) before Eng Neo Ave with congestion till Thomson Rd Exit. Avoid lane 5
+1123,2019-05-08 05:04:06,8,5,Wednesday,Accident on PIE (towards Tuas) after Clementi Rd Exit. Avoid lane 1
+1124,2019-05-08 04:47:42,8,4,Wednesday,Accident on Farrer Road (towards Lornie) after Empress Road. Avoid right lane
+1125,2019-05-08 04:39:39,8,4,Wednesday,Accident on BKE (towards PIE) before Mandai Rd Exit
+1126,2019-05-08 04:37:28,8,4,Wednesday,Obstacle on Holland Road (towards Holland Avenue) after Lorong Mambong. Avoid left lane
+1127,2019-05-08 04:36:02,8,4,Wednesday,Accident on BKE (towards PIE) before Mandai Rd Exit with congestion till SLE Exit
+1128,2019-05-08 04:35:13,8,4,Wednesday,Obstacle on ECP (towards City) at Fort Rd Exit
+1129,2019-05-08 04:33:47,8,4,Wednesday,Accident on KPE (towards ECP) before Tampines Rd Exit
+1130,2019-05-08 04:33:04,8,4,Wednesday,Accident on BKE (towards PIE) before Mandai Rd Exit with congestion till SLE Exit. Avoid lanes 3 and 4
+1131,2019-05-08 04:29:23,8,4,Wednesday,Accident on AYE (towards MCE) after PIE Exit. Avoid lane 1
+1132,2019-05-08 04:23:34,8,4,Wednesday,Accident on BKE (towards PIE) before Mandai Rd Exit with congestion till SLE Exit. Avoid lane 4
+1133,2019-05-08 04:19:22,8,4,Wednesday,Accident on BKE (towards PIE) before Mandai Rd Exit. Avoid lane 4
+1134,2019-05-08 04:02:11,8,4,Wednesday,"Temporary Traffic Realignment along Hougang Avenue 3 on Sunday, 12 May 2019 at 5.30 a.m. #sgtraffic http://bit.ly/306c5Iq"
+1135,2019-05-08 04:01:38,8,4,Wednesday,"Temporary Closure of Slip Roads at KPE Tunnel on Monday, 13 May 2019 from midnight to 5.00 a.m #sgtraffic http://bit.ly/2VLibP3"
+1136,2019-05-08 04:01:12,8,4,Wednesday,"Temporary Road Closure at Woodsville Tunnel on 14 May, Tuesday to 15 May, Thursday from midnight to 5.00 a.m. #sgtraffic http://bit.ly/2Lvj6zf"
+1137,2019-05-08 03:59:46,8,3,Wednesday,"Temporary Closure of Slip Road from MCE (AYE) Exit 1 to Shenton Way / Maxwell Road on Tuesday, 14 May 2019 from midnight to 5.00 a.m. #sgtraffic http://bit.ly/2Y9wuKE"
+1138,2019-05-08 03:59:23,8,3,Wednesday,"Temporary Closure of Slip Road from TPE (Changi) to Tampines Avenue 7 from Tuesday, 14 May 2019 to Saturday, 18 May 2019 from 1.00 a.m to 5.00 a.m daily. #sgtraffic http://bit.ly/2Vq6jT1"
+1139,2019-05-08 03:55:05,8,3,Wednesday,Accident on AYE (towards Tuas) at Jalan Ahmad Ibrahim Entrance
+1140,2019-05-08 03:54:22,8,3,Wednesday,Accident on Clemenceau Avenue (towards Penang Road) after Penang Lane
+1141,2019-05-08 03:48:38,8,3,Wednesday,Accident on Commonwealth Avenue West (towards Tuas) after Dover Avenue. Avoid left lane
+1142,2019-05-08 03:44:58,8,3,Wednesday,Obstacle on BKE (towards Woodlands) after Mandai Rd Entrance. Avoid lane 1
+1143,2019-05-08 03:39:49,8,3,Wednesday,Obstacle on AYE (towards Tuas) at Lower Delta Rd Entrance
+1144,2019-05-08 03:39:06,8,3,Wednesday,Accident on PIE (towards Changi Airport) before Lornie Rd. Avoid lane 1
+1145,2019-05-08 03:34:41,8,3,Wednesday,Accident on TPE (towards SLE) after Punggol Rd Exit. Avoid lane 1
+1146,2019-05-08 03:31:02,8,3,Wednesday,Obstacle on Clemenceau Avenue (towards Penang Lane) after Penang Road. Avoid left lane
+1147,2019-05-08 03:21:00,8,3,Wednesday,Accident on Commonwealth Avenue West (towards Tuas) after Dover Avenue
+1148,2019-05-08 03:17:17,8,3,Wednesday,Accident on ECP (towards Changi Airport) before PIE Exit with congestion till Xilin Ave Exit. Avoid lane 3
+1149,2019-05-08 03:13:33,8,3,Wednesday,Obstacle on PIE (towards Tuas) before Eng Neo Ave with congestion till Thomson Rd Exit. Avoid lanes 4 and 5
+1150,2019-05-08 03:12:07,8,3,Wednesday,Obstacle on ECP (towards Changi Airport) at Still Rd South Exit. Still Rd South Exit closed
+1151,2019-05-08 03:04:00,8,3,Wednesday,Obstacle on Clemenceau Avenue (towards Penang Lane) after Penang Road
+1152,2019-05-08 03:01:03,8,3,Wednesday,Accident on PIE (towards Changi Airport) before Upper Bukit Timah Rd. Avoid lane 4
+1153,2019-05-08 02:55:56,8,2,Wednesday,Accident on ECP (towards Changi Airport) before PIE Exit. Avoid lane 3
+1154,2019-05-08 02:51:01,8,2,Wednesday,Heavy Traffic on PIE (towards Tuas) after Stevens Rd Exit
+1155,2019-05-08 02:40:57,8,2,Wednesday,Accident on ECP (towards City) after Still Rd Sth Exit. Avoid lanes 3 and 4
+1156,2019-05-08 02:38:02,8,2,Wednesday,Accident on PIE (towards Tuas) after KPE Exit
+1157,2019-05-08 02:35:07,8,2,Wednesday,Obstacle on PIE (towards Tuas) before Eng Neo Ave. Avoid lanes 4 and 5
+1158,2019-05-08 02:27:19,8,2,Wednesday,Obstacle on PIE (towards Tuas) before Eng Neo Ave. Avoid lane 5
+1159,2019-05-08 02:22:59,8,2,Wednesday,Obstacle on PIE (towards Tuas) after Stevens Rd Exit with congestion till Thomson Rd Exit. Avoid lane 4
+1160,2019-05-08 02:19:32,8,2,Wednesday,Accident on BKE (towards PIE) before Dairy Farm Rd Exit
+1161,2019-05-08 02:18:50,8,2,Wednesday,Heavy Traffic on AYE (towards Tuas) after Alexandra Rd Entrance
+1162,2019-05-08 02:18:08,8,2,Wednesday,Accident on AYE (towards Tuas) after Alexandra Rd Entrance with congestion till Lower Delta Rd Exit. Avoid lane 2
+1163,2019-05-08 02:16:43,8,2,Wednesday,Accident on AYE (towards Tuas) after Alexandra Rd Entrance. Avoid lane 2
+1164,2019-05-08 02:13:49,8,2,Wednesday,Obstacle on AYE (towards MCE) before Lower Delta Rd Exit. Avoid lane 1
+1165,2019-05-08 02:13:49,8,2,Wednesday,Obstacle on PIE (towards Tuas) after Stevens Rd Exit. Avoid lane 4
+1166,2019-05-08 02:03:44,8,2,Wednesday,Accident on BKE (towards PIE) after Dairy Farm Rd Entrance
+1167,2019-05-08 01:44:22,8,1,Wednesday,Accident on BKE (towards Woodlands) before Woodlands Ave 3 Exit
+1168,2019-05-08 01:42:15,8,1,Wednesday,Heavy Traffic on SLE (towards CTE) after Mandai Ave Exit
+1169,2019-05-08 01:40:51,8,1,Wednesday,Accident on BKE (towards PIE) after KJE Exit
+1170,2019-05-08 01:39:20,8,1,Wednesday,Accident on CTE (towards AYE) after AMK Ave 5 Exit
+1171,2019-05-08 01:34:22,8,1,Wednesday,Accident on TPE (towards PIE) after Pasir Ris Dr 8 Exit with congestion till Pasir Ris Dr 12 Exit. Avoid lane 1
+1172,2019-05-08 01:32:16,8,1,Wednesday,Accident on BKE (towards PIE) after KJE Exit. Avoid lane 2
+1173,2019-05-08 01:27:56,8,1,Wednesday,Accident on TPE (towards PIE) after Pasir Ris Dr 8 Exit. Avoid lane 1
+1174,2019-05-08 00:52:44,8,0,Wednesday,Accident on SLE (towards CTE) after Mandai Ave Exit with congestion till Woodlands Ave 12 Exit. Avoid lane 1
+1175,2019-05-08 00:44:49,8,0,Wednesday,Accident on AYE (towards MCE) after Clementi Rd Exit. Avoid lane 1
+1176,2019-05-08 00:21:42,8,0,Wednesday,Heavy Traffic on AYE (towards Tuas) before Penjuru Rd Exit
+1177,2019-05-08 00:17:59,8,0,Wednesday,Accident on SLE (towards CTE) after Mandai Ave Exit with congestion till Woodlands Ave 12 Exit. Avoid lanes 1 and 2
+1178,2019-05-08 00:15:39,8,0,Wednesday,Accident on SLE (towards CTE) after Mandai Ave Exit. Avoid lanes 1 and 2
+1179,2019-05-08 00:09:43,8,0,Wednesday,Accident on KJE (towards BKE) before BKE Exit
+1180,2019-05-07 23:55:33,7,23,Tuesday,Accident on KJE (towards BKE) before BKE Exit. Avoid lane 3
+1181,2019-05-07 23:53:21,7,23,Tuesday,Accident on SLE (towards BKE) at TPE(PIE) Exit
+1182,2019-05-07 23:44:43,7,23,Tuesday,Obstacle on ECP (towards City) at Tanah Merah Coast Rd Entrance
+1183,2019-05-07 23:43:16,7,23,Tuesday,Accident on ECP (towards City) at Rochor Rd Exit
+1184,2019-05-07 23:39:36,7,23,Tuesday,Accident on AYE (towards Tuas) before Penjuru Rd Exit with congestion till Clementi Ave 6 Exit. Avoid lanes 1 and 2
+1185,2019-05-07 23:36:45,7,23,Tuesday,Accident on PIE (towards Changi Airport) at Eng Neo Rd Exit
+1186,2019-05-07 23:35:12,7,23,Tuesday,Accident on PIE (towards Tuas) at BKE(Woodlands) Exit
+1187,2019-05-07 23:35:12,7,23,Tuesday,Accident on BKE (towards PIE) at PIE(Tuas) Exit
+1188,2019-05-07 23:27:17,7,23,Tuesday,Accident on AYE (towards Tuas) before Penjuru Rd Exit with congestion till Clementi Ave 6 Exit. Avoid lane 1
+1189,2019-05-07 23:26:34,7,23,Tuesday,Accident on AYE (towards Tuas) before Penjuru Rd Exit. Avoid lane 1
+1190,2019-05-07 23:12:56,7,23,Tuesday,Accident on TPE (towards PIE) before PIE Exit. Avoid lane 1
+1191,2019-05-07 23:09:16,7,23,Tuesday,Accident on PIE (towards Changi Airport) at TPE Entrance
+1192,2019-05-07 22:56:05,7,22,Tuesday,Accident on CTE (towards AYE) before AMK Ave 5 Exit. Avoid lane 2
+1193,2019-05-07 22:07:18,7,22,Tuesday,Accident on SLE (towards BKE) after TPE Exit
+1194,2019-05-07 22:01:36,7,22,Tuesday,Obstacle on ECP (towards City) at T4 Entrance. T4 Entrance closed
+1195,2019-05-07 21:25:29,7,21,Tuesday,Obstacle on ECP (towards City) at Tanah Merah Coast Rd Entrance. Tanah Merah Coast Rd Entrance closed
+1196,2019-05-07 21:04:23,7,21,Tuesday,Accident on Newton Circus (towards Dunearn Road) after Dunearn Road. Avoid right lane
+1197,2019-05-07 18:29:02,7,18,Tuesday,Accident on PIE (towards Tuas) at Adam Rd Exit. Adam Rd Exit closed
+1198,2019-05-07 15:47:14,7,15,Tuesday,"Accident on ECP (towards City) after KPE Exit. Avoid lanes 3, 4 and 5"
+1199,2019-05-07 15:45:50,7,15,Tuesday,Accident on ECP (towards City) after KPE Exit. Avoid lanes 3 and 4
+1200,2019-05-07 15:44:19,7,15,Tuesday,Obstacle on TPE (towards SLE) after Tampines Rd Exit. Avoid lane 1
+1201,2019-05-07 15:38:37,7,15,Tuesday,Accident on ECP (towards City) after KPE Exit. Avoid lanes 5 and 6
+1202,2019-05-07 15:22:55,7,15,Tuesday,Accident on Upper Serangoon Road (towards City) before Serangoon Viaduct. Avoid left lane
+1203,2019-05-07 15:06:00,7,15,Tuesday,Accident on Upper Serangoon Road (towards City) before Serangoon Viaduct
+1204,2019-05-07 14:49:41,7,14,Tuesday,Accident on BKE (towards Woodlands) after PIE Entrance with congestion till PIE Entrance. Avoid lane 1
+1205,2019-05-07 14:41:55,7,14,Tuesday,Accident on BKE (towards Woodlands) after PIE Entrance. Avoid lane 1
+1206,2019-05-07 14:07:34,7,14,Tuesday,Heavy Traffic on CTE (towards SLE) after Braddell Rd Exit
+1207,2019-05-07 14:01:15,7,14,Tuesday,Accident on CTE (towards SLE) after Braddell Rd Exit with congestion till PIE(Changi) Exit. Avoid lane 1
+1208,2019-05-07 13:57:43,7,13,Tuesday,Accident on CTE (towards SLE) after Braddell Rd Exit. Avoid lane 1
+1209,2019-05-07 12:12:32,7,12,Tuesday,Obstacle on PIE (towards Tuas) after Eng Neo Ave
+1210,2019-05-07 12:11:09,7,12,Tuesday,Obstacle on PIE (towards Tuas) after Eng Neo Ave. Avoid lane 5
+1211,2019-05-07 12:01:51,7,12,Tuesday,Accident on Tanglin Road (towards Seton Walk) after St. Martin`s Drive. Avoid right lane
+1212,2019-05-07 11:51:10,7,11,Tuesday,Accident on Tanglin Road (towards Seton Walk) after St. Martin`s Drive
+1213,2019-05-07 11:39:15,7,11,Tuesday,Accident on BKE (towards Woodlands) before KJE Exit
+1214,2019-05-07 11:34:14,7,11,Tuesday,Accident on Havelock Road (towards New Market Road) after Keng Cheow Street. Avoid left lane
+1215,2019-05-07 11:03:48,7,11,Tuesday,Heavy Traffic on PIE (towards Changi Airport) after Kim Keat Link
+1216,2019-05-07 11:00:59,7,11,Tuesday,Accident on Bukit Timah Road (towards Woodlands) after Namly Avenue with congestion till Farrer Road
+1217,2019-05-07 10:56:43,7,10,Tuesday,Accident on Bukit Timah Road (towards Woodlands) after Namly Avenue
+1218,2019-05-07 10:27:05,7,10,Tuesday,Accident on PIE (towards Changi Airport) after Kim Keat Link with congestion till Thomson Rd. Avoid lane 1
+1219,2019-05-07 10:22:49,7,10,Tuesday,Accident on PIE (towards Changi Airport) after Kim Keat Link. Avoid lane 1
+1220,2019-05-07 10:09:21,7,10,Tuesday,Accident on Alexandra Road (towards Depot Road) after Hyderabad Road with congestion. Avoid left lane
+1221,2019-05-07 10:07:15,7,10,Tuesday,Accident on Woodlands Road (towards Woodlands Checkpoint) after Kranji Road with congestion till Kranji Road
+1222,2019-05-07 09:50:42,7,9,Tuesday,Accident on PIE (towards Tuas) at Jalan Eunos Exit
+1223,2019-05-07 09:42:56,7,9,Tuesday,Accident on Alexandra Road (towards Depot Road) after Hyderabad Road. Avoid left lane
+1224,2019-05-07 09:40:42,7,9,Tuesday,Accident on KJE (towards BKE) after Choa Chu Kang Way Exit
+1225,2019-05-07 09:39:18,7,9,Tuesday,Accident on BKE (towards Woodlands) before SLE Exit. Avoid lane 3
+1226,2019-05-07 09:31:28,7,9,Tuesday,Accident on AYE (towards MCE) after Buona Vista Exit
+1227,2019-05-07 09:26:28,7,9,Tuesday,Accident on AYE (towards Tuas) after Jurong Port Rd Exit
+1228,2019-05-07 09:18:01,7,9,Tuesday,Accident on Woodlands Road (towards Woodlands Checkpoint) after Kranji Road with congestion till Kranji Road. Avoid left lane
+1229,2019-05-07 09:13:47,7,9,Tuesday,Accident on AYE (towards MCE) after Buona Vista Exit with congestion till Buona Vista Exit
+1230,2019-05-07 08:59:23,7,8,Tuesday,Accident on AYE (towards MCE) after Buona Vista Exit with congestion till Buona Vista Exit. Avoid lane 4
+1231,2019-05-07 08:56:35,7,8,Tuesday,Accident on AYE (towards MCE) after Buona Vista Exit. Avoid lane 4
+1232,2019-05-07 08:19:00,7,8,Tuesday,Accident on PIE (towards Changi Airport) at Toa Payoh Entrance
+1233,2019-05-07 08:10:24,7,8,Tuesday,Accident on Woodlands Road (towards Woodlands Checkpoint) after Kranji Road. Avoid left lane
+1234,2019-05-07 07:56:55,7,7,Tuesday,Accident on Woodlands Road near Woodlands Avenue 3/Woodlands Road Junction
+1235,2019-05-07 07:52:38,7,7,Tuesday,Accident on TPE (towards PIE) at Upper Changi Rd North Exit
+1236,2019-05-07 07:31:50,7,7,Tuesday,Obstacle on CTE (towards SLE) after AYE Entrance. Avoid lane 3
+1237,2019-05-07 07:25:16,7,7,Tuesday,Accident on PIE (towards Tuas) after Jurong East Ave 2. Avoid lane 3
+1238,2019-05-07 06:45:56,7,6,Tuesday,Accident on PIE (towards Tuas) after BKE with congestion till Eng Neo Ave. Avoid lanes 1 and 2
+1239,2019-05-07 06:30:12,7,6,Tuesday,Accident on PIE (towards Tuas) after BKE with congestion till BKE. Avoid lanes 1 and 2
+1240,2019-05-07 06:28:49,7,6,Tuesday,Accident on PIE (towards Tuas) after BKE. Avoid lanes 1 and 2
+1241,2019-05-07 05:02:23,7,5,Tuesday,Accident on Upper Thomson Road (towards SLE) after Jalan Pelatina. Avoid left lane
+1242,2019-05-07 03:02:56,7,3,Tuesday,Accident on KPE (towards ECP) before PIE(Tuas) Exit. Avoid lane 3
+1243,2019-05-07 03:00:50,7,3,Tuesday,Heavy Traffic on PIE (towards Tuas) after BKE
+1244,2019-05-07 02:56:31,7,2,Tuesday,Accident in CTE Tunnel (towards SLE) after Outram Rd Exit. Avoid lane 3
+1245,2019-05-07 02:46:44,7,2,Tuesday,Accident on PIE (towards Tuas) after BKE with congestion till Eng Neo Ave. Avoid lane 1
+1246,2019-05-07 02:20:08,7,2,Tuesday,Heavy Traffic on PIE (towards Tuas) after KPE Exit
+1247,2019-05-07 02:19:00,7,2,Tuesday,Accident on Clemenceau Avenue North (towards Winstedt Road) after Anthony Road. Avoid left lane
+1248,2019-05-07 02:17:34,7,2,Tuesday,Accident on Clemenceau Avenue North near Clemenceau Avenue North/Winstedt Road Junction
+1249,2019-05-07 02:15:23,7,2,Tuesday,Accident on PIE (towards Tuas) after BKE with congestion till BKE. Avoid lane 1
+1250,2019-05-07 02:11:11,7,2,Tuesday,Accident on PIE (towards Tuas) after BKE. Avoid lane 1
+1251,2019-05-07 02:07:33,7,2,Tuesday,Heavy Traffic on CTE (towards AYE) before Braddell Rd/Lor Chuan Exit
+1252,2019-05-07 02:06:52,7,2,Tuesday,Accident on PIE (towards Tuas) after KPE Exit with congestion till Jalan Eunos. Avoid lane 2
+1253,2019-05-07 02:03:15,7,2,Tuesday,Accident on PIE (towards Tuas) after KPE Exit. Avoid lane 2
+1254,2019-05-07 01:58:59,7,1,Tuesday,Accident on CTE (towards AYE) before Braddell Rd/Lor Chuan Exit with congestion till AMK Ave 5 Exit
+1255,2019-05-07 01:41:19,7,1,Tuesday,Heavy Traffic on PIE (towards Tuas) after Bedok North Rd
+1256,2019-05-07 01:41:19,7,1,Tuesday,Accident on BKE (towards PIE) at Woodlands Ave 3 Entrance
+1257,2019-05-07 01:29:07,7,1,Tuesday,Accident on PIE (towards Tuas) after Bedok North Rd with congestion till Bedok North Avenue 3 exit. Avoid lane 1
+1258,2019-05-07 01:19:50,7,1,Tuesday,Accident on PIE (towards Tuas) after Bedok North Rd. Avoid lane 1
+1259,2019-05-07 01:19:18,7,1,Tuesday,Accident on CTE (towards AYE) before Braddell Rd/Lor Chuan Exit with congestion till AMK Ave 5 Exit. Avoid lane 5
+1260,2019-05-07 01:17:12,7,1,Tuesday,Accident on CTE (towards AYE) before Braddell Rd/Lor Chuan Exit. Avoid lane 5
+1261,2019-05-07 00:53:30,7,0,Tuesday,Accident on KJE (towards BKE) after Woodlands Rd Exit
+1262,2019-05-07 00:52:49,7,0,Tuesday,Accident on ECP (towards Changi Airport) after Still Rd Sth Exit. Avoid lane 1
+1263,2019-05-07 00:47:58,7,0,Tuesday,Heavy Traffic on CTE (towards AYE) at PIE(Jurong) Exit
+1264,2019-05-07 00:47:16,7,0,Tuesday,Accident on ECP (towards Changi Airport) after Still Rd Sth Exit. Avoid lanes 1 and 2
+1265,2019-05-07 00:32:52,7,0,Tuesday,Accident on CTE (towards AYE) at PIE(Jurong) Exit with congestion
+1266,2019-05-07 00:21:25,7,0,Tuesday,Accident on CTE (towards AYE) at PIE(Jurong) Exit
+1267,2019-05-07 00:08:14,7,0,Tuesday,Accident on SLE (towards BKE) at BKE(PIE) Exit with congestion till Woodlands Ave 12 Exit
+1268,2019-05-06 23:59:47,6,23,Monday,Accident on SLE (towards BKE) before Upper Thomson Rd Exit with congestion till TPE Entrance. Avoid lane 2
+1269,2019-05-06 23:59:06,6,23,Monday,Accident on SLE (towards BKE) at BKE(PIE) Exit
+1270,2019-05-06 23:42:54,6,23,Monday,Accident on SLE (towards BKE) before Upper Thomson Rd Exit. Avoid lane 2
+1271,2019-05-06 23:06:45,6,23,Monday,Obstacle on PIE (towards Tuas) after Thomson Rd Exit. Avoid lanes 2 and 3
+1272,2019-05-06 18:00:52,6,18,Monday,Accident on AYE (towards Tuas) before Jurong Town Hall Exit. Avoid lanes 1 and 2
+1273,2019-05-06 17:54:26,6,17,Monday,Accident on AYE (towards Tuas) before Jurong Town Hall Exit. Avoid lane 1
+1274,2019-05-06 13:09:48,6,13,Monday,Accident on PIE (towards Changi Airport) after Jalan Eunos
+1275,2019-05-06 12:17:57,6,12,Monday,Accident on Pasir Ris Drive 8 (towards Pasir Ris Grove) after TPE
+1276,2019-05-06 11:58:38,6,11,Monday,Accident on PIE (towards Tuas) after Toa Payoh Exit with congestion till KPE Exit
+1277,2019-05-06 11:46:40,6,11,Monday,Accident on ECP (towards Changi Airport) after Still Rd Sth Exit with congestion till Fort Rd Exit. Avoid lane 2
+1278,2019-05-06 11:45:58,6,11,Monday,Accident on PIE (towards Tuas) after Toa Payoh Exit with congestion till KPE Exit. Avoid lane 1
+1279,2019-05-06 11:45:58,6,11,Monday,Accident on ECP (towards Changi Airport) after Still Rd Sth Exit. Avoid lane 2
+1280,2019-05-06 11:40:56,6,11,Monday,Accident on ECP (towards Changi Airport) after Still Rd Sth Exit
+1281,2019-05-06 11:40:07,6,11,Monday,Accident on ECP (towards Changi Airport) after Still Rd Sth Exit with congestion till Fort Rd Exit
+1282,2019-05-06 11:39:25,6,11,Monday,Accident on ECP (towards Changi Airport) after Still Rd Sth Exit with congestion till Fort Rd Exit. Avoid lane 1
+1283,2019-05-06 11:39:25,6,11,Monday,Accident on PIE (towards Tuas) after Toa Payoh Exit. Avoid lane 1
+1284,2019-05-06 11:35:53,6,11,Monday,Accident on ECP (towards Changi Airport) after Still Rd Sth Exit. Avoid lane 1
+1285,2019-05-06 11:18:02,6,11,Monday,Accident on TPE (towards SLE) before Tampines Rd Exit
+1286,2019-05-06 11:12:18,6,11,Monday,Accident in CTE Tunnel (towards SLE) after Cairnhill Circle Entrance. Avoid lane 2
+1287,2019-05-06 10:54:11,6,10,Monday,Accident on Lornie Highway (towards Braddell) after PIE. Avoid left lane
+1288,2019-05-06 10:46:28,6,10,Monday,Accident on Upper Thomson Road (towards SLE) after MacRitchie Viaduct. Avoid left lane
+1289,2019-05-06 10:41:23,6,10,Monday,Accident on ECP (towards Changi Airport) at Changi Village Exit. Changi Village Exit closed
+1290,2019-05-06 10:40:35,6,10,Monday,Accident on SLE (towards CTE) after Mandai Ave Exit
+1291,2019-05-06 10:28:21,6,10,Monday,Accident on SLE (towards CTE) after Mandai Ave Exit with congestion till BKE Entrance
+1292,2019-05-06 10:21:07,6,10,Monday,Heavy Traffic on PIE (towards Changi Airport) after Toh Guan Rd Exit
+1293,2019-05-06 10:06:58,6,10,Monday,Accident on PIE (towards Tuas) after Eng Neo Ave
+1294,2019-05-06 10:02:43,6,10,Monday,Accident on SLE (towards CTE) after Mandai Ave Exit with congestion till BKE Entrance. Avoid lane 2
+1295,2019-05-06 10:00:31,6,10,Monday,Accident on PIE (towards Changi Airport) at Toa Payoh Entrance
+1296,2019-05-06 09:50:39,6,9,Monday,Obstacle on Scotts Road (towards Newton Circus) after Cairnhill Road. Avoid left lane
+1297,2019-05-06 09:49:58,6,9,Monday,Accident on SLE (towards CTE) after Mandai Ave Exit with congestion till Woodlands Ave 12 Exit. Avoid lane 2
+1298,2019-05-06 09:49:58,6,9,Monday,Accident on AYE (towards MCE) at Jalan Ahmad Ibrahim Entrance
+1299,2019-05-06 09:45:59,6,9,Monday,Accident on SLE (towards CTE) after Mandai Ave Exit. Avoid lane 2
+1300,2019-05-06 09:41:37,6,9,Monday,Heavy Traffic on SLE (towards CTE) after Upper Thomson Rd Exit
+1301,2019-05-06 09:40:55,6,9,Monday,Accident on SLE (towards CTE) after Upper Thomson Rd Exit with congestion till Woodlands Ave 12 Exit. Avoid lane 1
+1302,2019-05-06 09:38:42,6,9,Monday,Heavy Traffic on AYE (towards MCE) before Yuan Ching Exit
+1303,2019-05-06 09:37:59,6,9,Monday,Accident on PIE (towards Changi Airport) after Toh Guan Rd Exit with congestion till Jurong Town Hall Rd. Avoid lane 1
+1304,2019-05-06 09:37:16,6,9,Monday,Accident on AYE (towards MCE) before Yuan Ching Exit with congestion till Jalan Boon Lay Exit. Avoid lane 1
+1305,2019-05-06 09:35:51,6,9,Monday,Accident on SLE (towards CTE) after Upper Thomson Rd Exit with congestion till Mandai Ave Exit. Avoid lane 1
+1306,2019-05-06 09:34:18,6,9,Monday,Accident on SLE (towards CTE) after Upper Thomson Rd Exit. Avoid lane 1
+1307,2019-05-06 09:27:48,6,9,Monday,Accident on PIE (towards Changi Airport) after Toh Guan Rd Exit. Avoid lane 1
+1308,2019-05-06 09:19:05,6,9,Monday,Accident on AYE (towards MCE) before Yuan Ching Exit. Avoid lane 1
+1309,2019-05-06 09:07:50,6,9,Monday,Accident in CTE Tunnel (towards SLE) after Cairnhill Circle Entrance with congestion till Outram Rd Exit. Avoid lane 1
+1310,2019-05-06 09:07:08,6,9,Monday,Accident on ECP (towards Changi Airport) at Changi Village Exit
+1311,2019-05-06 08:56:25,6,8,Monday,Heavy Traffic on PIE (towards Tuas) after Adam Rd Exit
+1312,2019-05-06 08:49:52,6,8,Monday,Accident on Yishun Avenue 3 (towards Yishun Street 71) after Sembawang Road. Avoid right lane
+1313,2019-05-06 08:46:36,6,8,Monday,Accident on CTE (towards SLE) before Moulmein Rd Exit. Avoid lane 1
+1314,2019-05-06 08:43:00,6,8,Monday,Accident on PIE (towards Tuas) before KPE Exit. Avoid lane 3
+1315,2019-05-06 08:42:17,6,8,Monday,Accident on PIE (towards Tuas) after Adam Rd Exit with congestion till Stevens Rd Exit. Avoid lane 1
+1316,2019-05-06 08:39:23,6,8,Monday,Accident on PIE (towards Tuas) after Adam Rd Exit. Avoid lane 1
+1317,2019-05-06 08:35:53,6,8,Monday,Accident in CTE Tunnel (towards SLE) after Cairnhill Circle Entrance with congestion till Outram Rd Exit. Avoid lanes 1 and 2
+1318,2019-05-06 08:33:40,6,8,Monday,Accident in CTE Tunnel (towards SLE) after Cairnhill Circle Entrance. Avoid lanes 1 and 2
+1319,2019-05-06 08:21:32,6,8,Monday,Accident on CTE (towards AYE) before PIE(Changi) Exit with congestion till AMK Ave 1 Exit. Avoid lane 1
+1320,2019-05-06 08:19:19,6,8,Monday,Accident on CTE (towards AYE) at PIE(Changi) Exit with congestion
+1321,2019-05-06 08:13:05,6,8,Monday,Accident on CTE (towards AYE) before PIE(Changi) Exit. Avoid lane 1
+1322,2019-05-06 08:03:08,6,8,Monday,Accident on Yio Chu Kang Road (towards CTE) after TPE
+1323,2019-05-06 07:58:50,6,7,Monday,Accident on Orchard Link (towards Orchard Road) after Orchard Turn. Avoid right lane
+1324,2019-05-06 07:51:04,6,7,Monday,Accident on CTE (towards AYE) at PIE(Changi) Exit
+1325,2019-05-06 06:39:08,6,6,Monday,Accident on Clementi Avenue 6 (towards Clementi Loop) after Clementi Loop. Avoid left lane
+1326,2019-05-06 06:06:31,6,6,Monday,Accident on PIE (towards Tuas) after BKE with congestion till Eng Neo Ave. Avoid lane 1
+1327,2019-05-06 06:03:38,6,6,Monday,Accident on PIE (towards Tuas) after BKE. Avoid lane 1
+1328,2019-05-06 05:03:30,6,5,Monday,Obstacle on SLE (towards CTE) before Lentor Ave Exit. Avoid lane 3
+1329,2019-05-06 03:19:28,6,3,Monday,Heavy Traffic on CTE (towards AYE) before Braddell Rd/Lor Chuan Exit
+1330,2019-05-06 03:09:40,6,3,Monday,Accident on CTE (towards AYE) before Braddell Rd/Lor Chuan Exit with congestion till AMK Ave 5 Exit
+1331,2019-05-06 03:06:54,6,3,Monday,Accident on CTE (towards AYE) before Braddell Rd/Lor Chuan Exit with congestion till AMK Ave 5 Exit. Avoid lanes 1 and 2
+1332,2019-05-06 02:42:14,6,2,Monday,Accident on CTE (towards AYE) before Braddell Rd/Lor Chuan Exit with congestion till AMK Ave 5 Exit. Avoid lane 1
+1333,2019-05-06 02:35:09,6,2,Monday,Accident on CTE (towards AYE) before Braddell Rd/Lor Chuan Exit. Avoid lane 1
+1334,2019-05-06 02:07:41,6,2,Monday,Accident on Bishan Flyover (towards Lornie) after Bishan Road. Avoid left lane
+1335,2019-05-06 01:51:15,6,1,Monday,Accident on MCE (towards AYE) at MCE(AYE) Entrance
+1336,2019-05-06 01:36:22,6,1,Monday,Accident on Sheares Avenue near Marina Boulevard/Sheares Avenue Junction
+1337,2019-05-06 01:33:27,6,1,Monday,Accident on Sheares Avenue (towards ECP) after Sheares Link
+1338,2019-05-06 00:38:39,6,0,Monday,Accident on CTE (towards AYE) after PIE(Changi) Exit
+1339,2019-05-06 00:19:35,6,0,Monday,Accident on BKE (towards Woodlands) before SLE Exit
+1340,2019-05-06 00:18:12,6,0,Monday,Accident on KJE (towards PIE) before PIE(Changi) Exit
+1341,2019-05-06 00:17:30,6,0,Monday,Accident on BKE (towards Woodlands) at Turf Club Ave Exit
+1342,2019-05-05 23:31:37,5,23,Sunday,Accident on BKE (towards PIE) at KJE(PIE) Exit
+1343,2019-05-05 20:20:57,5,20,Sunday,Accident on TPE (towards PIE) before Sengkang Exit. Avoid lanes 1 and 2
+1344,2019-05-05 13:33:28,5,13,Sunday,Heavy Traffic on TPE (towards SLE) after Tampines Rd Exit
+1345,2019-05-05 13:23:36,5,13,Sunday,Accident on TPE (towards SLE) after Tampines Rd Exit with congestion till Tampines Rd Exit. Avoid lane 1
+1346,2019-05-05 13:19:23,5,13,Sunday,Accident on TPE (towards SLE) after Tampines Rd Exit. Avoid lane 1
+1347,2019-05-05 12:59:15,5,12,Sunday,Accident on TPE (towards PIE) before Pasir Ris Dr 12 Exit
+1348,2019-05-05 12:39:53,5,12,Sunday,Accident on ECP (towards City) before PIE(Tuas) Exit
+1349,2019-05-05 11:23:41,5,11,Sunday,Accident on Tampines Avenue 12 near Tampines Avenue 12/TPE Junction
+1350,2019-05-05 10:27:29,5,10,Sunday,Obstacle on BKE (towards Woodlands) after Dairy Farm Rd Exit
+1351,2019-05-05 08:20:11,5,8,Sunday,Accident on PIE (towards Tuas) after CTE(City) Exit
+1352,2019-05-05 08:10:53,5,8,Sunday,Our 16th #SilverZone at Whampoa Drive also hosts a myriad of road safety engineering features aimed at lowering motorists’ speed to create a safe environment for all! :)
+1353,2019-05-05 08:10:18,5,8,Sunday,"Converted from a section of an existing service road, this recreational space at Whampoa offers a rest-stop for residents in their midst of their commute, complete with wider footpaths, seats and lush greenery."
+1354,2019-05-05 08:09:49,5,8,Sunday,We’ve launched a #SilverZone at Whampoa Drive! Elderly residents at Whampoa Drive can now enjoy a leisurely stroll to the nearby amenities through the first-of-its-kind community space.
+1355,2019-05-05 07:56:56,5,7,Sunday,Accident on PIE (towards Tuas) after CTE(City) Exit. Avoid lane 4
+1356,2019-05-05 07:42:55,5,7,Sunday,Obstacle on BKE (towards PIE) before PIE Exit
+1357,2019-05-05 07:16:05,5,7,Sunday,Accident on PIE (towards Tuas) at Bedok Reservoir Entrance
+1358,2019-05-05 02:12:13,5,2,Sunday,Accident on PIE (towards Changi Airport) after Pasir Laba
+1359,2019-05-04 23:58:14,4,23,Saturday,Accident on SLE (towards CTE) before Lentor Ave Exit. Avoid lanes 1 and 2
+1360,2019-05-04 21:53:02,4,21,Saturday,Accident on BKE (towards PIE) after Dairy Farm Rd Entrance. Avoid lane 1
+1361,2019-05-04 21:27:27,4,21,Saturday,Accident on CTE (towards AYE) at Braddell Rd Entrance
+1362,2019-05-04 20:14:02,4,20,Saturday,Obstacle on PIE (towards Tuas) at CTE(CITY) Exit
+1363,2019-05-04 20:12:42,4,20,Saturday,Obstacle in CTE Tunnel (towards SLE) before Cairnhill Circle Entrance. Avoid lane 1
+1364,2019-05-04 19:24:41,4,19,Saturday,Accident on PIE (towards Changi Airport) at Lornie Highway Entrance
+1365,2019-05-04 16:33:48,4,16,Saturday,Accident on Thomson Road (towards SLE) after MacRitchie Reservoir. Avoid right lane
+1366,2019-05-04 15:31:49,4,15,Saturday,Accident on Thomson Road (towards SLE) after MacRitchie Reservoir
+1367,2019-05-04 14:54:40,4,14,Saturday,Accident on TPE (towards SLE) after Tampines Ave 12 Exit
+1368,2019-05-04 14:04:44,4,14,Saturday,Accident on PIE (towards Tuas) after Eng Neo Ave
+1369,2019-05-04 13:47:16,4,13,Saturday,Accident on Sentosa Gateway (towards Sentosa Gateway Tunnel). Avoid right lane
+1370,2019-05-04 12:42:46,4,12,Saturday,Obstacle on SLE (towards BKE) at BKE(PIE) Exit
+1371,2019-05-04 12:03:03,4,12,Saturday,Accident on Paya Lebar Road near Eunos Avenue 5/Geylang East Central Junction
+1372,2019-05-04 11:46:44,4,11,Saturday,Accident on PIE (towards Tuas) before KPE Exit. Avoid lane 1
+1373,2019-05-04 11:29:54,4,11,Saturday,Accident on PIE (towards Changi Airport) after CTE. Avoid lane 2
+1374,2019-05-04 10:51:46,4,10,Saturday,Obstacle on Upper Thomson Road (towards Newton) after Bright Hill Drive
+1375,2019-05-04 10:00:20,4,10,Saturday,Accident on KPE (towards TPE) after Nicoll Highway Entrance
+1376,2019-05-04 09:23:40,4,9,Saturday,Heavy Traffic on PIE (towards Changi Airport) before Toa Payoh Lor 1
+1377,2019-05-04 09:02:49,4,9,Saturday,Accident on PIE (towards Changi Airport) before Toa Payoh Lor 1 with congestion till Lornie Rd. Avoid lane 1
+1378,2019-05-04 08:22:31,4,8,Saturday,Accident on PIE (towards Changi Airport) before Toa Payoh Lor 1 with congestion till Lornie Rd. Avoid lanes 1 and 2
+1379,2019-05-04 08:20:22,4,8,Saturday,Accident on PIE (towards Changi Airport) before Toa Payoh Lor 1. Avoid lanes 1 and 2
+1380,2019-05-04 08:12:08,4,8,Saturday,Accident on TPE (towards SLE) at Punggol Rd Entrance
+1381,2019-05-04 07:48:54,4,7,Saturday,Accident on PIE (towards Tuas) after Stevens Rd Exit with congestion till Toa Payoh Exit. Avoid lane 1
+1382,2019-05-04 07:36:21,4,7,Saturday,Accident on PIE (towards Tuas) after Stevens Rd Exit with congestion till Toa Payoh Exit. Avoid lanes 1 and 2
+1383,2019-05-04 07:32:01,4,7,Saturday,Accident on PIE (towards Tuas) after Stevens Rd Exit. Avoid lanes 1 and 2
+1384,2019-05-04 07:31:19,4,7,Saturday,Accident on PIE (towards Tuas) after Stevens Rd Exit. Avoid lane 1
+1385,2019-05-04 07:29:06,4,7,Saturday,Obstacle on AYE (towards Tuas) after Jurong Port Rd Exit. Avoid lane 1
+1386,2019-05-04 06:52:03,4,6,Saturday,Obstacle on SLE (towards BKE) after Upper Thomson Rd Exit with congestion till Upper Thomson Rd Exit. Avoid lane 3
+1387,2019-05-04 06:47:44,4,6,Saturday,Obstacle on SLE (towards BKE) after Upper Thomson Rd Exit. Avoid lane 3
+1388,2019-05-04 06:42:10,4,6,Saturday,Heavy Traffic on Bukit Timah Road (towards Woodlands) after Balmoral Road
+1389,2019-05-04 06:28:34,4,6,Saturday,Accident on Bukit Timah Road (towards Woodlands) after Balmoral Road with congestion till Cavenagh Road. Avoid right lane
+1390,2019-05-04 06:27:52,4,6,Saturday,Accident on PIE (towards Tuas) at CTE(SLE) Exit with congestion till KPE Exit
+1391,2019-05-04 06:27:08,4,6,Saturday,Accident on PIE (towards Tuas) at CTE(SLE) Exit with congestion till CTE(City) Exit
+1392,2019-05-04 06:21:26,4,6,Saturday,Accident on PIE (towards Tuas) at CTE(SLE) Exit
+1393,2019-05-04 06:15:39,4,6,Saturday,Accident on Bukit Timah Road (towards Woodlands) after Balmoral Road with congestion till Balmoral Road. Avoid right lane
+1394,2019-05-04 05:46:14,4,5,Saturday,Accident on Bukit Timah Road (towards Woodlands) after Balmoral Road. Avoid right lane
+1395,2019-05-04 05:42:41,4,5,Saturday,Accident on Orchard Road (towards Bras Basah Rd) after Grange Road
+1396,2019-05-04 05:40:26,4,5,Saturday,Obstacle on Scotts Road (towards Stevens Road) after Cairnhill Road. Avoid left lane
+1397,2019-05-04 05:39:00,4,5,Saturday,Accident in CTE Tunnel (towards SLE) at Outram Rd Exit
+1398,2019-05-04 05:38:16,4,5,Saturday,Obstacle on Stamford Road (towards Victoria Street) after North Bridge Road
+1399,2019-05-04 05:36:50,4,5,Saturday,Obstacle on Stamford Road (towards Victoria Street) after North Bridge Road. Avoid right lane
+1400,2019-05-04 05:30:59,4,5,Saturday,Accident on BKE (towards Woodlands) at Woodlands Rd Exit
+1401,2019-05-04 05:11:25,4,5,Saturday,Accident on Still Road (towards Eunos) after East Coast Road. Avoid left lane
+1402,2019-05-04 03:54:09,4,3,Saturday,Heavy Traffic on PIE (towards Changi Airport) after Lornie Rd
+1403,2019-05-04 03:40:26,4,3,Saturday,Accident on Bukit Timah Road (towards Woodlands) after Namly Avenue with congestion till Duchess Road. Avoid left lane
+1404,2019-05-04 03:15:34,4,3,Saturday,Accident on Bukit Timah Road (towards Woodlands) after Namly Avenue with congestion till Farrer Road. Avoid left lane
+1405,2019-05-04 03:13:32,4,3,Saturday,Accident on Bukit Timah Road (towards Woodlands) after Namly Avenue. Avoid left lane
+1406,2019-05-04 03:12:18,4,3,Saturday,Accident on PIE (towards Tuas) before Toh Guan Rd Exit. Avoid lanes 2 and 3
+1407,2019-05-04 03:10:56,4,3,Saturday,Accident on PIE (towards Tuas) before Toh Guan Rd Exit. Avoid lane 3
+1408,2019-05-04 03:00:21,4,3,Saturday,Accident on PIE (towards Changi Airport) after Lornie Rd with congestion till Eng Neo Ave
+1409,2019-05-04 02:47:45,4,2,Saturday,Accident on PIE (towards Changi Airport) after Lornie Rd with congestion till Eng Neo Ave. Avoid lanes 3 and 4
+1410,2019-05-04 02:47:45,4,2,Saturday,Accident on Jalan Anak Bukit (towards City) after Old Jurong Road. Avoid right lane
+1411,2019-05-04 02:45:34,4,2,Saturday,Accident on PIE (towards Changi Airport) after Lornie Rd. Avoid lanes 3 and 4
+1412,2019-05-04 02:00:40,4,2,Saturday,Accident on SLE (towards BKE) after Mandai Rd Exit
+1413,2019-05-04 01:53:46,4,1,Saturday,Accident on KPE (towards ECP) after Tampines Rd Exit. Avoid lane 1
+1414,2019-05-04 01:27:29,4,1,Saturday,Accident on SLE (towards BKE) after Mandai Rd Exit. Avoid lane 3
+1415,2019-05-03 23:04:35,3,23,Friday,Accident on PIE (towards Tuas) at BKE(Woodlands) Exit
+1416,2019-05-03 22:22:44,3,22,Friday,Accident in CTE Tunnel (towards SLE) after Cairnhill Circle Entrance
+1417,2019-05-03 20:57:04,3,20,Friday,Accident on Buyong Road (towards Cavenagh Road) after Orchard Road. Avoid right lane
+1418,2019-05-03 16:53:37,3,16,Friday,Accident on BKE (towards Woodlands) after PIE Entrance
+1419,2019-05-03 16:07:23,3,16,Friday,Accident on Lorong 2 Toa Payoh near Lorong 1 Toa Payoh/Lorong 2 Toa Payoh Junction
+1420,2019-05-03 14:50:51,3,14,Friday,Accident on PIE (towards Tuas) after Eng Neo Ave. Avoid lane 4
+1421,2019-05-03 14:43:08,3,14,Friday,Accident on ECP (towards City) before PIE(Tuas) Exit. Avoid lane 3
+1422,2019-05-03 13:39:51,3,13,Friday,Accident on BKE (towards Woodlands) before SLE Exit
+1423,2019-05-03 13:19:44,3,13,Friday,Accident on Choa Chu Kang Drive (towards Choa Chu Kang Way) after Choa Chu Kang North 5. Avoid left lane
+1424,2019-05-03 13:16:53,3,13,Friday,Accident on Choa Chu Kang Drive (towards Choa Chu Kang Way) after Choa Chu Kang North 5
+1425,2019-05-03 12:11:19,3,12,Friday,Heavy Traffic on AYE (towards Tuas) after Buona Vista exit
+1426,2019-05-03 12:05:56,3,12,Friday,Accident on KPE (towards ECP) at Tampines Road Exit
+1427,2019-05-03 12:05:56,3,12,Friday,Obstacle on Adam Road (towards Braddell) after Farrer F/O. Avoid left lane
+1428,2019-05-03 12:03:07,3,12,Friday,Accident on Woodlands Avenue 3 (towards Woodlands Checkpoint) after Woodlands Centre Road
+1429,2019-05-03 11:58:59,3,11,Friday,Obstacle on MCE (towards AYE) at MCE(AYE) Entrance
+1430,2019-05-03 11:57:32,3,11,Friday,Accident on AYE (towards Tuas) after Buona Vista exit with congestion till Normanton Exit. Avoid lane 1
+1431,2019-05-03 11:52:02,3,11,Friday,Accident on AYE (towards Tuas) after Buona Vista exit. Avoid lane 1
+1432,2019-05-03 10:35:28,3,10,Friday,Obstacle on BKE (towards PIE) before PIE Exit. Avoid lane 1
+1433,2019-05-03 10:06:20,3,10,Friday,Obstacle on TPE (towards PIE) after Pasir Ris Dr 8 Exit. Avoid lane 1
+1434,2019-05-03 09:24:25,3,9,Friday,Accident on BKE (towards PIE) at PIE(City) Exit
+1435,2019-05-03 09:23:44,3,9,Friday,Accident on Havelock Road near Eu Tong Sen Street/Havelock Road Junction
+1436,2019-05-03 09:21:42,3,9,Friday,Accident on Jalan Anak Bukit (towards City) after Jalan Jurong Kechil. Avoid left lane
+1437,2019-05-03 09:09:56,3,9,Friday,Accident on BKE (towards PIE) before PIE Exit
+1438,2019-05-03 08:43:41,3,8,Friday,Accident on BKE (towards Woodlands) before Mandai Rd Exit
+1439,2019-05-03 08:32:03,3,8,Friday,Accident on BKE (towards Woodlands) before Mandai Rd Exit. Avoid lanes 3 and 4
+1440,2019-05-03 08:18:39,3,8,Friday,Accident on Upper Serangoon Road (towards Sengkang) after Potong Pasir Avenue 1 with congestion till Potong Pasir Avenue 1
+1441,2019-05-03 07:22:05,3,7,Friday,Heavy Traffic on Bukit Timah Road (towards Woodlands) after Stevens Road
+1442,2019-05-03 07:21:24,3,7,Friday,Obstacle on AYE (towards Tuas ) after Clementi Ave 6 Exit. Avoid lane 1
+1443,2019-05-03 07:09:45,3,7,Friday,Accident on Upper Serangoon Road (towards City) after Upper Aljunied Road with congestion till Bartley Rd
+1444,2019-05-03 07:04:12,3,7,Friday,Accident on Bukit Timah Road (towards Woodlands) after Stevens Road with congestion till Stevens Road
+1445,2019-05-03 06:42:05,3,6,Friday,Accident on Bukit Timah Road (towards Woodlands) after Stevens Road
+1446,2019-05-03 04:15:56,3,4,Friday,Accident on Upper Serangoon Road (towards Sengkang) after Potong Pasir Avenue 1
+1447,2019-05-03 04:14:27,3,4,Friday,Accident on Upper Serangoon Road (towards City) after Upper Aljunied Road
+1448,2019-05-03 03:01:08,3,3,Friday,Accident on AYE (towards MCE) after Jalan Boon Lay Exit. Avoid lane 2
+1449,2019-05-03 02:50:35,3,2,Friday,Accident on Hougang Avenue 7 (towards Hougang Avenue 5) after Hougang Street 32
+1450,2019-05-03 01:32:02,3,1,Friday,Accident on KPE (towards ECP) before Airport Rd Entrance with congestion till Airport Rd Exit. Avoid lane 2
+1451,2019-05-03 01:31:21,3,1,Friday,Accident on KPE (towards ECP) before Airport Rd Entrance. Avoid lane 2
+1452,2019-05-03 01:14:45,3,1,Friday,Accident on MCE (towards AYE) before Maxwell Rd Exit. Avoid lane 1
+1453,2019-05-03 00:58:53,3,0,Friday,Accident on AYE (towards Tuas) after Lower Delta Rd Exit. Avoid lane 1
+1454,2019-05-03 00:49:08,3,0,Friday,Accident on KPE (towards ECP) after Tampines Rd Exit. Avoid lane 1
+1455,2019-05-02 23:23:10,2,23,Thursday,Accident on KPE (towards ECP) after Airport Rd Entrance. Avoid lane 1
+1456,2019-05-02 23:10:00,2,23,Thursday,Accident on Marine Parade Road near Marine Parade Road/Siglap Road Junction
+1457,2019-05-02 23:09:22,2,23,Thursday,Heavy Traffic on TPE (towards PIE) after Pasir Ris Dr 12 Exit
+1458,2019-05-02 22:56:03,2,22,Thursday,Accident on TPE (towards PIE) after Pasir Ris Dr 12 Exit with congestion till Punggol Rd Exit. Avoid lane 1
+1459,2019-05-02 22:49:41,2,22,Thursday,Accident on TPE (towards PIE) after Pasir Ris Dr 12 Exit with congestion till KPE Exit. Avoid lane 1
+1460,2019-05-02 22:09:48,2,22,Thursday,Accident on TPE (towards PIE) after Pasir Ris Dr 12 Exit. Avoid lane 1
+1461,2019-05-02 22:07:45,2,22,Thursday,Accident on TPE (towards PIE) before Pasir Ris Dr 12 Exit. Avoid lane 1
+1462,2019-05-02 21:28:31,2,21,Thursday,"Accident on PIE (towards Changi Airport) before Eng Neo Ave. Avoid lanes 2, 3 and 4"
+1463,2019-05-02 21:23:09,2,21,Thursday,Accident on PIE (towards Changi Airport) before Eng Neo Ave. Avoid lanes 2 and 3
+1464,2019-05-02 18:36:19,2,18,Thursday,Accident on AYE (towards Tuas) at Clementi Rd Entrance
+1465,2019-05-02 17:27:10,2,17,Thursday,Accident on AYE (towards MCE) after Pioneer Rd Exit
+1466,2019-05-02 16:55:02,2,16,Thursday,Accident on AYE (towards MCE) after Pioneer Rd Exit. Avoid lane 1
+1467,2019-05-02 15:02:37,2,15,Thursday,Accident on PIE (towards Tuas) after Eng Neo Ave
+1468,2019-05-02 15:00:25,2,15,Thursday,Accident on PIE (towards Tuas) after Eng Neo Ave with congestion till Eng Neo Ave
+1469,2019-05-02 14:36:09,2,14,Thursday,Accident on Ghim Moh Road near Commonwealth Avenue West/Ghim Moh Road Junction
+1470,2019-05-02 14:33:18,2,14,Thursday,Accident on Commonwealth Avenue West (towards City) after Ghim Moh Link. Avoid left lane
+1471,2019-05-02 14:28:27,2,14,Thursday,Accident on PIE (towards Tuas) after Eng Neo Ave with congestion till Eng Neo Ave. Avoid lanes 3 and 4
+1472,2019-05-02 14:15:58,2,14,Thursday,Accident on PIE (towards Tuas) after Eng Neo Ave. Avoid lanes 3 and 4
+1473,2019-05-02 14:14:31,2,14,Thursday,Accident on PIE (towards Tuas) after Eng Neo Ave. Avoid lane 4
+1474,2019-05-02 11:44:00,2,11,Thursday,Accident on AYE (towards Tuas) before Clementi Ave 2 Exit
+1475,2019-05-02 11:40:28,2,11,Thursday,Accident on PIE (towards Changi Airport) after Jalan Eunos with congestion till Paya Lebar Rd. Avoid lane 1
+1476,2019-05-02 11:38:34,2,11,Thursday,Accident on PIE (towards Changi Airport) after Jalan Eunos. Avoid lane 1
+1477,2019-05-02 11:03:31,2,11,Thursday,Accident on PIE (towards Tuas) after Stevens Rd Exit. Avoid lane 1
+1478,2019-05-02 10:30:27,2,10,Thursday,"Temporary Closure of Slip Roads at Sentosa Gateway Tunnel from midnight to 5.00 a.m daily, starting 8 May 2019. More details: http://bit.ly/2ZSi3MD #sgtraffic"
+1479,2019-05-02 10:29:30,2,10,Thursday,"Temporary Road Closure along Kim Seng Road on Tuesday, 7 May 2019 and Wednesday, 8 May 2019 from 1.00 a.m to 6.00 a.m daily. #sgtraffic http://bit.ly/2DH73IM"
+1480,2019-05-02 10:29:05,2,10,Thursday,Temporary Closure of Slip Roads at CTE Tunnel on 7-9 and 21-23 May 2019 from midnight to 5.00 a.m daily. #sgtraffic http://bit.ly/2H3SJuP
+1481,2019-05-02 10:28:05,2,10,Thursday,Temporary Road Closure at Woodsville Tunnel on 9 May 2019 and 16 May 2019 from midnight to 5.00 a.m. #sgtraffic http://bit.ly/2VDwqVP
+1482,2019-05-02 10:27:07,2,10,Thursday,"Temporary Road Closure along TPE (SLE) and Slip Road from KPE (TPE) to TPE (SLE) from Tuesday, 7 May 2019 to Saturday, 11 May 2019 from midnight to 5.00 a.m. #sgtraffic http://bit.ly/2VC2VUx"
+1483,2019-05-02 10:00:22,2,10,Thursday,Accident on PIE (towards Changi Airport) before Pioneer Rd Nth with congestion till Pasir Laba
+1484,2019-05-02 09:39:31,2,9,Thursday,Accident on AYE (towards Tuas) after Pioneer Rd Exit
+1485,2019-05-02 09:31:18,2,9,Thursday,Accident on PIE (towards Changi Airport) before Pioneer Rd Nth with congestion till Pasir Laba. Avoid lanes 1 and 2
+1486,2019-05-02 09:26:22,2,9,Thursday,Accident on PIE (towards Changi Airport) before Pioneer Rd Nth. Avoid lanes 1 and 2
+1487,2019-05-02 09:10:09,2,9,Thursday,Accident on AYE (towards Tuas) after Pioneer Rd Exit. Avoid lane 2
+1488,2019-05-02 08:44:40,2,8,Thursday,Obstacle on PIE (towards Tuas) after BKE. Avoid lane 1
+1489,2019-05-02 08:31:35,2,8,Thursday,Accident on Scotts Road (towards Stevens Road) after Cairnhill Road
+1490,2019-05-02 08:16:54,2,8,Thursday,Obstacle on PIE (towards Tuas) before Clementi Ave 6 Exit. Avoid lane 3
+1491,2019-05-02 07:59:29,2,7,Thursday,Accident on Marymount Road towards Ang Mo Kio Avenue 1. Avoid left lane
+1492,2019-05-02 07:40:30,2,7,Thursday,Obstacle on KJE (towards PIE) after BKE Entrance
+1493,2019-05-02 07:27:14,2,7,Thursday,Accident on PIE (towards Tuas) before KPE Exit
+1494,2019-05-02 07:19:23,2,7,Thursday,Accident on PIE (towards Tuas) before KPE Exit with congestion till Jalan Eunos
+1495,2019-05-02 06:59:00,2,6,Thursday,Accident on PIE (towards Tuas) before KPE Exit with congestion till Jalan Eunos. Avoid lane 2
+1496,2019-05-02 06:51:11,2,6,Thursday,Accident on Balestier Road (towards Pegu Road) after Martaban Road
+1497,2019-05-02 06:49:43,2,6,Thursday,Accident on PIE (towards Tuas) before KPE Exit. Avoid lane 2
+1498,2019-05-02 06:20:26,2,6,Thursday,Obstacle on SLE (towards BKE) after TPE Entrance. Avoid lane 6
+1499,2019-05-02 06:19:05,2,6,Thursday,Obstacle on SLE (towards BKE) after TPE Entrance. Avoid lane 5
+1500,2019-05-02 02:54:02,2,2,Thursday,Accident on KPE (towards ECP) before PIE(Tuas) Exit with congestion till Airport Rd Entrance. Avoid lane 3
+1501,2019-05-02 02:27:05,2,2,Thursday,Accident on KPE (towards ECP) before PIE(Tuas) Exit. Avoid lane 3
+1502,2019-05-01 23:49:31,1,23,Wednesday,Accident on AYE (towards MCE) after Clementi Rd Exit
+1503,2019-05-01 23:47:28,1,23,Wednesday,Accident on Jalan Besar (towards City) after Kitchener Road. Avoid left lane
+1504,2019-05-01 23:15:40,1,23,Wednesday,Accident on AYE (towards Tuas) before Buona Vista exit. Avoid lane 5
+1505,2019-05-01 23:10:55,1,23,Wednesday,Accident on PIE (towards Tuas) at Jurong Town Hall Rd Entrance
+1506,2019-05-01 16:01:00,1,16,Wednesday,Accident on SLE (towards CTE) before Upper Thomson Rd Exit
+1507,2019-05-01 15:55:23,1,15,Wednesday,Accident on SLE (towards CTE) before Lentor Ave Exit
+1508,2019-05-01 15:40:59,1,15,Wednesday,Accident on BKE (towards Woodlands) at KJE(PIE) Exit
+1509,2019-05-01 11:16:18,1,11,Wednesday,Accident on Lorong 2 Toa Payoh (towards Lorong 1 Toa Payoh) after Lorong 6 Toa Payoh. Avoid left lane
+1510,2019-05-01 10:50:47,1,10,Wednesday,Obstacle on PIE (towards Changi Airport) after Lornie Rd
+1511,2019-05-01 10:08:30,1,10,Wednesday,Obstacle in Woodsville Tunnel (towards Upper Serangoon)
+1512,2019-05-01 10:01:47,1,10,Wednesday,Obstacle in Woodsville Tunnel (towards Upper Serangoon). Avoid lane 2
+1513,2019-05-01 09:54:51,1,9,Wednesday,Accident on SLE (towards BKE) after Lentor Ave Exit
+1514,2019-05-01 07:53:08,1,7,Wednesday,Obstacle on PIE (towards Tuas) after ECP Entrance. Avoid lane 2
+1515,2019-05-01 05:19:55,1,5,Wednesday,Obstacle on CTE (towards SLE) after Jalan Bahagia Exit with congestion till Moulmein Rd Exit. Avoid lane 3
+1516,2019-05-01 05:12:16,1,5,Wednesday,Obstacle on CTE (towards SLE) after Jalan Bahagia Exit. Avoid lane 3
+1517,2019-05-01 05:10:07,1,5,Wednesday,Obstacle on CTE (towards SLE) after Jalan Bahagia Exit. Avoid lanes 2 and 3
+1518,2019-05-01 05:09:26,1,5,Wednesday,Obstacle on CTE (towards SLE) after Jalan Bahagia Exit. Avoid lanes 3 and 4
+1519,2019-05-01 03:24:11,1,3,Wednesday,Obstacle on MCE (towards AYE) before Maxwell Rd Exit. Avoid lane 5
+1520,2019-05-01 01:11:59,1,1,Wednesday,Accident on Pasir Ris Drive 1 near Pasir Ris Central/Pasir Ris Drive 1 Junction
+1521,2019-05-01 00:53:19,1,0,Wednesday,Accident on BKE (towards PIE) at PIE(City) Exit
+1522,2019-05-01 00:53:19,1,0,Wednesday,Accident on PIE (towards Changi Airport) after BKE
