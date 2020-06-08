@@ -6,7 +6,7 @@ from time import time
 startTime = time()
 print('Starting crawler...\n')
 
-_INTERESTED_YEARS = tuple(range(2014, 2019))
+_INTERESTED_YEARS = tuple(2019)
 _MONTHS = tuple(range(1, 13))
 print('Scraping location IDs...')
 _LOCATIONS = getLocationID()
