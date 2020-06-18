@@ -1,36 +1,46 @@
-#Example: scikit-learn and Swagger
+import requests
 import json
-import numpy as np
-import os
-from sklearn.externals import joblib
-from sklearn.linear_model import Ridge
+import pandas as pd
 
-from inference_schema.schema_decorators import input_schema, output_schema
-from inference_schema.parameter_types.numpy_parameter_type import NumpyParameterType
+# URL for the web service
+scoring_uri = 'http://50f50db3-ce0c-4d72-bc04-653e319f8723.southeastasia.azurecontainer.io/score'
+# If the service is authenticated, set the key or token
+key = 'LvalDhJvRqMg26KsehDKwYiawGCMLCDi'
 
+# Two sets of data to score, so we get two results back
+data = {"data":
+        pd.DataFrame({'Column1': pd.Series(['0'], dtype='int64'),
+                      'trj_id': pd.Series(['68140'], dtype='int64'),
+                      'day': pd.Series(['9'], dtype='int64'),
+                      'month': pd.Series(['4'], dtype='int64'),
+                      'osname': pd.Series(['ios'], dtype='object'),
+                      'avg_speed': pd.Series(['18.89527788'], dtype='float64'),
+                      'avg_bearing': pd.Series(['197.5061677'], dtype='float64'),
+                      'hour': pd.Series(['1'], dtype='int64'),
+                      'day of week': pd.Series(['1'], dtype='int64'),
+                      'is_Weekday': pd.Series(['1'], dtype='int64'),
+                      'time_group': pd.Series(['late night'], dtype='object'),
+                      'origin_lat': pd.Series(['1.365545977'], dtype='float64'),
+                      'origin_lng': pd.Series(['103.9665453'], dtype='float64'),
+                      'dest_lat': pd.Series(['1.280101083'], dtype='float64'),
+                      'dest_lng': pd.Series(['103.8738231'], dtype='float64'),
+                      'origin_region': pd.Series(['EAST REGION'], dtype='object'),
+                      'origin_subregion': pd.Series(['PASIR RIS'], dtype='object'),
+                      'dest_region': pd.Series(['CENTRAL REGION'], dtype='object'),
+                      'dest_subregion': pd.Series(['MARINA SOUTH'], dtype='object'),
+                      'euclid_dist': pd.Series(['14018.34497'], dtype='float64'),
+                      'origin_avg_daily_rainfall': pd.Series(['0.2'], dtype='float64'),
+                      'dest_avg_daily_rainfall': pd.Series(['0.0'], dtype='float64')})
 
-def init():
-    global model
-    # AZUREML_MODEL_DIR is an environment variable created during deployment. Join this path with the filename of the model file.
-    # It holds the path to the directory that contains the deployed model (./azureml-models/$MODEL_NAME/$VERSION).
-    # If there are multiple models, this value is the path to the directory containing all deployed models (./azureml-models).
-    # Alternatively: model_path = Model.get_model_path('sklearn_mnist')
-    model_path = os.path.join(os.getenv('AZUREML_MODEL_DIR'), 'sklearn_mnist_model.pkl')
-    # Deserialize the model file back into a sklearn model
-    model = joblib.load(model_path)
+        }
+# Convert to JSON string
+input_data = json.dumps(data)
 
+# Set the content type
+headers = {'Content-Type': 'application/json'}
+# If authentication is enabled, set the authorization header
+headers['Authorization'] = f'Bearer {key}'
 
-input_sample = np.array([[10, 9, 8, 7, 6, 5, 4, 3, 2, 1]])
-output_sample = np.array([3726.995])
-
-
-@input_schema('data', NumpyParameterType(input_sample))
-@output_schema(NumpyParameterType(output_sample))
-def run(data):
-    try:
-        result = model.predict(data)
-        # You can return any data type, as long as it is JSON serializable.
-        return result.tolist()
-    except Exception as e:
-        error = str(e)
-        return error
+# Make the request and display the response
+resp = requests.post(scoring_uri, input_data, headers=headers)
+print(resp.text)
