@@ -35,7 +35,7 @@ predictions.append(predict(test_data[i], endpoint))
 
 predictions
 ```
-  3. The ``endpoint`` and authentication objects are specified in our submission slides. Please change the following to the specified URI in your code as specified below:
+  3. The ``endpoint`` and authentication objects are specified in our submission slides. Please change the following to the specified URI in your prediction.py as specified below:
 
 <pre>
 endpoint = '<b>localhost:8888</b>'
