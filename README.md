@@ -1,6 +1,6 @@
 # Microsoft Azure Hackathon 2020
-## Grab Data Science Challenge
-
+## Grab Data Science Challenge - Hadilao
+Natalie Lam, Benedict Tay, Yang Ming
 
 ## Steps
   1. Input data should be a list of JSON objects, each JSON object should have these specified attributes as the example shown below:
@@ -35,7 +35,7 @@ predictions.append(predict(test_data[i], endpoint))
 
 predictions
 ```
-  3. The ``endpoint`` and authentication objects are specified in our submission slides. Please change the following to the specified URI in your prediction.py as specified below:
+  3. The ``endpoint`` and authentication objects are specified in our submission slides. Please change the <b>endpoint</b> in the code chunk in your prediction.py to the given URI:
 
 <pre>
 endpoint = '<b>localhost:8888</b>'
