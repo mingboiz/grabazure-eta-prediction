@@ -1,35 +1,54 @@
-# grabazure-eta-prediction
-Microsoft Azure Hackathon 2020 - Grab Data Science Chal
+# Microsoft Azure Hackathon 2020
+## Grab Data Science Challenge
+
 
 ## Steps
-When importing the dataset UNSELECT:
-1.	trj_id
-2.	avg_speed
-3.	osname
-4.	day
-5.	month
+  1. Input data should be a list of JSON objects, each JSON object should have these specified attributes as the example shown below:
 
-When creating Automated ML:
-1.	Select Regression 
-2.	For featurization settings specify the column dtypes:
-a.	Avg_bearing: numeric
-b.	Day of week: categorical
-c.	Is_weekday: categorical
-d.	Hour: categorical
-e.	Time_group: categorical
-f.	Origin_avg_daily_rainfall: numeric
-g.	Dest_avg_daily_rainfall: numeric
-h.	Origin_lat: numeric
-i.	Origin_lng: numeric
-j.	Dest_lat: numeric
-k.	Dest_lng: numeric
-l.	Origin_region: categorical
-m.	Origin_subregion: categorical
-n.	Dest_region: categorical
-o.	Dest_subregion: categorical
-p.	Euclid_dist: numeric
-3.	Select the primary metrics to be ‘normalsed root mean squared error’
-4.	Validation: k-fold cross validation = 5
+```dotnetcli
+input_data = [
+    {"latitude_origin": -6.141255,
+    "longitude_origin": 106.692710,
+    "latitude_destination": -6.141150,
+    "longitude_destination": 106.693154,
+    "timestamp": 1590487113,
+    "hour_of_day": 9,
+    "day_of_week": 1
+    },
+    {"latitude_origin": -3.14159,
+    "longitude_origin": 108.123710,
+    "latitude_destination": -3.141150,
+    "longitude_destination": 106.621154,
+    "timestamp": 1590481313,
+    "hour_of_day": 5,
+    "day_of_week": 2
+    },
+    ...
+]
+```
+  2. You can populate the `` predictions `` array to with the predicted outputs from our Model to calculate RMSE.
 
-After it has completed, this should be the feature importance ranking, we might exclude the origin and dest region and subregions 
+```dotnetcli
+predictions = list()
+for i in range(len(test_data)):
+predictions.append(predict(test_data[i], endpoint))
 
+predictions
+```
+  3. The ``endpoint`` and authentication objects are specified in our submission slides. Please change the following to the specified URI in your code as specified below:
+
+<pre>
+endpoint = '<b>localhost:8888</b>'
+
+'''
+Input data should be a list of json objects
+    each json object should have those attributes as specified:
+            lattitude_origin
+            longitude_origin
+            lattitude_destination
+            longitude_destination
+            timestamp
+            hour_of_day
+            day_of_week
+'''
+</pre>
