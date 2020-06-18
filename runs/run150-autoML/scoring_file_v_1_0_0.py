@@ -13,7 +13,7 @@ from inference_schema.schema_decorators import input_schema, output_schema
 from inference_schema.parameter_types.numpy_parameter_type import NumpyParameterType
 from inference_schema.parameter_types.pandas_parameter_type import PandasParameterType
 
-
+input_sample = pd.read_csv('train.csv', header=0)
 input_sample = pd.DataFrame({'Column1': pd.Series(['0'], dtype='int64'),
                              'trj_id': pd.Series(['68140'], dtype='int64'),
                              'day': pd.Series(['9'], dtype='int64'),
