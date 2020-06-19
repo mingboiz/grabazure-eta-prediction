@@ -29,7 +29,7 @@ input_data = [
     ...
 ]
 ```
-  2. You can populate the `` predictions `` array to with the predicted outputs from our Model to calculate RMSE. The ```predict()``` function takes as input a single JSON object, and outputs the prediction for that JSON object.
+  2. You can populate the `` predictions `` array to with the predicted outputs from our Model to calculate RMSE. The ```predict()``` function takes as input a single JSON object and an endpoint, and outputs the prediction for that JSON object.
 
 ```dotnetcli
 predictions = list()
