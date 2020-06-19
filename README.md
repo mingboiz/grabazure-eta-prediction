@@ -26,14 +26,12 @@ input_data = [
     ...
 ]
 ```
-  2. You can populate the `` predictions `` array to with the predicted outputs from our Model to calculate RMSE.
+  2. You can populate the `` predictions `` array to with the predicted outputs from our Model to calculate RMSE. The ```predict()``` function takes as input a single JSON object, and outputs the prediction for that JSON object.
 
 ```dotnetcli
 predictions = list()
 for i in range(len(test_data)):
 predictions.append(predict(test_data[i], endpoint))
-
-predictions
 ```
   3. The ``endpoint`` and authentication objects are specified in our submission slides. Please change the <b>endpoint</b> in the code chunk in your prediction.py to the given URI:
 
@@ -41,14 +39,15 @@ predictions
 endpoint = '<b>localhost:8888</b>'
 
 '''
-Input data should be a list of json objects
-    each json object should have those attributes as specified:
-            lattitude_origin
-            longitude_origin
-            lattitude_destination
-            longitude_destination
-            timestamp
-            hour_of_day
-            day_of_week
+Input data should be a list of json objects.
+
+Each json object should have those attributes as specified:
+        lattitude_origin
+        longitude_origin
+        lattitude_destination
+        longitude_destination
+        timestamp
+        hour_of_day
+        day_of_week
 '''
 </pre>
