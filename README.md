@@ -3,6 +3,9 @@
 Natalie Lam, Benedict Tay, Yang Ming
 
 ## Steps
+
+### Make use of notebook 'prediction.ipynb' in the repository to make predictions using the endpoint
+
   1. Input data should be a list of JSON objects, each JSON object should have these specified attributes as the example shown below:
 
 ```dotnetcli
