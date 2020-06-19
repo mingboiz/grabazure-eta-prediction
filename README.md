@@ -1,5 +1,5 @@
 # Microsoft Azure Hackathon 2020
-## Grab Data Science Challenge - Hadilao
+## Grab Data Science Challenge - Haidilao
 Natalie Lam, Benedict Tay, Yang Ming
 
 ## Steps
