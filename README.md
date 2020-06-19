@@ -34,7 +34,7 @@ input_data = [
 ```dotnetcli
 predictions = list()
 for i in range(len(test_data)):
-predictions.append(predict(test_data[i], endpoint))
+    predictions.append(predict(test_data[i], endpoint))
 ```
   3. The ``endpoint`` and authentication objects are specified in our submission slides. Please change the <b>endpoint</b> in the code chunk in your prediction.py to the given URI:
 
